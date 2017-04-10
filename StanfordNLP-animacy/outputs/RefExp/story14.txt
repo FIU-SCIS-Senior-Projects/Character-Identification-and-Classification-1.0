@@ -1,0 +1,594 @@
+Gentlemen of the guard&12~5246&12
+a chest of money&74~5535&75
+the guards&12~5245&12
+she&12~5244&12
+this maid&8~5219&8
+her maidservant&8~5218&8
+her&8~5217&8
+tears&8~5216&8
+the letter&8~5215&8
+merchant&8~5214&8
+The merchant 's daughter&8~5213&8
+the cattle&25~5296&25
+her&25~5295&25
+He&25~5294&25
+he&96~5676&96
+here&96~5675&97
+him&96~5674&97
+a drive&96~5673&97
+some lord&96~5672&97
+she&46~5399&47
+myself&3~5193&3
+a bride&3~5192&3
+I&3~5191&3
+him&3~5190&3
+the old man&54~5448&49
+you&33~5335&33
+an eye&54~5447&50
+they&33~5334&33
+me&54~5446&51
+him&100~5705&97
+you&100~5704&98
+the queen&100~5703&100
+the king&100~5702&101
+little mother&100~5701&98
+an eye&39~7908&39
+The king&3~5189&3
+your old hut&75~5545&76
+that peasant girl&13~5255&13
+your&75~5544&76
+we&13~5254&13
+you&75~5543&75
+you&13~5253&13
+this glass house&75~5542&76
+We&13~5252&13
+You&75~5541&76
+They&13~5251&13
+the marriage&9~5227&9
+the king&9~5226&9
+dresses that were alike&9~5225&9
+They&9~5224&9
+him&97~5684&97
+you , little mother&97~5683&98
+his queen&97~5682&98
+his&97~5681&98
+his palace&97~5680&98
+the garden&101~5721&102
+the king&101~5720&101
+a shop&26~5299&26
+the old man&26~5298&26
+She&26~5297&26
+an eye&55~5456&55
+him&55~5455&50
+his wife&55~5454&56
+his&55~5453&56
+his&97~5679&98
+the boy&97~5678&98
+a prisoner&55~5452&56
+He&97~5677&92
+a guard&55~5450&56
+the garden&101~5719&102
+the boy&101~5718&98
+the field&101~5717&102
+the king&101~5716&101
+the field&101~5715&102
+the boy&101~5714&98
+the street&101~5713&102
+the king&101~5712&101
+the street&101~5711&102
+the boy&101~5710&98
+she&4~5199&4
+what a man is thinking&4~5198&4
+she&4~5197&4
+a beautiful daughter&4~5196&4
+I&4~5195&4
+The merchant&4~5194&4
+the crown&34~5338&34
+the palace&34~5337&34
+The old man&34~5336&34
+The king&55~5449&54
+him&101~5709&101
+the king&101~5708&101
+the yard&101~5707&102
+The boy&101~5706&102
+they&14~5260&14
+the palace&84~5601&85
+the ground&84~5600&85
+the maid&14~5259&14
+he&14~5258&14
+a visit&76~5547&77
+the king&14~5257&14
+I&76~5546&71
+They&14~5256&14
+he&98~5689&96
+him&98~5688&98
+me&56~5462&51
+they&98~5687&99
+a great help to me&56~5461&57
+him&98~5686&98
+you&56~5460&51
+the boy&98~5685&98
+the maiden&102~5724&100
+the king&102~5723&102
+There&102~5722&103
+little mother&56~5459&57
+her&56~5458&57
+payment&35~5345&35
+The king&56~5457&56
+an eye&35~5344&35
+the old man&35~5343&35
+him&35~5342&35
+it&35~5341&35
+it&35~5340&35
+Everyone&35~5339&35
+little pieces&77~5551&78
+I&77~5550&77
+her pocket&85~5609&86
+her&85~5608&85
+it&85~5607&83
+an egg&85~5606&86
+it&85~5605&83
+the heart&85~5604&86
+them&85~5603&84
+The queen&85~5602&86
+tomorrow&77~5549&78
+I&77~5548&77
+he&99~5699&99
+the boy&99~5698&99
+it&99~5697&94
+maiden&99~5696&100
+the maiden 's heart&99~5695&100
+she&99~5694&100
+the egg she had made from the maiden 's heart&99~5693&100
+her pocket&99~5692&100
+her&99~5691&100
+my maidservant&103~5734&104
+the queen&99~5690&100
+my&103~5733&104
+your queen&103~5732&104
+your&103~5731&104
+merchant&103~5730&104
+an eye&55~7909&55
+these crowns&57~5466&58
+you&57~5465&57
+the old man&57~5464&55
+The king&57~5463&57
+your bride , the merchant 's daughter&103~5729&104
+your&103~5728&104
+I&103~5727&104
+him&103~5726&98
+She&103~5725&104
+an eye&36~5348&36
+he&36~5347&36
+the king&36~5346&36
+tears&86~5613&87
+a hut&86~5612&87
+a glass house&86~5611&87
+The old man&86~5610&87
+a carriage&80~5562&81
+her&80~5561&80
+the guards&80~5560&81
+them&78~5557&79
+my remains&78~5556&79
+my&78~5555&79
+a coffin&78~5554&79
+the morning&78~5553&79
+Arise in the morning , make a coffin , gather my remains , and bury them&78~5552&79
+me&58~5470&55
+the palace&104~5736&105
+They&104~5735&105
+them&58~5469&59
+God&58~5468&59
+He&58~5467&59
+an eye&37~5353&37
+the old man&37~5352&37
+it&37~5351&37
+the crown&37~5350&37
+her&81~5570&81
+The king&37~5349&37
+she&15~5265&15
+me&15~5264&15
+The merchant&15~5263&15
+himself&15~5262&15
+The king&15~5261&15
+his appointed task&87~5617&88
+she&81~5569&82
+his&87~5616&88
+her&81~5568&81
+he&87~5615&88
+the queen&81~5567&82
+He&87~5614&88
+king&81~5566&82
+the king 's palace&81~5565&82
+her&81~5564&81
+They&81~5563&82
+her&79~5559&80
+The old man&79~5558&80
+the palace&59~5472&60
+he&59~5471&60
+her feet&105~5739&106
+her&105~5738&100
+The queen&105~5737&106
+his own land&88~5631&89
+me&82~5583&83
+his&88~5630&88
+it&82~5582&83
+her heart&82~5581&83
+her&82~5580&82
+his&38~5358&38
+the old man&38~5357&38
+the king&38~5356&38
+him&38~5355&38
+The king&38~5354&38
+table&65~5501&66
+him&65~5500&66
+them&88~5629&84
+the coffin&88~5628&89
+them&88~5627&84
+little pieces&82~5579&78
+all the pieces&88~5626&89
+her&82~5578&82
+her&88~5625&83
+cut her into little pieces at once , take out her heart , and bring it to me&82~5577&83
+the earth&88~5624&89
+home&82~5576&83
+her&88~5623&83
+this maiden&82~5575&83
+he&88~5622&88
+you&82~5574&83
+the maiden&88~5621&89
+the guards&82~5573&81
+a coffin&88~5620&89
+the courtyard&82~5572&83
+She&82~5571&83
+she&16~5266&16
+He made a coffin and went to seek the maiden ; he found her in the earth , dug her up , gathered all the pieces , put them in the coffin , and buried them in his own land&88~5619&89
+He&88~5618&88
+the blind maiden&60~5477&61
+the eye&60~5476&61
+his hut&60~5475&61
+his&60~5474&56
+He&60~5473&59
+she&106~5741&107
+me&106~5740&107
+me&83~5593&83
+them&83~5592&79
+they&83~5591&84
+what they wanted to do&83~5590&84
+a captive soldier&39~5363&39
+his guards&39~5361&39
+his&39~5360&39
+she&83~5589&82
+her&83~5588&83
+merchant&89~5636&84
+the merchant 's daughter&89~5635&84
+home&83~5587&83
+merchant&83~5586&84
+he&89~5634&89
+the merchant 's daughter&83~5585&84
+all this&89~5633&90
+They&83~5584&82
+The king&89~5632&90
+the king&39~5359&39
+him&66~5505&66
+the maiden&66~5504&67
+there&66~5503&67
+He&66~5502&61
+anything&17~5268&17
+She&17~5267&17
+both eyes&61~5485&62
+its socket&61~5484&62
+its&61~5483&62
+the king&40~5370&40
+it&61~5482&62
+the eye&61~5481&61
+twilight&61~5480&62
+a garden&90~5643&91
+she&90~5642&91
+the spot where she was buried&90~5641&91
+maiden&90~5640&89
+it&40~5369&40
+her pocket&40~5368&40
+her&40~5367&40
+outside&61~5479&62
+an eye&40~5366&40
+She&61~5478&62
+his wife , the queen&40~5365&40
+gold thread&46~5412&47
+his&40~5364&40
+velvet&46~5411&47
+more velvet and gold thread&46~5410&47
+merchant&107~5745&104
+the merchant 's daughter&107~5744&104
+her&84~5599&84
+me&107~5743&107
+her heart&84~5598&83
+You&107~5742&108
+house&90~5639&87
+her&84~5597&84
+the place&90~5638&91
+pieces&84~5596&83
+he&90~5637&90
+her&84~5595&84
+They&84~5594&84
+velvet&46~5409&47
+silk&46~5408&47
+the silk and velvet&46~5407&47
+he&46~5406&43
+what he owed for the silk and velvet&46~5405&47
+him&46~5404&46
+money&46~5403&47
+him&46~5402&46
+the shops&46~5401&47
+such and such a place&67~5513&68
+the old man&46~5400&43
+a house&67~5512&68
+little mother&67~5511&68
+his queen&67~5510&68
+you , grandfather&20~5282&20
+him&20~5281&20
+She&20~5280&20
+her&18~5274&18
+his&67~5509&68
+her maid&18~5273&18
+his palace&67~5508&68
+her&18~5272&18
+his&67~5507&68
+the illness that her maid had brought upon her&18~5271&18
+He&67~5506&67
+merchant&18~5270&18
+a glass house&62~5490&63
+the merchant 's daughter&18~5269&18
+a garden&91~5652&91
+maiden&91~5651&91
+the open field&110~5765&111
+house&91~5650&91
+her death&110~5764&111
+her&110~5763&110
+a horse&110~5762&110
+she&110~5761&107
+maidservant&110~5760&111
+herself&62~5489&63
+she&62~5488&63
+the hut&62~5487&63
+She&62~5486&62
+The king&41~5371&41
+I&91~5649&92
+little pieces&108~5751&109
+I&91~5648&92
+me&108~5750&108
+`` I drove and drove , but I found neither house nor maiden , only a garden . ''&91~5647&92
+the queen&91~5646&92
+the palace&91~5645&92
+The maidservant 's eyes&110~5759&111
+He&91~5644&88
+merchant&47~5419&48
+the merchant 's daughter&47~5418&48
+these things&47~5417&48
+the poor shopkeeper&47~5416&48
+he&47~5415&47
+silk&26~5302&26
+what he needed&47~5414&48
+velvet and silk&26~5301&26
+He&47~5413&45
+velvet&26~5300&26
+you&108~5749&109
+my eyes&108~5748&109
+my&108~5747&104
+you&108~5746&109
+I&70~5525&71
+eyes&70~5524&71
+the same maiden whose eyes I cut out&70~5523&71
+It&70~5522&71
+herself&70~5521&71
+who it was&70~5520&71
+it&68~5515&69
+a maiden&68~5514&69
+it&4~5200&4
+a little hut&21~5284&21
+I&21~5283&21
+The queen&70~5519&71
+cattle&19~5279&19
+an old man tending cattle&19~5278&19
+she&19~5277&19
+she&19~5276&19
+She&19~5275&19
+his hut&42~5381&43
+his&42~5380&38
+such a fine house&63~5493&64
+this marvel&63~5492&64
+The king&63~5491&58
+me&50~5434&51
+it&50~5433&46
+that garden&92~5658&93
+God&50~5432&51
+the guards&92~5657&93
+this crown&50~5431&51
+the courtyard&92~5656&93
+you&50~5430&51
+she&92~5655&91
+this&92~5654&90
+the queen&92~5653&92
+the young queen&111~5767&112
+the king&111~5766&112
+the palace&42~5379&43
+it&42~5378&37
+the old man&42~5377&37
+the same king&48~5424&49
+the eye&42~5376&43
+he&42~5375&43
+the old man&48~5423&43
+little queen&42~5374&42
+it&48~5422&43
+me&42~5373&42
+another crown&48~5421&49
+you&42~5372&42
+She&48~5420&46
+you&50~5429&51
+the field&109~5758&110
+a horse&109~5757&110
+her&109~5756&106
+her eyes&109~5755&110
+her&109~5754&106
+Guards&109~5753&110
+The king&109~5752&110
+some&27~5309&27
+him&27~5308&27
+a poor shopkeeper&27~5307&27
+goods&27~5306&27
+him&27~5305&27
+the wealthy merchants&27~5304&27
+The old man&27~5303&27
+the queen&71~5528&72
+the maiden&71~5527&67
+The king&71~5526&72
+it&69~5518&69
+she&69~5517&70
+his guards&5~5204&5
+what one is thinking&69~5516&70
+his&5~5203&5
+a letter&5~5202&5
+The king&5~5201&5
+your hut&22~5287&22
+your&22~5286&22
+me&22~5285&22
+stone&93~5663&94
+it&93~5662&94
+it&93~5661&94
+the garden&93~5660&94
+gold&112~5771&113
+her&112~5770&110
+little grandfather&43~5387&44
+my eye&43~5386&44
+my&43~5385&44
+merchant&64~5497&65
+you&43~5384&42
+the merchant 's daughter&64~5496&65
+him&43~5383&38
+the yard&64~5495&65
+The blind maiden&43~5382&44
+He&64~5494&59
+the palace&51~5436&52
+The old man&51~5435&52
+They&93~5659&94
+her&112~5769&110
+The king&112~5768&110
+the rooms&99~5700&100
+an eye&49~5428&50
+him&49~5427&44
+the blind maiden&28~5314&28
+she&49~5426&47
+silk&28~5313&28
+anything&49~5425&50
+velvet&28~5312&28
+the velvet and silk&28~5311&28
+He&28~5310&28
+me&30~5318&30
+his palace&72~5532&68
+his&72~5531&68
+her&72~5530&73
+merchant&6~5211&6
+the merchant 's daughter&6~5210&6
+The king&72~5529&72
+the island&10~5231&10
+a walk&10~5230&10
+this letter&6~5209&6
+them&6~5208&6
+he&6~5207&6
+that merchant 's house&6~5206&6
+that merchant&6~5205&6
+her&23~5289&23
+The old man&23~5288&23
+us&10~5229&10
+The maid&10~5228&10
+the second&52~5440&53
+that place&94~5666&95
+the garden&94~5665&94
+The king&94~5664&90
+I&44~5389&45
+He&44~5388&45
+him&65~5499&66
+She&65~5498&62
+the first crown&52~5439&53
+it&31~5326&31
+everyone&52~5438&53
+such a beautiful crown&31~5325&31
+There&52~5437&53
+she&31~5324&31
+silk&31~5323&31
+velvet and silk&31~5322&31
+velvet&31~5321&31
+a royal crown of velvet and silk&31~5320&31
+Little grandfather&29~5317&29
+him&29~5316&29
+She&29~5315&29
+a marvelously beautiful daughter&1~5179&1
+a very wealthy merchant who had a marvelously beautiful daughter&1~5178&1
+she&31~5319&31
+the old man&73~5534&74
+She&73~5533&74
+her pocket&11~5243&11
+her&11~5242&11
+them&11~5241&11
+her eyes&11~5240&11
+The letter&7~5212&7
+the cattle&24~5293&24
+Little grandfather&24~5292&24
+her&11~5239&11
+the old man&24~5291&24
+sleeping potions&11~5238&11
+She&24~5290&24
+merchant&11~5237&11
+the merchant 's daughter&11~5236&11
+the maidservant&11~5235&11
+there&11~5234&11
+the island&11~5233&11
+They&11~5232&11
+a handsome boy&95~5671&96
+there&95~5670&91
+its socket&45~5398&46
+its&45~5397&46
+it&45~5396&40
+it&45~5395&40
+twilight&45~5394&46
+outside&45~5393&46
+him&45~5392&44
+it&45~5391&40
+She&45~5390&46
+an eye&32~5333&32
+any price&53~5445&54
+payment&32~5332&32
+you&53~5444&51
+the king&32~5331&32
+a boy&95~5669&96
+it&53~5443&49
+this&32~5330&32
+he&95~5668&90
+I&53~5442&54
+he&95~5667&90
+The king&53~5441&54
+a gift&2~5188&2
+the king&2~5187&2
+precious cloths&2~5186&2
+a certain kingdom&2~5185&2
+he&2~5184&2
+one day&2~5183&2
+the old man&32~5329&32
+various provinces&2~5182&2
+the blind maiden&32~5328&32
+goods&2~5181&2
+Next morning&32~5327&32
+This merchant&2~5180&2
+it&74~5540&69
+sea&12~5250&12
+each other&8~5223&8
+they&8~5222&8
+merchant&8~5221&8
+the merchant 's daughter&8~5220&8
+its bottom&74~5539&75
+my maid servant&12~5249&12
+its&74~5538&75
+my&12~5248&12
+you&74~5537&75
+the guard&12~5247&12
+money&74~5536&75
