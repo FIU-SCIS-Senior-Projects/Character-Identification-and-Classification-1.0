@@ -1,0 +1,167 @@
+<Sentence id="1">
+Bukhtanovich_13
+who_15
+<Sentence id="2">
+He_1
+<Sentence id="3">
+fox_2
+<Sentence id="4">
+What_2
+you_5
+<Sentence id="5">
+<Sentence id="6">
+I_2
+<Sentence id="7">
+it_3
+<Sentence id="8">
+fox_2
+Tsar_29
+<Sentence id="9">
+tsar_2
+<Sentence id="10">
+fox_2
+Tsar_28
+measure_32
+<Sentence id="11">
+<Sentence id="12">
+fox_2
+<Sentence id="13">
+Tsar_2
+measure_6
+measure_16
+<Sentence id="14">
+<Sentence id="15">
+Fox_2
+what_8
+<Sentence id="16">
+He_1
+you_6
+<Sentence id="17">
+<Sentence id="18">
+I_5
+<Sentence id="19">
+Very_2
+<Sentence id="20">
+fox_2
+<Sentence id="21">
+Bukhtan_2
+you_6
+<Sentence id="22">
+<Sentence id="23">
+He_1
+<Sentence id="24">
+They_1
+<Sentence id="25">
+fox_2
+he_8
+<Sentence id="26">
+fox_2
+<Sentence id="27">
+matter_5
+<Sentence id="28">
+fox_5
+<Sentence id="29">
+Bukhtanovich_6
+I_8
+<Sentence id="30">
+fox_2
+Tsar_11
+I_13
+it_26
+we_33
+<Sentence id="31">
+Bukhtanovich_2
+you_14
+you_17
+<Sentence id="32">
+<Sentence id="33">
+fox_2
+<Sentence id="34">
+us_12
+<Sentence id="35">
+They_1
+<Sentence id="36">
+Bukhtan_1
+he_10
+<Sentence id="37">
+tsar_2
+Bukhtanovich_16
+<Sentence id="38">
+Tsar_2
+I_4
+he_6
+he_20
+<Sentence id="39">
+Tsar_1
+you_8
+yourself_9
+<Sentence id="40">
+<Sentence id="41">
+Bukhtanovich_2
+it_8
+<Sentence id="42">
+fox_7
+Bukhtanovich_16
+<Sentence id="43">
+Tsar_2
+chairs_8
+<Sentence id="44">
+tsar_2
+<Sentence id="45">
+fox_2
+<Sentence id="46">
+They_1
+<Sentence id="47">
+they_3
+wedding_10
+<Sentence id="48">
+<Sentence id="49">
+they_9
+<Sentence id="50">
+Bukhtanovich_2
+fox_15
+wife_5
+<Sentence id="51">
+Bukhtan_1
+fox_10
+fox_13
+stove_18
+<Sentence id="52">
+stove_9
+<Sentence id="53">
+Bukhtanovich_2
+fox_8
+<Sentence id="54">
+He_1
+<Sentence id="55">
+it_12
+<Sentence id="56">
+fox_2
+he_15
+there_22
+<Sentence id="57">
+Cat_15
+<Sentence id="58">
+fox_2
+you_8
+<Sentence id="59">
+tsar_2
+they_13
+<Sentence id="60">
+fox_3
+<Sentence id="61">
+<Sentence id="62">
+fox_3
+<Sentence id="63">
+<Sentence id="64">
+fox_3
+he_12
+<Sentence id="65">
+ships_2
+<Sentence id="66">
+fox_2
+Cossacks_15
+<Sentence id="67">
+Bukhtanovich_2
+he_12
+he_24

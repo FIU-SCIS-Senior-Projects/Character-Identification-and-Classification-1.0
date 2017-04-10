@@ -1,0 +1,242 @@
+<Sentence id="1">
+couple_9
+they_12
+<Sentence id="2">
+Two_1
+third_12
+Popyalof_22
+<Sentence id="3">
+Ivan_5
+he_16
+poods_26
+<Sentence id="4">
+Ivan_7
+day_13
+night_17
+<Sentence id="5">
+That_1
+Snake_4
+<Sentence id="6">
+Ivan_3
+he_11
+Father_18
+<Sentence id="7">
+he_3
+he_9
+it_18
+he_27
+<Sentence id="8">
+he_4
+he_15
+<Sentence id="9">
+mace_4
+it_8
+<Sentence id="10">
+mace_3
+<Sentence id="11">
+Ivan_1
+mace_16
+<Sentence id="12">
+he_3
+he_7
+<Sentence id="13">
+mace_3
+<Sentence id="14">
+Ivan_5
+mace_16
+he_21
+mace_31
+<Sentence id="15">
+Ivan_1
+him_10
+<Sentence id="16">
+he_3
+he_8
+<Sentence id="17">
+mace_3
+<Sentence id="18">
+Ivan_4
+<Sentence id="19">
+Down_1
+it_8
+forehead_15
+<Sentence id="20">
+he_2
+mace_7
+<Sentence id="21">
+he_3
+everything_6
+he_9
+<Sentence id="22">
+He_1
+Snake_25
+<Sentence id="23">
+party_4
+<Sentence id="24">
+Ivan_2
+drop_17
+<Sentence id="25">
+he_2
+he_6
+<Sentence id="26">
+<Sentence id="27">
+steed_2
+hound_6
+falcon_10
+<Sentence id="28">
+thou_9
+Steed_13
+<Sentence id="29">
+thou_2
+<Sentence id="30">
+thou_2
+<Sentence id="31">
+I_4
+Steed_11
+the_16
+<Sentence id="32">
+Snake_4
+<Sentence id="33">
+us_2
+<Sentence id="34">
+Ivan_1
+they_6
+<Sentence id="35">
+Ivan_2
+<Sentence id="36">
+him_12
+Ivan_16
+<Sentence id="37">
+which_8
+third_6
+<Sentence id="38">
+Ivan_3
+<Sentence id="39">
+Snake_2
+<Sentence id="40">
+raven_4
+it_10
+<Sentence id="41">
+<Sentence id="42">
+Snake_3
+<Sentence id="43">
+Ivan_2
+we_17
+<Sentence id="44">
+Raven_3
+Ivan_8
+<Sentence id="45">
+brothers_2
+they_7
+they_15
+<Sentence id="46">
+they_2
+they_15
+<Sentence id="47">
+light_6
+<Sentence id="48">
+Popyalof_7
+brothers_10
+<Sentence id="49">
+he_2
+he_12
+<Sentence id="50">
+he_3
+he_17
+who_29
+voices_20
+<Sentence id="51">
+he_2
+<Sentence id="52">
+They_1
+he_7
+they_11
+<Sentence id="53">
+he_2
+<Sentence id="54">
+he_4
+brothers_9
+he_12
+they_18
+<Sentence id="55">
+They_1
+they_7
+<Sentence id="56">
+brothers_4
+'s_9
+we_19
+<Sentence id="57">
+Ivan_2
+<Sentence id="58">
+he_2
+<Sentence id="59">
+out_2
+<Sentence id="60">
+they_2
+all_3
+<Sentence id="61">
+They_1
+it_16
+<Sentence id="62">
+brothers_4
+<Sentence id="63">
+'s_3
+<Sentence id="64">
+Ivan_2
+I_12
+he_20
+<Sentence id="65">
+out_2
+<Sentence id="66">
+they_2
+<Sentence id="67">
+They_1
+<Sentence id="68">
+brothers_4
+'s_9
+<Sentence id="69">
+Popyalof_3
+<Sentence id="70">
+he_2
+waters_13
+<Sentence id="71">
+cushions_7
+<Sentence id="72">
+Ivan_8
+brothers_11
+<Sentence id="73">
+she_12
+<Sentence id="74">
+Ivan_2
+brothers_5
+<Sentence id="75">
+She_1
+it_7
+she_16
+it_25
+she_30
+<Sentence id="76">
+he_2
+danger_5
+he_12
+horse_15
+himself_21
+<Sentence id="77">
+Wife_4
+<Sentence id="78">
+they_2
+<Sentence id="79">
+Wife_5
+<Sentence id="80">
+they_3
+she_13
+they_23
+<Sentence id="81">
+Wife_6
+they_9
+<Sentence id="82">
+they_3
+they_9
+<Sentence id="83">
+I_1
+it_13

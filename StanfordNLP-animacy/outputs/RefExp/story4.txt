@@ -1,0 +1,332 @@
+leave&15~3058&15
+her&15~3057&15
+The king&15~3056&15
+Your Majesty&35~3139&37
+a third&13~3044&14
+a second&13~3043&14
+one week&13~3042&14
+his palace&13~3041&14
+his&13~3040&11
+your herdsman&21~3083&22
+me&50~3217&50
+your&21~3082&22
+the crystal mountain&50~3216&45
+me&21~3081&22
+that seed&50~3215&53
+Your Majesty&21~3080&22
+the dragon&50~3214&53
+you&50~3213&49
+that king&13~3039&14
+the service of that king&13~3038&14
+he&13~3037&12
+his right side&56~3249&60
+his&56~3248&51
+the coffer in his right side&56~3247&60
+his trunk&56~3246&60
+his&56~3245&51
+the twelve-headed dragon&56~3244&55
+the thrice tenth kingdom&9~3020&9
+Prince Ivan&56~3243&54
+a long struggle or a short struggle&56~3242&60
+the king&21~3079&21
+the prince&28~3115&30
+the palace&21~3078&22
+that&28~3114&29
+They&56~3241&60
+he&21~3077&21
+a very old man&21~3076&22
+himself&21~3075&22
+He&21~3074&22
+the air&9~3019&9
+a bright falcon&9~3018&9
+the damp earth&9~3017&9
+reptiles&4~2980&4
+Prince Ivan&9~3016&9
+birds&4~2979&4
+the prince&42~3185&38
+beasts of many kinds , birds , and reptiles&4~2978&4
+nothing&42~3184&44
+beasts of many kinds&4~2977&4
+a dead horse , around which were gathered beasts of many kinds , birds , and reptiles&4~2976&4
+he&42~3183&44
+he&42~3182&44
+there&4~2975&4
+a clearing&4~2974&4
+he&4~2973&4
+his way&4~2972&4
+his&4~2971&4
+The youngest son&4~2970&4
+three cows&34~3138&31
+him&34~3137&36
+you&34~3136&31
+a seed&49~3212&52
+this egg&49~3211&52
+an egg&49~3210&52
+they&12~3036&13
+such a goodly youth&12~3035&12
+he&12~3034&12
+this duck&49~3209&52
+a duck&49~3208&52
+this hare&49~3207&52
+a hare&49~3206&52
+this coffer&49~3205&52
+three cows&27~3113&24
+you&55~3240&55
+me&27~3112&22
+the king&20~3073&21
+he&20~3072&20
+He&48~3199&51
+what you demand&55~3239&59
+you&8~3015&8
+a day&55~3238&59
+an ant&8~3014&8
+only one duck&55~3237&59
+I myself&55~3236&59
+a bright falcon&8~3013&8
+you&8~3012&8
+your kindness&8~3011&8
+your&8~3010&8
+my herd&41~3181&43
+my&41~3180&43
+his six heads&39~3172&41
+his&39~3171&38
+the dragon&39~3170&34
+the three-headed dragon&33~3135&35
+the king&33~3134&35
+grandfather&33~3133&35
+different directions&3~2969&3
+they&3~2968&3
+his blessing&3~2967&3
+a bright falcon&39~3169&34
+his&3~2966&3
+the prince&39~3168&39
+twelve cows&39~3167&41
+them&3~2965&3
+The father&3~2964&3
+six&39~3166&38
+a rage&39~3165&41
+The dragon&39~3164&41
+his service&11~3033&11
+his&11~3032&11
+me&11~3031&11
+your king&11~3030&11
+he&19~3071&19
+his side&48~3204&51
+his&48~3203&51
+a coffer in his side&48~3202&51
+father 's lake&48~3201&51
+father&48~3200&51
+cattle&26~3111&27
+combat&26~3110&27
+my mouth&62~3282&66
+my&62~3281&63
+your&11~3029&11
+my beard&62~3280&66
+the princess&47~3198&46
+palace&11~3028&11
+me&47~3197&50
+the palace guards&11~3027&11
+The twelve-headed dragon&47~3196&50
+a goodly youth&11~3026&11
+the royal palace&11~3025&11
+The prince&11~3024&11
+A goodly youth like you&26~3109&27
+the prince&54~3235&58
+you&54~3234&49
+That&54~3233&57
+my&62~3279&63
+they&62~3278&66
+mead&62~3277&66
+beer and mead&62~3276&66
+beer&62~3275&66
+I&62~3274&59
+the falcon&7~3009&7
+Prince Ivan&7~3008&7
+you&7~3007&7
+home&32~3132&34
+the cattle&32~3131&34
+the dragon&32~3130&34
+the six-headed  dragon&40~3179&42
+grandfather&40~3178&35
+him&40~3177&36
+the king&40~3176&35
+home&40~3175&42
+the herd&40~3174&42
+He&40~3173&42
+we&2~2963&2
+your blessing&2~2962&2
+your&2~2961&2
+any&38~3163&37
+us&2~2960&2
+you&38~3162&36
+I&38~3161&37
+all the three heads of the dragon&32~3129&34
+a bright falcon&32~3128&34
+Prince Ivan&32~3127&34
+the princess&18~3070&19
+our&2~2959&2
+Father , our gracious sovereign&2~2958&2
+him&2~2957&2
+they&2~2956&2
+One day&2~2955&2
+he&18~3069&14
+the goat&18~3068&19
+here&46~3195&49
+he&18~3067&14
+you&46~3194&49
+it&18~3066&19
+a crystal mountain&10~3023&10
+my son-in-law&59~3270&63
+that kingdom&10~3022&10
+The prince&18~3065&19
+More than half of that kingdom&10~3021&10
+you&25~3108&26
+work&25~3107&26
+kind of work&25~3106&26
+Prince Ivan&25~3105&25
+me&53~3232&53
+twelve cows&53~3231&56
+a lake&25~3104&26
+the three-headed dragon&25~3103&24
+my&59~3269&63
+that wedding&61~3273&65
+the prince&59~3268&58
+I&61~3272&59
+her father , who was overjoyed&59~3267&63
+her&59~3266&63
+the princess&59~3265&63
+Prince Ivan&59~3264&54
+his herd&24~3099&25
+his&24~3098&25
+Prince Ivan&24~3097&25
+the ants&6~3006&6
+the head&6~3005&6
+the reptiles&6~3004&6
+the skin&6~3003&6
+the birds&6~3002&6
+the flesh&6~3001&6
+the beasts&6~3000&6
+you&37~3160&32
+six&31~3126&33
+three cows&31~3125&31
+a rage&31~3124&33
+The dragon&31~3123&33
+what you demand&37~3159&39
+a day&37~3158&39
+only one duck&37~3157&39
+three sons&1~2954&1
+I myself&37~3156&39
+the prince&37~3155&38
+a king who had three sons&1~2953&1
+a certain land&1~2952&1
+you gluttonous monster&37~3154&39
+a certain kingdom in a certain land&1~2951&1
+Prince Ivan&45~3193&45
+nowhere&17~3064&18
+a golden goat&17~3063&18
+the crystal mountain&17~3062&15
+they&17~3061&13
+a herd&52~3230&55
+valleys&24~3102&25
+mountains and valleys&24~3101&25
+mountains&24~3100&25
+The wedding&60~3271&64
+the crystal mountain , which soon melted away&58~3263&62
+it&58~3262&53
+it&58~3261&53
+the seed&58~3260&62
+twelve cows&23~3096&24
+combat&52~3229&55
+the twelve-headed dragon&23~3095&24
+a goodly youth like you&52~3228&55
+six cows&23~3094&24
+you&52~3227&49
+him&23~3093&24
+the six-headed dragon&23~3092&24
+you&52~3226&49
+Prince Ivan&52~3225&48
+three cows&23~3091&24
+him&52~3224&55
+him&23~3090&24
+the twelve-headed dragon&52~3223&55
+He&58~3259&62
+your herd&23~3089&24
+your&23~3088&22
+the three-headed dragon&23~3087&24
+any&30~3122&32
+the bones&6~2999&6
+you&30~3121&26
+he&6~2998&6
+the carcass&6~2997&6
+his good steed&6~2996&6
+his&6~2995&6
+The prince&6~2994&6
+six cows&36~3153&38
+the lake&36~3152&38
+the six - headed dragon&36~3151&38
+valleys&36~3150&38
+the crystal mountain&44~3192&45
+the princess&44~3191&46
+good steeds&16~3060&17
+mountains and valleys&36~3149&38
+mountains&36~3148&38
+his herd&36~3147&38
+his&36~3146&38
+the prince&36~3145&38
+Next day&36~3144&38
+the crystal mountain&14~3055&15
+Prince Ivan&14~3054&9
+a ride with Prince Ivan to the crystal mountain&14~3053&15
+leave to take a ride with Prince Ivan to the crystal mountain&14~3052&15
+me&14~3051&11
+my&14~3050&15
+They&16~3059&17
+his herd&51~3222&54
+his&51~3221&51
+a herdsman&51~3220&54
+Father , my sovereign&14~3049&15
+her father&14~3048&15
+her&14~3047&15
+king&14~3046&14
+The king 's daughter&14~3045&15
+a seed&57~3258&52
+the egg&57~3257&61
+an egg&57~3256&52
+the duck&57~3255&61
+a duck&57~3254&52
+the hare&57~3253&61
+a hare&57~3252&52
+he&57~3251&61
+the coffer&57~3250&60
+my herdsman&22~3086&23
+the mountain&51~3219&54
+my&22~3085&23
+three cows&29~3120&24
+Prince Ivan&51~3218&48
+the king&22~3084&22
+it&5~2993&5
+a way of sharing it&5~2992&5
+we&5~2991&5
+thirty years&5~2990&5
+you&29~3119&26
+a day&29~3118&31
+only one duck&29~3117&31
+I myself&29~3116&31
+here&5~2989&5
+it&5~2988&5
+us&5~2987&5
+that horse&5~2986&5
+Prince Ivan&5~2985&5
+his shoulder&5~2984&5
+his&5~2983&5
+a little crack&43~3190&45
+the prince&5~2982&5
+A falcon&5~2981&5
+any&35~3143&32
+him&35~3142&36
+I&35~3141&31
+Prince Ivan&35~3140&34
+the crystal mountain&43~3189&45
+an ant&43~3188&45
+Prince Ivan&43~3187&45
+Late at night&43~3186&45

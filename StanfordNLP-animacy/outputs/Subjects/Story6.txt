@@ -1,0 +1,225 @@
+<Sentence id="1">
+there_5
+<Sentence id="2">
+wife_4
+<Sentence id="3">
+bear_2
+she_21
+<Sentence id="4">
+son_2
+mother_18
+him_20
+<Sentence id="5">
+Years_1
+Ivan_7
+he_10
+they_27
+bear_31
+<Sentence id="6">
+They_1
+<Sentence id="7">
+peasant_2
+he_10
+she_16
+<Sentence id="8">
+freak_14
+<Sentence id="9">
+wife_2
+that_6
+she_11
+son_28
+<Sentence id="10">
+peasant_9
+we_22
+<Sentence id="11">
+which_3
+<Sentence id="12">
+Whichever_2
+<Sentence id="13">
+Bearlet_3
+all_19
+them_21
+<Sentence id="14">
+He_1
+them_4
+he_17
+<Sentence id="15">
+this_4
+<Sentence id="16">
+<Sentence id="17">
+I_2
+you_11
+them_14
+<Sentence id="18">
+father_4
+one_12
+I_19
+<Sentence id="19">
+You_2
+<Sentence id="20">
+<Sentence id="21">
+I_5
+<Sentence id="22">
+It_1
+storm_9
+rain_13
+<Sentence id="23">
+Bearlet_3
+<Sentence id="24">
+Thieves_1
+they_8
+they_19
+they_22
+<Sentence id="25">
+peasant_4
+everything_11
+thieves_25
+dogs_31
+<Sentence id="26">
+He_1
+him_18
+<Sentence id="27">
+father_4
+Ivanko_14
+<Sentence id="28">
+yourself_3
+I_12
+<Sentence id="29">
+it_2
+thieves_6
+dogs_15
+<Sentence id="30">
+I_4
+<Sentence id="31">
+<Sentence id="32">
+this_3
+he_12
+<Sentence id="33">
+I_1
+I_4
+<Sentence id="34">
+he_2
+he_11
+<Sentence id="35">
+devils_6
+they_13
+peasant_10
+<Sentence id="36">
+Bearlet_3
+<Sentence id="37">
+devil_4
+you_16
+<Sentence id="38">
+<Sentence id="39">
+I_1
+I_6
+you_18
+<Sentence id="40">
+I_8
+<Sentence id="41">
+he_2
+<Sentence id="42">
+he_4
+Grandfather_12
+you_16
+we_23
+he_32
+<Sentence id="43">
+<Sentence id="44">
+<Sentence id="45">
+you_3
+I_14
+he_26
+<Sentence id="46">
+you_2
+<Sentence id="47">
+What_2
+<Sentence id="48">
+He_2
+<Sentence id="49">
+hare_2
+devil_20
+it_26
+he_32
+<Sentence id="50">
+you_5
+<Sentence id="51">
+you_7
+I_11
+<Sentence id="52">
+<Sentence id="53">
+<Sentence id="54">
+he_5
+Grandfather_20
+you_24
+I_31
+he_34
+<Sentence id="55">
+you_4
+<Sentence id="56">
+devil_2
+it_9
+it_14
+<Sentence id="57">
+you_3
+devil_10
+<Sentence id="58">
+Bearlet_2
+<Sentence id="59">
+he_7
+cloud_12
+<Sentence id="60">
+O_2
+that_5
+grandfather_10
+<Sentence id="61">
+<Sentence id="62">
+He_1
+<Sentence id="63">
+he_5
+Grandfather_13
+you_17
+I_31
+he_34
+you_43
+<Sentence id="64">
+<Sentence id="65">
+<Sentence id="66">
+<Sentence id="67">
+devil_2
+he_17
+<Sentence id="68">
+it_5
+<Sentence id="69">
+He_1
+he_13
+horse_20
+<Sentence id="70">
+brother_4
+<Sentence id="71">
+he_1
+<Sentence id="72">
+I_2
+you_13
+times_17
+<Sentence id="73">
+<Sentence id="74">
+way_2
+I_3
+<Sentence id="75">
+we_5
+<Sentence id="76">
+that_18
+I_21
+work_10
+<Sentence id="77">
+devil_3
+Ivanko_10
+devil_27
+<Sentence id="78">
+He_1
+<Sentence id="79">
+Bearlet_3
+Now_28
+<Sentence id="80">
+Here_1
