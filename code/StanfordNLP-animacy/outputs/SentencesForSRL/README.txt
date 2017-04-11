@@ -1,0 +1,1 @@
+Generates all the sentences on each line for stories 15-46 to feed to the SRL

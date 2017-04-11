@@ -1,0 +1,147 @@
+<Sentence id="1">
+man_3
+they_10
+<Sentence id="2">
+mother_9
+we_12
+we_18
+you_21
+you_27
+you_33
+<Sentence id="3">
+watch_4
+<Sentence id="4">
+parents_2
+daughter_7
+they_10
+she_15
+<Sentence id="5">
+geese_4
+<Sentence id="6">
+girl_2
+<Sentence id="7">
+She_1
+<Sentence id="8">
+She_1
+father_11
+brother_22
+mother_13
+<Sentence id="9">
+She_1
+geese_10
+<Sentence id="10">
+geese_3
+they_11
+<Sentence id="11">
+girl_2
+they_5
+<Sentence id="12">
+She_1
+<Sentence id="13">
+Stove_2
+<Sentence id="14">
+you_3
+I_9
+<Sentence id="15">
+we_9
+<Sentence id="16">
+stove_2
+<Sentence id="17">
+She_1
+<Sentence id="18">
+tree_3
+<Sentence id="19">
+you_3
+I_11
+<Sentence id="20">
+we_9
+<Sentence id="21">
+She_1
+<Sentence id="22">
+River_2
+<Sentence id="23">
+you_3
+I_12
+<Sentence id="24">
+we_9
+<Sentence id="25">
+She_1
+she_19
+<Sentence id="26">
+She_1
+he_11
+she_17
+Hedgehog_21
+geese_31
+<Sentence id="27">
+he_5
+<Sentence id="28">
+She_1
+that_8
+hut_7
+<Sentence id="29">
+legs_13
+brother_18
+<Sentence id="30">
+sister_2
+him_4
+<Sentence id="31">
+geese_3
+robbers_10
+she_16
+<Sentence id="32">
+<Sentence id="33">
+river_4
+<Sentence id="34">
+she_1
+<Sentence id="35">
+you_3
+<Sentence id="36">
+she_8
+river_14
+geese_23
+<Sentence id="37">
+She_1
+geese_21
+<Sentence id="38">
+she_3
+<Sentence id="39">
+tree_5
+<Sentence id="40">
+tree_3
+<Sentence id="41">
+she_1
+<Sentence id="42">
+you_3
+<Sentence id="43">
+She_1
+<Sentence id="44">
+tree_3
+geese_12
+<Sentence id="45">
+She_1
+<Sentence id="46">
+geese_2
+<Sentence id="47">
+They_1
+they_6
+they_18
+<Sentence id="48">
+stove_5
+<Sentence id="49">
+Stove_3
+<Sentence id="50">
+she_1
+<Sentence id="51">
+you_3
+<Sentence id="52">
+girl_2
+<Sentence id="53">
+geese_2
+<Sentence id="54">
+girl_3
+it_8
+she_14
+she_17
+mother_24
+father_26

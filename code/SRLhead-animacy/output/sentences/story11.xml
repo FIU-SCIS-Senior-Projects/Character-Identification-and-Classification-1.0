@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<refexp>
+<sentence id="1">
+<start>3</start>
+<end>18</end>
+</sentence>
+<sentence id="2">
+<start>19</start>
+<end>41</end>
+</sentence>
+<sentence id="3">
+<start>42</start>
+<end>74</end>
+</sentence>
+<sentence id="4">
+<start>75</start>
+<end>92</end>
+</sentence>
+<sentence id="5">
+<start>93</start>
+<end>99</end>
+</sentence>
+<sentence id="6">
+<start>100</start>
+<end>127</end>
+</sentence>
+<sentence id="7">
+<start>128</start>
+<end>157</end>
+</sentence>
+<sentence id="8">
+<start>158</start>
+<end>188</end>
+</sentence>
+<sentence id="9">
+<start>189</start>
+<end>202</end>
+</sentence>
+<sentence id="10">
+<start>203</start>
+<end>209</end>
+</sentence>
+<sentence id="11">
+<start>210</start>
+<end>232</end>
+</sentence>
+<sentence id="12">
+<start>233</start>
+<end>250</end>
+</sentence>
+<sentence id="13">
+<start>251</start>
+<end>265</end>
+</sentence>
+<sentence id="14">
+<start>266</start>
+<end>303</end>
+</sentence>
+<sentence id="15">
+<start>304</start>
+<end>323</end>
+</sentence>
+<sentence id="16">
+<start>324</start>
+<end>341</end>
+</sentence>
+<sentence id="17">
+<start>342</start>
+<end>352</end>
+</sentence>
+<sentence id="18">
+<start>353</start>
+<end>364</end>
+</sentence>
+<sentence id="19">
+<start>365</start>
+<end>383</end>
+</sentence>
+<sentence id="20">
+<start>384</start>
+<end>397</end>
+</sentence>
+<sentence id="21">
+<start>398</start>
+<end>416</end>
+</sentence>
+<sentence id="22">
+<start>417</start>
+<end>442</end>
+</sentence>
+<sentence id="23">
+<start>443</start>
+<end>451</end>
+</sentence>
+<sentence id="24">
+<start>452</start>
+<end>479</end>
+</sentence>
+<sentence id="25">
+<start>480</start>
+<end>496</end>
+</sentence>
+<sentence id="26">
+<start>497</start>
+<end>506</end>
+</sentence>
+<sentence id="27">
+<start>507</start>
+<end>518</end>
+</sentence>
+<sentence id="28">
+<start>519</start>
+<end>547</end>
+</sentence>
+<sentence id="29">
+<start>548</start>
+<end>569</end>
+</sentence>
+<sentence id="30">
+<start>570</start>
+<end>580</end>
+</sentence>
+<sentence id="31">
+<start>581</start>
+<end>588</end>
+</sentence>
+<sentence id="32">
+<start>589</start>
+<end>598</end>
+</sentence>
+<sentence id="33">
+<start>599</start>
+<end>613</end>
+</sentence>
+<sentence id="34">
+<start>614</start>
+<end>631</end>
+</sentence>
+<sentence id="35">
+<start>632</start>
+<end>643</end>
+</sentence>
+<sentence id="36">
+<start>644</start>
+<end>660</end>
+</sentence>
+<sentence id="37">
+<start>661</start>
+<end>669</end>
+</sentence>
+<sentence id="38">
+<start>670</start>
+<end>687</end>
+</sentence>
+<sentence id="39">
+<start>688</start>
+<end>710</end>
+</sentence>
+<sentence id="40">
+<start>711</start>
+<end>740</end>
+</sentence>
+<sentence id="41">
+<start>741</start>
+<end>763</end>
+</sentence>
+<sentence id="42">
+<start>764</start>
+<end>785</end>
+</sentence>
+<sentence id="43">
+<start>786</start>
+<end>808</end>
+</sentence>
+<sentence id="44">
+<start>809</start>
+<end>819</end>
+</sentence>
+<sentence id="45">
+<start>820</start>
+<end>836</end>
+</sentence>
+<sentence id="46">
+<start>837</start>
+<end>863</end>
+</sentence>
+<sentence id="47">
+<start>864</start>
+<end>898</end>
+</sentence>
+<sentence id="48">
+<start>899</start>
+<end>914</end>
+</sentence>
+<sentence id="49">
+<start>915</start>
+<end>927</end>
+</sentence>
+<sentence id="50">
+<start>928</start>
+<end>936</end>
+</sentence>
+<sentence id="51">
+<start>937</start>
+<end>958</end>
+</sentence>
+<sentence id="52">
+<start>959</start>
+<end>980</end>
+</sentence>
+<sentence id="53">
+<start>981</start>
+<end>1005</end>
+</sentence>
+<sentence id="54">
+<start>1006</start>
+<end>1030</end>
+</sentence>
+<sentence id="55">
+<start>1031</start>
+<end>1039</end>
+</sentence>
+<sentence id="56">
+<start>1040</start>
+<end>1046</end>
+</sentence>
+<sentence id="57">
+<start>1047</start>
+<end>1068</end>
+</sentence>
+<sentence id="58">
+<start>1069</start>
+<end>1083</end>
+</sentence>
+<sentence id="59">
+<start>1084</start>
+<end>1117</end>
+</sentence>
+<sentence id="60">
+<start>1118</start>
+<end>1125</end>
+</sentence>
+<sentence id="61">
+<start>1126</start>
+<end>1131</end>
+</sentence>
+<sentence id="62">
+<start>1132</start>
+<end>1149</end>
+</sentence>
+<sentence id="63">
+<start>1150</start>
+<end>1165</end>
+</sentence>
+<sentence id="64">
+<start>1166</start>
+<end>1192</end>
+</sentence>
+<sentence id="65">
+<start>1193</start>
+<end>1216</end>
+</sentence>
+<sentence id="66">
+<start>1217</start>
+<end>1231</end>
+</sentence>
+<sentence id="67">
+<start>1232</start>
+<end>1260</end>
+</sentence>
+<sentence id="68">
+<start>1261</start>
+<end>1274</end>
+</sentence>
+<sentence id="69">
+<start>1275</start>
+<end>1309</end>
+</sentence>
+<sentence id="70">
+<start>1310</start>
+<end>1341</end>
+</sentence>
+<sentence id="71">
+<start>1342</start>
+<end>1364</end>
+</sentence>
+<sentence id="72">
+<start>1365</start>
+<end>1381</end>
+</sentence>
+<sentence id="73">
+<start>1382</start>
+<end>1391</end>
+</sentence>
+<sentence id="74">
+<start>1392</start>
+<end>1430</end>
+</sentence>
+<sentence id="75">
+<start>1431</start>
+<end>1452</end>
+</sentence>
+<sentence id="76">
+<start>1453</start>
+<end>1476</end>
+</sentence>
+<sentence id="77">
+<start>1477</start>
+<end>1503</end>
+</sentence>
+</refexp>
