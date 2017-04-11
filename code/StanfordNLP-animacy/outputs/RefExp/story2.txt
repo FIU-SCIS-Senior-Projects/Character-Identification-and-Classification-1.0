@@ -1,0 +1,252 @@
+cakes of wheat&15~2241&15
+her&44~2369&44
+we&15~2240&15
+her&44~2368&44
+The geese&44~2367&46
+him&7~2201&7
+every corner&7~2200&7
+a great deal of damage&10~2219&10
+they&10~2218&10
+games&4~2190&4
+this trouble&37~2346&38
+a bad reputation&10~2217&10
+The swan geese&10~2216&10
+she&37~2345&34
+the geese&22~2269&22
+pudding&22~2268&22
+shores of pudding&22~2267&22
+there&49~2396&48
+my father 's house&15~2239&15
+my wild apple&40~2355&42
+my father&15~2238&15
+milk&22~2266&22
+my&40~2354&35
+the stove&49~2395&48
+River of milk&22~2265&22
+you&40~2353&35
+her mouth&49~2394&52
+my&15~2237&15
+her&49~2393&44
+the cake&49~2392&52
+The girl&49~2391&52
+the street&4~2189&4
+the window&4~2188&4
+the grass beneath the window&4~2187&4
+her brother&4~2186&4
+her&4~2185&4
+she&4~2184&4
+her&4~2183&4
+they&4~2182&4
+what they had told her&4~2181&4
+the daughter&4~2180&4
+her&27~2298&27
+he&27~2297&27
+her hands&45~2381&47
+her&45~2380&45
+she&33~2326&31
+me&33~2325&33
+Little mother river&33~2324&33
+The parents&4~2179&4
+father&51~2410&54
+her brother&45~2379&45
+her&45~2378&45
+they&45~2377&47
+any moment&45~2376&47
+her little brother&8~2210&8
+their wings&45~2375&47
+their&45~2374&47
+her&45~2373&45
+they&45~2372&47
+quite close&45~2371&47
+They&45~2370&47
+them&11~2225&11
+her brother&11~2224&11
+her&11~2223&11
+they&11~2222&11
+The girl&11~2221&11
+mother&51~2409&54
+her mother and father&51~2408&54
+her&51~2407&46
+soon afterward&51~2406&54
+she&51~2405&50
+she&51~2404&50
+a good thing that she came when she did&51~2403&54
+it&51~2402&54
+home&51~2401&54
+the girl&51~2400&54
+you&23~2275&23
+I&23~2274&23
+her&8~2209&8
+milk&23~2273&23
+her&8~2208&8
+my simple pudding with milk&23~2272&23
+mother&8~2207&8
+her&16~2243&16
+my&23~2271&23
+The stove&16~2242&16
+you&23~2270&23
+father&8~2206&8
+her father and mother&8~2205&8
+her&8~2204&8
+him&8~2203&8
+their wings&5~2195&5
+their&5~2194&5
+She&8~2202&8
+him&5~2193&5
+the little boy&5~2192&5
+Some magic swan geese&5~2191&5
+the apple tree&38~2347&39
+it&41~2357&36
+She&41~2356&37
+She&28~2299&28
+her path&46~2384&48
+her&46~2383&46
+the stove&46~2382&48
+my pudding&34~2329&35
+my&34~2328&35
+you&34~2327&35
+cream&24~2280&24
+a dark forest&9~2215&9
+the distance&9~2214&9
+the swan geese&9~2213&9
+the open field&9~2212&9
+She&9~2211&9
+a stove&12~2227&12
+She&12~2226&12
+him&30~2314&30
+him&30~2313&30
+him&30~2312&30
+she&39~2352&34
+him&30~2311&30
+me&39~2351&40
+His sister&30~2310&30
+little mother&39~2350&40
+a little son&1~2164&1
+a daughter and a little son&1~2163&1
+a daughter&1~2162&1
+they&1~2161&1
+his old wife&1~2160&1
+we&24~2279&24
+my father 's house&24~2278&24
+my father&24~2277&24
+my&24~2276&24
+the geese&42~2363&37
+leaves&42~2362&44
+branches and leaves&42~2361&44
+an apple tree&17~2245&17
+branches&42~2360&44
+She&17~2244&17
+her brother&6~2198&6
+her&6~2197&6
+The girl&6~2196&6
+His&30~2309&30
+apple tree&39~2349&39
+Apple tree&39~2348&40
+his&1~2159&1
+An old man&1~2158&1
+her&42~2359&37
+The apple tree&42~2358&44
+the geese&35~2337&31
+the shore&35~2336&36
+beneath the shore&35~2335&36
+her&35~2334&31
+the river&35~2333&32
+it&35~2332&36
+she&35~2331&31
+nothing to be done&35~2330&36
+chicken legs&28~2301&28
+a little hut that stood on chicken legs and turned round and round&28~2300&28
+sweet apples&20~2259&20
+she&47~2387&50
+we&20~2258&20
+me&47~2386&49
+my father 's house&20~2257&20
+Madam Stove&47~2385&49
+my father&20~2256&20
+my&20~2255&20
+the geese&13~2231&13
+a kerchief&2~2175&2
+me&13~2230&13
+you&2~2174&2
+a dress&2~2173&2
+a bun&2~2172&2
+you&2~2171&2
+we&2~2170&2
+a hedgehog&25~2286&25
+she&25~2285&25
+a long time&25~2284&25
+the woods&25~2283&25
+the fields&25~2282&25
+She&25~2281&25
+she&31~2319&31
+her&31~2318&31
+the robbers&31~2317&31
+stove&13~2229&13
+Stove&13~2228&13
+her&31~2316&31
+the geese&31~2315&31
+we&2~2169&2
+`` we are going to work ; we shall bring you back a bun , sew you a dress , and buy you a kerchief . Be careful , watch over your little brother , do not leave the house . ''&2~2168&2
+the mother&2~2167&2
+daughter&2~2166&2
+Daughter&2~2165&2
+their prey&50~2399&53
+their&50~2398&47
+The geese&50~2397&46
+her brother&43~2366&45
+the geese&18~2249&18
+her&43~2365&44
+me&18~2248&18
+She&43~2364&43
+apple tree&18~2247&18
+Apple tree&18~2246&18
+her&36~2344&36
+She&7~2199&7
+the geese turned back and flew toward her&36~2343&37
+the geese&36~2342&36
+her brother&36~2341&37
+her&36~2340&36
+pudding&21~2264&21
+shores of pudding&21~2263&21
+milk&21~2262&21
+a river of milk with shores of pudding&21~2261&21
+my cake of rye&48~2390&51
+She&21~2260&21
+you&36~2339&35
+She&36~2338&37
+golden apples&29~2308&29
+a bench&29~2307&29
+the little brother&29~2306&29
+clay legs&29~2305&29
+veined snout&29~2304&29
+the geese&26~2295&26
+Baba Yaga with veined snout and clay legs&29~2303&29
+the little hut&29~2302&29
+you&26~2294&26
+hedgehog&26~2293&26
+Hedgehog&26~2292&26
+she&26~2291&26
+her&26~2290&26
+my&48~2389&51
+you&48~2388&51
+you&14~2236&14
+I&14~2235&14
+pudding&32~2323&32
+my cake of rye&14~2234&14
+the house&3~2178&3
+shores of pudding&32~2322&32
+my&14~2233&14
+your little brother&3~2177&3
+milk&32~2321&32
+you&14~2232&14
+your&3~2176&3
+the river of milk with shores of pudding&32~2320&32
+he&26~2289&26
+him&26~2288&26
+She&26~2287&26
+you&19~2254&19
+I&19~2253&19
+my&19~2252&19
+one of my wild apples&19~2251&19
+you&19~2250&19
+many little children&10~2220&10

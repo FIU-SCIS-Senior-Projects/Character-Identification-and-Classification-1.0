@@ -1,0 +1,1329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<refexp>
+<ref id="1027">
+<value>I</value>
+<head>I</head>
+<sentence>25</sentence>
+<stanfordSentence>25</stanfordSentence>
+</ref>
+<ref id="1026">
+<value>you and I</value>
+<head>you I</head>
+<sentence>25</sentence>
+<stanfordSentence>25</stanfordSentence>
+</ref>
+<ref id="1025">
+<value>you</value>
+<head>you</head>
+<sentence>25</sentence>
+<stanfordSentence>25</stanfordSentence>
+</ref>
+<ref id="1024">
+<value>the world</value>
+<head>world</head>
+<sentence>25</sentence>
+<stanfordSentence>25</stanfordSentence>
+</ref>
+<ref id="1023">
+<value>no one in the world</value>
+<head>one</head>
+<sentence>25</sentence>
+<stanfordSentence>25</stanfordSentence>
+</ref>
+<ref id="1022">
+<value>Nikita the Tanner</value>
+<head>Nikita Tanner</head>
+<sentence>25</sentence>
+<stanfordSentence>25</stanfordSentence>
+</ref>
+<ref id="1021">
+<value>me</value>
+<head>me</head>
+<sentence>25</sentence>
+<stanfordSentence>25</stanfordSentence>
+</ref>
+<ref id="1020">
+<value>Nikita</value>
+<head>Nikita</head>
+<sentence>25</sentence>
+<stanfordSentence>25</stanfordSentence>
+</ref>
+<ref id="1019">
+<value>the dragon</value>
+<head>dragon</head>
+<sentence>25</sentence>
+<stanfordSentence>25</stanfordSentence>
+</ref>
+<ref id="1078">
+<value>the rampart</value>
+<head>rampart</head>
+<sentence>33</sentence>
+<stanfordSentence>32</stanfordSentence>
+</ref>
+<ref id="1077">
+<value>it</value>
+<head>it</head>
+<sentence>33</sentence>
+<stanfordSentence>31</stanfordSentence>
+</ref>
+<ref id="1076">
+<value>it</value>
+<head>it</head>
+<sentence>33</sentence>
+<stanfordSentence>31</stanfordSentence>
+</ref>
+<ref id="919">
+<value>the dragon</value>
+<head>dragon</head>
+<sentence>9</sentence>
+<stanfordSentence>9</stanfordSentence>
+</ref>
+<ref id="918">
+<value>this world</value>
+<head>world</head>
+<sentence>9</sentence>
+<stanfordSentence>9</stanfordSentence>
+</ref>
+<ref id="1075">
+<value>those who do not know what it is</value>
+<head/>
+<sentence>33</sentence>
+<stanfordSentence>32</stanfordSentence>
+</ref>
+<ref id="876">
+<value>the dragon</value>
+<head>dragon</head>
+<sentence>2</sentence>
+<stanfordSentence>2</stanfordSentence>
+</ref>
+<ref id="1074">
+<value>the furrow</value>
+<head>furrow</head>
+<sentence>33</sentence>
+<stanfordSentence>32</stanfordSentence>
+</ref>
+<ref id="917">
+<value>who in this world was stronger than the dragon</value>
+<head>stronger</head>
+<sentence>9</sentence>
+<stanfordSentence>9</stanfordSentence>
+</ref>
+<ref id="1073">
+<value>the fields</value>
+<head>fields</head>
+<sentence>33</sentence>
+<stanfordSentence>32</stanfordSentence>
+</ref>
+<ref id="875">
+<value>tsar</value>
+<head>tsar</head>
+<sentence>2</sentence>
+<stanfordSentence>2</stanfordSentence>
+</ref>
+<ref id="916">
+<value>her</value>
+<head>her</head>
+<sentence>9</sentence>
+<stanfordSentence>9</stanfordSentence>
+</ref>
+<ref id="915">
+<value>their daughter</value>
+<head>daughter</head>
+<sentence>9</sentence>
+<stanfordSentence>9</stanfordSentence>
+</ref>
+<ref id="874">
+<value>the tsar 's daughter</value>
+<head>daughter</head>
+<sentence>2</sentence>
+<stanfordSentence>2</stanfordSentence>
+</ref>
+<ref id="1072">
+<value>it</value>
+<head>it</head>
+<sentence>33</sentence>
+<stanfordSentence>31</stanfordSentence>
+</ref>
+<ref id="914">
+<value>their</value>
+<head>their</head>
+<sentence>9</sentence>
+<stanfordSentence>9</stanfordSentence>
+</ref>
+<ref id="873">
+<value>the fate of the tsar 's daughter to go to the dragon</value>
+<head>fate</head>
+<sentence>2</sentence>
+<stanfordSentence>2</stanfordSentence>
+</ref>
+<ref id="890">
+<value>the princess</value>
+<head>princess</head>
+<sentence>5</sentence>
+<stanfordSentence>5</stanfordSentence>
+</ref>
+<ref id="872">
+<value>it</value>
+<head>it</head>
+<sentence>2</sentence>
+<stanfordSentence>2</stanfordSentence>
+</ref>
+<ref id="913">
+<value>tsarina</value>
+<head>tsarina</head>
+<sentence>9</sentence>
+<stanfordSentence>9</stanfordSentence>
+</ref>
+<ref id="912">
+<value>tsar</value>
+<head>tsar</head>
+<sentence>9</sentence>
+<stanfordSentence>9</stanfordSentence>
+</ref>
+<ref id="911">
+<value>the tsar and tsarina</value>
+<head>tsar</head>
+<sentence>9</sentence>
+<stanfordSentence>9</stanfordSentence>
+</ref>
+<ref id="910">
+<value>One day</value>
+<head>day</head>
+<sentence>9</sentence>
+<stanfordSentence>9</stanfordSentence>
+</ref>
+<ref id="995">
+<value>battle</value>
+<head>battle</head>
+<sentence>19</sentence>
+<stanfordSentence>19</stanfordSentence>
+</ref>
+<ref id="994">
+<value>him</value>
+<head>him</head>
+<sentence>19</sentence>
+<stanfordSentence>19</stanfordSentence>
+</ref>
+<ref id="993">
+<value>him</value>
+<head>him</head>
+<sentence>19</sentence>
+<stanfordSentence>19</stanfordSentence>
+</ref>
+<ref id="976">
+<value>him</value>
+<head>him</head>
+<sentence>16</sentence>
+<stanfordSentence>16</stanfordSentence>
+</ref>
+<ref id="1007">
+<value>you</value>
+<head>you</head>
+<sentence>21</sentence>
+<stanfordSentence>21</stanfordSentence>
+</ref>
+<ref id="992">
+<value>the dragon</value>
+<head>dragon</head>
+<sentence>19</sentence>
+<stanfordSentence>19</stanfordSentence>
+</ref>
+<ref id="975">
+<value>their tears</value>
+<head>tears</head>
+<sentence>16</sentence>
+<stanfordSentence>16</stanfordSentence>
+</ref>
+<ref id="1006">
+<value>your lair together with you</value>
+<head>lair together you</head>
+<sentence>21</sentence>
+<stanfordSentence>21</stanfordSentence>
+</ref>
+<ref id="991">
+<value>himself</value>
+<head>himself</head>
+<sentence>19</sentence>
+<stanfordSentence>19</stanfordSentence>
+</ref>
+<ref id="974">
+<value>their</value>
+<head>their</head>
+<sentence>16</sentence>
+<stanfordSentence>16</stanfordSentence>
+</ref>
+<ref id="1005">
+<value>your lair</value>
+<head>lair</head>
+<sentence>21</sentence>
+<stanfordSentence>21</stanfordSentence>
+</ref>
+<ref id="990">
+<value>it</value>
+<head>it</head>
+<sentence>19</sentence>
+<stanfordSentence>19</stanfordSentence>
+</ref>
+<ref id="973">
+<value>him</value>
+<head>him</head>
+<sentence>16</sentence>
+<stanfordSentence>16</stanfordSentence>
+</ref>
+<ref id="1004">
+<value>your</value>
+<head>your</head>
+<sentence>21</sentence>
+<stanfordSentence>21</stanfordSentence>
+</ref>
+<ref id="1003">
+<value>I</value>
+<head>I</head>
+<sentence>21</sentence>
+<stanfordSentence>21</stanfordSentence>
+</ref>
+<ref id="972">
+<value>them</value>
+<head>them</head>
+<sentence>16</sentence>
+<stanfordSentence>16</stanfordSentence>
+</ref>
+<ref id="971">
+<value>five thousand little children</value>
+<head>children</head>
+<sentence>16</sentence>
+<stanfordSentence>16</stanfordSentence>
+</ref>
+<ref id="1002">
+<value>Nikita</value>
+<head>Nikita</head>
+<sentence>21</sentence>
+<stanfordSentence>21</stanfordSentence>
+</ref>
+<ref id="970">
+<value>they</value>
+<head>they</head>
+<sentence>16</sentence>
+<stanfordSentence>16</stanfordSentence>
+</ref>
+<ref id="1001">
+<value>the open field</value>
+<head>field</head>
+<sentence>21</sentence>
+<stanfordSentence>21</stanfordSentence>
+</ref>
+<ref id="889">
+<value>his house</value>
+<head>house</head>
+<sentence>5</sentence>
+<stanfordSentence>5</stanfordSentence>
+</ref>
+<ref id="888">
+<value>he</value>
+<head>he</head>
+<sentence>5</sentence>
+<stanfordSentence>5</stanfordSentence>
+</ref>
+<ref id="887">
+<value>he</value>
+<head>he</head>
+<sentence>5</sentence>
+<stanfordSentence>5</stanfordSentence>
+</ref>
+<ref id="1034">
+<value>the other</value>
+<head>other</head>
+<sentence>26</sentence>
+<stanfordSentence>25</stanfordSentence>
+</ref>
+<ref id="1033">
+<value>I</value>
+<head>I</head>
+<sentence>26</sentence>
+<stanfordSentence>21</stanfordSentence>
+</ref>
+<ref id="1032">
+<value>one half</value>
+<head>half</head>
+<sentence>26</sentence>
+<stanfordSentence>25</stanfordSentence>
+</ref>
+<ref id="989">
+<value>pitch</value>
+<head>pitch</head>
+<sentence>19</sentence>
+<stanfordSentence>19</stanfordSentence>
+</ref>
+<ref id="1031">
+<value>you</value>
+<head>you</head>
+<sentence>26</sentence>
+<stanfordSentence>21</stanfordSentence>
+</ref>
+<ref id="988">
+<value>it</value>
+<head>it</head>
+<sentence>19</sentence>
+<stanfordSentence>19</stanfordSentence>
+</ref>
+<ref id="1030">
+<value>equal parts</value>
+<head>parts</head>
+<sentence>26</sentence>
+<stanfordSentence>25</stanfordSentence>
+</ref>
+<ref id="987">
+<value>twelve thousand pounds of hemp</value>
+<head>pounds</head>
+<sentence>19</sentence>
+<stanfordSentence>19</stanfordSentence>
+</ref>
+<ref id="986">
+<value>He</value>
+<head>He</head>
+<sentence>19</sentence>
+<stanfordSentence>19</stanfordSentence>
+</ref>
+<ref id="947">
+<value>the princess</value>
+<head>princess</head>
+<sentence>13</sentence>
+<stanfordSentence>13</stanfordSentence>
+</ref>
+<ref id="946">
+<value>the wicked dragon</value>
+<head>dragon</head>
+<sentence>13</sentence>
+<stanfordSentence>13</stanfordSentence>
+</ref>
+<ref id="945">
+<value>his land</value>
+<head>land</head>
+<sentence>13</sentence>
+<stanfordSentence>13</stanfordSentence>
+</ref>
+<ref id="944">
+<value>his</value>
+<head>his</head>
+<sentence>13</sentence>
+<stanfordSentence>13</stanfordSentence>
+</ref>
+<ref id="943">
+<value>Nikita the Tanner</value>
+<head>Tanner</head>
+<sentence>13</sentence>
+<stanfordSentence>13</stanfordSentence>
+</ref>
+<ref id="942">
+<value>the tsar went in person to beg Nikita the Tanner to free his land from the wicked dragon and rescue the princess</value>
+<head>went</head>
+<sentence>13</sentence>
+<stanfordSentence>13</stanfordSentence>
+</ref>
+<ref id="941">
+<value>the tsar</value>
+<head>tsar</head>
+<sentence>13</sentence>
+<stanfordSentence>13</stanfordSentence>
+</ref>
+<ref id="940">
+<value>this letter</value>
+<head>letter</head>
+<sentence>13</sentence>
+<stanfordSentence>13</stanfordSentence>
+</ref>
+<ref id="922">
+<value>him</value>
+<head>him</head>
+<sentence>10</sentence>
+<stanfordSentence>10</stanfordSentence>
+</ref>
+<ref id="921">
+<value>the dragon</value>
+<head>dragon</head>
+<sentence>10</sentence>
+<stanfordSentence>10</stanfordSentence>
+</ref>
+<ref id="920">
+<value>The princess</value>
+<head>princess</head>
+<sentence>10</sentence>
+<stanfordSentence>10</stanfordSentence>
+</ref>
+<ref id="1029">
+<value>all the earth , all the world</value>
+<head>earth</head>
+<sentence>26</sentence>
+<stanfordSentence>25</stanfordSentence>
+</ref>
+<ref id="1028">
+<value>us</value>
+<head>us</head>
+<sentence>26</sentence>
+<stanfordSentence>26</stanfordSentence>
+</ref>
+<ref id="1083">
+<value>hides</value>
+<head>hides</head>
+<sentence>34</sentence>
+<stanfordSentence>33</stanfordSentence>
+</ref>
+<ref id="1082">
+<value>any reward</value>
+<head>reward</head>
+<sentence>34</sentence>
+<stanfordSentence>33</stanfordSentence>
+</ref>
+<ref id="1081">
+<value>his heroic deed</value>
+<head>deed</head>
+<sentence>34</sentence>
+<stanfordSentence>33</stanfordSentence>
+</ref>
+<ref id="1080">
+<value>his</value>
+<head>his</head>
+<sentence>34</sentence>
+<stanfordSentence>33</stanfordSentence>
+</ref>
+<ref id="1079">
+<value>Nikita</value>
+<head>Nikita</head>
+<sentence>34</sentence>
+<stanfordSentence>29</stanfordSentence>
+</ref>
+<ref id="1009">
+<value>the door</value>
+<head>door</head>
+<sentence>22</sentence>
+<stanfordSentence>22</stanfordSentence>
+</ref>
+<ref id="1008">
+<value>he</value>
+<head>he</head>
+<sentence>22</sentence>
+<stanfordSentence>22</stanfordSentence>
+</ref>
+<ref id="871">
+<value>he</value>
+<head>he</head>
+<sentence>1</sentence>
+<stanfordSentence>1</stanfordSentence>
+</ref>
+<ref id="870">
+<value>every house</value>
+<head>house</head>
+<sentence>1</sentence>
+<stanfordSentence>1</stanfordSentence>
+</ref>
+<ref id="1060">
+<value>your water</value>
+<head>water</head>
+<sentence>30</sentence>
+<stanfordSentence>29</stanfordSentence>
+</ref>
+<ref id="1037">
+<value>a boundary line</value>
+<head>line</head>
+<sentence>27</sentence>
+<stanfordSentence>26</stanfordSentence>
+</ref>
+<ref id="1036">
+<value>us</value>
+<head>us</head>
+<sentence>27</sentence>
+<stanfordSentence>25</stanfordSentence>
+</ref>
+<ref id="1035">
+<value>Nikita</value>
+<head>Nikita</head>
+<sentence>27</sentence>
+<stanfordSentence>24</stanfordSentence>
+</ref>
+<ref id="886">
+<value>her</value>
+<head>her</head>
+<sentence>4</sentence>
+<stanfordSentence>4</stanfordSentence>
+</ref>
+<ref id="869">
+<value>a lovely maiden from every house , whom he then devoured</value>
+<head>maiden</head>
+<sentence>1</sentence>
+<stanfordSentence>1</stanfordSentence>
+</ref>
+<ref id="909">
+<value>the answer</value>
+<head>answer</head>
+<sentence>8</sentence>
+<stanfordSentence>8</stanfordSentence>
+</ref>
+<ref id="885">
+<value>he</value>
+<head>he</head>
+<sentence>4</sentence>
+<stanfordSentence>4</stanfordSentence>
+</ref>
+<ref id="868">
+<value>the people</value>
+<head>people</head>
+<sentence>1</sentence>
+<stanfordSentence>1</stanfordSentence>
+</ref>
+<ref id="908">
+<value>them</value>
+<head>them</head>
+<sentence>8</sentence>
+<stanfordSentence>8</stanfordSentence>
+</ref>
+<ref id="867">
+<value>heavy tribute - a lovely maiden from every house , whom he then devoured</value>
+<head>tribute - maiden</head>
+<sentence>1</sentence>
+<stanfordSentence>1</stanfordSentence>
+</ref>
+<ref id="907">
+<value>it</value>
+<head>it</head>
+<sentence>8</sentence>
+<stanfordSentence>8</stanfordSentence>
+</ref>
+<ref id="866">
+<value>he</value>
+<head>he</head>
+<sentence>1</sentence>
+<stanfordSentence>1</stanfordSentence>
+</ref>
+<ref id="906">
+<value>the dog</value>
+<head>dog</head>
+<sentence>8</sentence>
+<stanfordSentence>8</stanfordSentence>
+</ref>
+<ref id="865">
+<value>Kiev</value>
+<head>Kiev</head>
+<sentence>1</sentence>
+<stanfordSentence>1</stanfordSentence>
+</ref>
+<ref id="864">
+<value>A dragon</value>
+<head>dragon</head>
+<sentence>1</sentence>
+<stanfordSentence>1</stanfordSentence>
+</ref>
+<ref id="905">
+<value>dog</value>
+<head>dog</head>
+<sentence>8</sentence>
+<stanfordSentence>8</stanfordSentence>
+</ref>
+<ref id="904">
+<value>the dog 's neck</value>
+<head>neck</head>
+<sentence>8</sentence>
+<stanfordSentence>8</stanfordSentence>
+</ref>
+<ref id="1059">
+<value>your</value>
+<head>your</head>
+<sentence>30</sentence>
+<stanfordSentence>29</stanfordSentence>
+</ref>
+<ref id="903">
+<value>her letter</value>
+<head>letter</head>
+<sentence>8</sentence>
+<stanfordSentence>8</stanfordSentence>
+</ref>
+<ref id="1058">
+<value>you</value>
+<head>you</head>
+<sentence>30</sentence>
+<stanfordSentence>25</stanfordSentence>
+</ref>
+<ref id="902">
+<value>her</value>
+<head>her</head>
+<sentence>8</sentence>
+<stanfordSentence>8</stanfordSentence>
+</ref>
+<ref id="901">
+<value>She</value>
+<head>She</head>
+<sentence>8</sentence>
+<stanfordSentence>8</stanfordSentence>
+</ref>
+<ref id="1057">
+<value>the sea</value>
+<head>sea</head>
+<sentence>30</sentence>
+<stanfordSentence>30</stanfordSentence>
+</ref>
+<ref id="1056">
+<value>us</value>
+<head>us</head>
+<sentence>30</sentence>
+<stanfordSentence>25</stanfordSentence>
+</ref>
+<ref id="969">
+<value>the dragon</value>
+<head>dragon</head>
+<sentence>15</sentence>
+<stanfordSentence>15</stanfordSentence>
+</ref>
+<ref id="1055">
+<value>Nikita</value>
+<head>Nikita</head>
+<sentence>30</sentence>
+<stanfordSentence>30</stanfordSentence>
+</ref>
+<ref id="985">
+<value>theirs</value>
+<head>theirs</head>
+<sentence>18</sentence>
+<stanfordSentence>18</stanfordSentence>
+</ref>
+<ref id="1054">
+<value>the earth</value>
+<head>earth</head>
+<sentence>30</sentence>
+<stanfordSentence>25</stanfordSentence>
+</ref>
+<ref id="968">
+<value>he</value>
+<head>he</head>
+<sentence>15</sentence>
+<stanfordSentence>15</stanfordSentence>
+</ref>
+<ref id="1053">
+<value>We</value>
+<head>We</head>
+<sentence>30</sentence>
+<stanfordSentence>29</stanfordSentence>
+</ref>
+<ref id="984">
+<value>he</value>
+<head>he</head>
+<sentence>18</sentence>
+<stanfordSentence>18</stanfordSentence>
+</ref>
+<ref id="967">
+<value>him</value>
+<head>him</head>
+<sentence>15</sentence>
+<stanfordSentence>15</stanfordSentence>
+</ref>
+<ref id="966">
+<value>tsarina</value>
+<head>tsarina</head>
+<sentence>15</sentence>
+<stanfordSentence>15</stanfordSentence>
+</ref>
+<ref id="983">
+<value>tears</value>
+<head>tears</head>
+<sentence>18</sentence>
+<stanfordSentence>18</stanfordSentence>
+</ref>
+<ref id="982">
+<value>Nikita himself</value>
+<head>Nikita</head>
+<sentence>18</sentence>
+<stanfordSentence>18</stanfordSentence>
+</ref>
+<ref id="965">
+<value>tsar</value>
+<head>tsar</head>
+<sentence>15</sentence>
+<stanfordSentence>15</stanfordSentence>
+</ref>
+<ref id="964">
+<value>the tsar and tsarina</value>
+<head>tsar</head>
+<sentence>15</sentence>
+<stanfordSentence>15</stanfordSentence>
+</ref>
+<ref id="1142">
+<value>his</value>
+<head>his</head>
+<sentence>5</sentence>
+<stanfordSentence>5</stanfordSentence>
+</ref>
+<ref id="899">
+<value>father</value>
+<head>father</head>
+<sentence>7</sentence>
+<stanfordSentence>7</stanfordSentence>
+</ref>
+<ref id="898">
+<value>her father and mother</value>
+<head>father</head>
+<sentence>7</sentence>
+<stanfordSentence>7</stanfordSentence>
+</ref>
+<ref id="897">
+<value>her</value>
+<head>her</head>
+<sentence>7</sentence>
+<stanfordSentence>7</stanfordSentence>
+</ref>
+<ref id="896">
+<value>The princess</value>
+<head>princess</head>
+<sentence>7</sentence>
+<stanfordSentence>7</stanfordSentence>
+</ref>
+<ref id="939">
+<value>her</value>
+<head>her</head>
+<sentence>12</sentence>
+<stanfordSentence>12</stanfordSentence>
+</ref>
+<ref id="1013">
+<value>the open field</value>
+<head>field</head>
+<sentence>23</sentence>
+<stanfordSentence>23</stanfordSentence>
+</ref>
+<ref id="938">
+<value>him</value>
+<head>him</head>
+<sentence>12</sentence>
+<stanfordSentence>12</stanfordSentence>
+</ref>
+<ref id="1012">
+<value>trouble</value>
+<head>trouble</head>
+<sentence>23</sentence>
+<stanfordSentence>23</stanfordSentence>
+</ref>
+<ref id="937">
+<value>Kiev</value>
+<head>Kiev</head>
+<sentence>12</sentence>
+<stanfordSentence>12</stanfordSentence>
+</ref>
+<ref id="1011">
+<value>he</value>
+<head>he</head>
+<sentence>23</sentence>
+<stanfordSentence>23</stanfordSentence>
+</ref>
+<ref id="936">
+<value>Nikita the Tanner</value>
+<head>Tanner</head>
+<sentence>12</sentence>
+<stanfordSentence>12</stanfordSentence>
+</ref>
+<ref id="1010">
+<value>The dragon</value>
+<head>dragon</head>
+<sentence>23</sentence>
+<stanfordSentence>23</stanfordSentence>
+</ref>
+<ref id="935">
+<value>her father</value>
+<head>father</head>
+<sentence>12</sentence>
+<stanfordSentence>12</stanfordSentence>
+</ref>
+<ref id="934">
+<value>her</value>
+<head>her</head>
+<sentence>12</sentence>
+<stanfordSentence>12</stanfordSentence>
+</ref>
+<ref id="933">
+<value>she</value>
+<head>she</head>
+<sentence>12</sentence>
+<stanfordSentence>12</stanfordSentence>
+</ref>
+<ref id="932">
+<value>this</value>
+<head>this</head>
+<sentence>12</sentence>
+<stanfordSentence>12</stanfordSentence>
+</ref>
+<ref id="931">
+<value>the princess</value>
+<head>princess</head>
+<sentence>12</sentence>
+<stanfordSentence>12</stanfordSentence>
+</ref>
+<ref id="1049">
+<value>the Caspian Sea</value>
+<head>Sea</head>
+<sentence>28</sentence>
+<stanfordSentence>27</stanfordSentence>
+</ref>
+<ref id="1048">
+<value>Kiev</value>
+<head>Kiev</head>
+<sentence>28</sentence>
+<stanfordSentence>27</stanfordSentence>
+</ref>
+<ref id="1047">
+<value>a furrow</value>
+<head>furrow</head>
+<sentence>28</sentence>
+<stanfordSentence>27</stanfordSentence>
+</ref>
+<ref id="1046">
+<value>he</value>
+<head>he</head>
+<sentence>28</sentence>
+<stanfordSentence>23</stanfordSentence>
+</ref>
+<ref id="1045">
+<value>Kiev</value>
+<head>Kiev</head>
+<sentence>28</sentence>
+<stanfordSentence>27</stanfordSentence>
+</ref>
+<ref id="1044">
+<value>a boundary</value>
+<head>a boundary</head>
+<sentence>28</sentence>
+<stanfordSentence>26</stanfordSentence>
+</ref>
+<ref id="1043">
+<value>the dragon</value>
+<head>dragon</head>
+<sentence>28</sentence>
+<stanfordSentence>28</stanfordSentence>
+</ref>
+<ref id="1042">
+<value>it</value>
+<head>it</head>
+<sentence>28</sentence>
+<stanfordSentence>27</stanfordSentence>
+</ref>
+<ref id="1041">
+<value>the dragon</value>
+<head>dragon</head>
+<sentence>28</sentence>
+<stanfordSentence>28</stanfordSentence>
+</ref>
+<ref id="1040">
+<value>twelve thousand pounds</value>
+<head>pounds</head>
+<sentence>28</sentence>
+<stanfordSentence>27</stanfordSentence>
+</ref>
+<ref id="1067">
+<value>the sea</value>
+<head>sea</head>
+<sentence>31</sentence>
+<stanfordSentence>29</stanfordSentence>
+</ref>
+<ref id="1066">
+<value>him</value>
+<head>him</head>
+<sentence>31</sentence>
+<stanfordSentence>30</stanfordSentence>
+</ref>
+<ref id="1065">
+<value>him</value>
+<head>him</head>
+<sentence>31</sentence>
+<stanfordSentence>30</stanfordSentence>
+</ref>
+<ref id="1064">
+<value>Nikita</value>
+<head>Nikita</head>
+<sentence>31</sentence>
+<stanfordSentence>26</stanfordSentence>
+</ref>
+<ref id="1063">
+<value>the sea</value>
+<head>sea</head>
+<sentence>31</sentence>
+<stanfordSentence>29</stanfordSentence>
+</ref>
+<ref id="1062">
+<value>the middle of the sea</value>
+<head>middle</head>
+<sentence>31</sentence>
+<stanfordSentence>30</stanfordSentence>
+</ref>
+<ref id="1061">
+<value>The dragon</value>
+<head>dragon</head>
+<sentence>31</sentence>
+<stanfordSentence>30</stanfordSentence>
+</ref>
+<ref id="1039">
+<value>a plow that weighed twelve thousand pounds</value>
+<head>a</head>
+<sentence>28</sentence>
+<stanfordSentence>27</stanfordSentence>
+</ref>
+<ref id="1038">
+<value>He</value>
+<head>He</head>
+<sentence>28</sentence>
+<stanfordSentence>27</stanfordSentence>
+</ref>
+<ref id="884">
+<value>a beauty</value>
+<head>beauty</head>
+<sentence>3</sentence>
+<stanfordSentence>3</stanfordSentence>
+</ref>
+<ref id="883">
+<value>she</value>
+<head>she</head>
+<sentence>3</sentence>
+<stanfordSentence>3</stanfordSentence>
+</ref>
+<ref id="882">
+<value>her</value>
+<head>her</head>
+<sentence>3</sentence>
+<stanfordSentence>3</stanfordSentence>
+</ref>
+<ref id="881">
+<value>his lair</value>
+<head>lair</head>
+<sentence>3</sentence>
+<stanfordSentence>3</stanfordSentence>
+</ref>
+<ref id="880">
+<value>his</value>
+<head>his</head>
+<sentence>3</sentence>
+<stanfordSentence>3</stanfordSentence>
+</ref>
+<ref id="900">
+<value>mother</value>
+<head>mother</head>
+<sentence>7</sentence>
+<stanfordSentence>7</stanfordSentence>
+</ref>
+<ref id="981">
+<value>the dragon</value>
+<head>dragon</head>
+<sentence>17</sentence>
+<stanfordSentence>17</stanfordSentence>
+</ref>
+<ref id="963">
+<value>the twelve hides</value>
+<head>hides</head>
+<sentence>14</sentence>
+<stanfordSentence>14</stanfordSentence>
+</ref>
+<ref id="980">
+<value>tears</value>
+<head>tears</head>
+<sentence>17</sentence>
+<stanfordSentence>17</stanfordSentence>
+</ref>
+<ref id="962">
+<value>he</value>
+<head>he</head>
+<sentence>14</sentence>
+<stanfordSentence>14</stanfordSentence>
+</ref>
+<ref id="961">
+<value>his hands</value>
+<head>hands</head>
+<sentence>14</sentence>
+<stanfordSentence>14</stanfordSentence>
+</ref>
+<ref id="960">
+<value>his</value>
+<head>his</head>
+<sentence>14</sentence>
+<stanfordSentence>14</stanfordSentence>
+</ref>
+<ref id="1052">
+<value>the whole earth</value>
+<head>earth</head>
+<sentence>29</sentence>
+<stanfordSentence>28</stanfordSentence>
+</ref>
+<ref id="1051">
+<value>we</value>
+<head>we</head>
+<sentence>29</sentence>
+<stanfordSentence>28</stanfordSentence>
+</ref>
+<ref id="879">
+<value>her</value>
+<head>her</head>
+<sentence>3</sentence>
+<stanfordSentence>3</stanfordSentence>
+</ref>
+<ref id="1050">
+<value>the dragon</value>
+<head>dragon</head>
+<sentence>29</sentence>
+<stanfordSentence>25</stanfordSentence>
+</ref>
+<ref id="878">
+<value>her</value>
+<head>her</head>
+<sentence>3</sentence>
+<stanfordSentence>3</stanfordSentence>
+</ref>
+<ref id="895">
+<value>dragon</value>
+<head>dragon</head>
+<sentence>6</sentence>
+<stanfordSentence>6</stanfordSentence>
+</ref>
+<ref id="894">
+<value>the dragon 's lair</value>
+<head>lair</head>
+<sentence>6</sentence>
+<stanfordSentence>6</stanfordSentence>
+</ref>
+<ref id="877">
+<value>He</value>
+<head>He</head>
+<sentence>3</sentence>
+<stanfordSentence>3</stanfordSentence>
+</ref>
+<ref id="893">
+<value>her</value>
+<head>her</head>
+<sentence>6</sentence>
+<stanfordSentence>6</stanfordSentence>
+</ref>
+<ref id="1018">
+<value>him</value>
+<head>him</head>
+<sentence>24</sentence>
+<stanfordSentence>24</stanfordSentence>
+</ref>
+<ref id="892">
+<value>a little dog that had followed her to the dragon 's lair</value>
+<head/>
+<sentence>6</sentence>
+<stanfordSentence>6</stanfordSentence>
+</ref>
+<ref id="891">
+<value>The princess</value>
+<head>princess</head>
+<sentence>6</sentence>
+<stanfordSentence>6</stanfordSentence>
+</ref>
+<ref id="1017">
+<value>he</value>
+<head>he</head>
+<sentence>24</sentence>
+<stanfordSentence>24</stanfordSentence>
+</ref>
+<ref id="1016">
+<value>a long time or a short time</value>
+<head>time</head>
+<sentence>24</sentence>
+<stanfordSentence>24</stanfordSentence>
+</ref>
+<ref id="1015">
+<value>him</value>
+<head>him</head>
+<sentence>24</sentence>
+<stanfordSentence>24</stanfordSentence>
+</ref>
+<ref id="1014">
+<value>Nikita</value>
+<head>Nikita</head>
+<sentence>24</sentence>
+<stanfordSentence>24</stanfordSentence>
+</ref>
+<ref id="979">
+<value>him</value>
+<head>him</head>
+<sentence>17</sentence>
+<stanfordSentence>17</stanfordSentence>
+</ref>
+<ref id="978">
+<value>Nikita</value>
+<head>Nikita</head>
+<sentence>17</sentence>
+<stanfordSentence>17</stanfordSentence>
+</ref>
+<ref id="977">
+<value>The little children</value>
+<head>children</head>
+<sentence>17</sentence>
+<stanfordSentence>17</stanfordSentence>
+</ref>
+<ref id="959">
+<value>fear</value>
+<head>fear</head>
+<sentence>14</sentence>
+<stanfordSentence>14</stanfordSentence>
+</ref>
+<ref id="1071">
+<value>fourteen feet</value>
+<head>feet</head>
+<sentence>32</sentence>
+<stanfordSentence>31</stanfordSentence>
+</ref>
+<ref id="958">
+<value>he</value>
+<head>he</head>
+<sentence>14</sentence>
+<stanfordSentence>14</stanfordSentence>
+</ref>
+<ref id="1070">
+<value>it</value>
+<head>it</head>
+<sentence>32</sentence>
+<stanfordSentence>32</stanfordSentence>
+</ref>
+<ref id="957">
+<value>him</value>
+<head>him</head>
+<sentence>14</sentence>
+<stanfordSentence>14</stanfordSentence>
+</ref>
+<ref id="956">
+<value>the tsar in person had come to see him</value>
+<head>come</head>
+<sentence>14</sentence>
+<stanfordSentence>14</stanfordSentence>
+</ref>
+<ref id="955">
+<value>the tsar</value>
+<head>tsar</head>
+<sentence>14</sentence>
+<stanfordSentence>14</stanfordSentence>
+</ref>
+<ref id="954">
+<value>he</value>
+<head>he</head>
+<sentence>14</sentence>
+<stanfordSentence>14</stanfordSentence>
+</ref>
+<ref id="953">
+<value>his hands</value>
+<head>hands</head>
+<sentence>14</sentence>
+<stanfordSentence>14</stanfordSentence>
+</ref>
+<ref id="952">
+<value>his</value>
+<head>his</head>
+<sentence>14</sentence>
+<stanfordSentence>14</stanfordSentence>
+</ref>
+<ref id="951">
+<value>twelve hides</value>
+<head>hides</head>
+<sentence>14</sentence>
+<stanfordSentence>14</stanfordSentence>
+</ref>
+<ref id="950">
+<value>hides</value>
+<head>hides</head>
+<sentence>14</sentence>
+<stanfordSentence>14</stanfordSentence>
+</ref>
+<ref id="930">
+<value>he</value>
+<head>he</head>
+<sentence>11</sentence>
+<stanfordSentence>11</stanfordSentence>
+</ref>
+<ref id="1000">
+<value>himself</value>
+<head>himself</head>
+<sentence>20</sentence>
+<stanfordSentence>20</stanfordSentence>
+</ref>
+<ref id="999">
+<value>the dragon</value>
+<head>dragon</head>
+<sentence>20</sentence>
+<stanfordSentence>20</stanfordSentence>
+</ref>
+<ref id="1069">
+<value>this very day</value>
+<head>this day</head>
+<sentence>32</sentence>
+<stanfordSentence>31</stanfordSentence>
+</ref>
+<ref id="1068">
+<value>That furrow</value>
+<head>furrow</head>
+<sentence>32</sentence>
+<stanfordSentence>31</stanfordSentence>
+</ref>
+<ref id="998">
+<value>dragon</value>
+<head>dragon</head>
+<sentence>20</sentence>
+<stanfordSentence>20</stanfordSentence>
+</ref>
+<ref id="997">
+<value>the dragon 's lair</value>
+<head>lair</head>
+<sentence>20</sentence>
+<stanfordSentence>20</stanfordSentence>
+</ref>
+<ref id="996">
+<value>Nikita</value>
+<head>Nikita</head>
+<sentence>20</sentence>
+<stanfordSentence>20</stanfordSentence>
+</ref>
+<ref id="949">
+<value>Nikita</value>
+<head>Nikita</head>
+<sentence>14</sentence>
+<stanfordSentence>14</stanfordSentence>
+</ref>
+<ref id="948">
+<value>that moment</value>
+<head>moment</head>
+<sentence>14</sentence>
+<stanfordSentence>14</stanfordSentence>
+</ref>
+<ref id="929">
+<value>the city of Kiev</value>
+<head>city</head>
+<sentence>11</sentence>
+<stanfordSentence>11</stanfordSentence>
+</ref>
+<ref id="928">
+<value>a tanner in the city of Kiev was stronger than he</value>
+<head>stronger</head>
+<sentence>11</sentence>
+<stanfordSentence>11</stanfordSentence>
+</ref>
+<ref id="927">
+<value>a tanner in the city of Kiev</value>
+<head>tanner</head>
+<sentence>11</sentence>
+<stanfordSentence>11</stanfordSentence>
+</ref>
+<ref id="926">
+<value>he</value>
+<head>he</head>
+<sentence>11</sentence>
+<stanfordSentence>11</stanfordSentence>
+</ref>
+<ref id="925">
+<value>one day</value>
+<head>day</head>
+<sentence>11</sentence>
+<stanfordSentence>11</stanfordSentence>
+</ref>
+<ref id="924">
+<value>he</value>
+<head>he</head>
+<sentence>11</sentence>
+<stanfordSentence>11</stanfordSentence>
+</ref>
+<ref id="923">
+<value>a long time</value>
+<head>time</head>
+<sentence>11</sentence>
+<stanfordSentence>11</stanfordSentence>
+</ref>
+</refexp>

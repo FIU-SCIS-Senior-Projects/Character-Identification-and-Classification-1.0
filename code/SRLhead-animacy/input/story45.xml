@@ -1,0 +1,1733 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<story>
+  <rep id="edu.mit.story.char">
+    <param editable="false"/>
+    <factory id="edu.mit.story.char.factory.null"/>
+    <desc id="0" len="5803" off="0">
+/**
+ * Title      : Rolling Pea
+ * Collector  : Aleksandr Afanas'ev
+ * Translator : Pavlo B. of One Hour Translation, edited by Jared S.
+ * Published  : 
+ * Publisher  : 
+ * Words	  : 1050
+ * New Tale # : 133
+ * Old Tale # : 74a
+ *
+ */
+
+Once upon a time there lived a man and a woman who had two sons and one daughter. One 
+day the father sent his sons to plough. They asked, "Who will bring us our lunch?" The father 
+said, "The girl."
+
+The girl asked, "How will I find you there?" 
+
+Then the brothers answered, "After coming to the mountain you will see three paths. You should 
+follow the one with shavings on it." 
+
+A dragon saw the brothers marking the path with shavings; he then took those shavings and 
+scattered them on the way to his own courtyard. The mother cooked lunch and gave it to her 
+daughter to carry. The girl went out to the mountain and walked along the path with the 
+shavings, came to the dragon's courtyard, who then caught her and threw her into a hole.
+
+The brothers waited and waited for their lunch, finally they unharnessed their oxen, left them to 
+graze, went home, and asked their mother: "Mom, where is our lunch?"
+
+Mother said, "I've sent it with the girl a long time ago."
+
+So they waited for her until the evening. In the morning after waking up they saw that she hadn't 
+come back! The brothers said, "It must be that cursed dragon who caught her." 
+
+They got dressed and went to look for their sister. They walked and walked - when suddenly 
+they saw the herdsman tending a herd. They greeted each other; the herdsman asked,
+"Where are you going?"
+
+They replied, "To the dragon - to take our sister back."
+ 
+"If you want to set your sister free - you should eat my biggest ox."
+
+But they didn't want to and went further. They walked and walked - when suddenly they saw the 
+shepherd tending the sheep. They greeted him. He asked, "Where are you going?"
+
+"To the dragon - to take our sister back"
+
+"If you want to set your sister free - you should eat my biggest ram."
+
+But they didn't want to and went further.
+
+They walked and walked - when suddenly they saw the swine breeder tending the swine. They 
+greeted him. He asked, "Where are you going?"
+
+"To the dragon - to take our sister back"
+
+"If you want to set your sister free - you should eat my biggest hog."
+
+But they didn't want to and went further. They walked and walked - when suddenly they saw the 
+dragon standing near his house. The dragon greeted them and asked, "Why did you come 
+here?"
+
+"We have come to you - to take back our sister"
+
+"If you want to set your sister free - you have to eat twelve oxen, twelve rams and twelve hogs."
+
+But they managed to eat only tiny pieces and no longer wanted anymore. Dragon then pinned 
+them under a stone. 
+
+Mother cried that neither her sons nor daughter came back home. Once, she took the buckets 
+and went to the well to fetch water. After collecting water and as she was on her way back a 
+rolling pea on the road hopped into a bucket, unknown to her.
+
+After coming home she poured the water - then she looked inside: there was a pea in one of the 
+buckets, she took and ate it, and a son was born from that pea.
+
+He was given the name, Rolling Pea; he grew not by the hour, but by the minute.
+
+Once during supper Rolling Pea asked, "Did you have any other children, mom?"
+
+"I had two sons and one daughter."
+
+"And where are they?"
+
+"The dragon stole my daughter, then my sons went to look for her, but neither my sons nor my 
+daughter ever came back."
+
+He finished eating, put his shoes on and got dressed.
+
+"I will go and find them."
+
+Then Rolling Pea went to the smith and asked him to make a large mace. The smith made him 
+a large mace; Rolling Pea took that mace, paid and then went on his way.
+
+He walked and walked - when suddenly he saw the herdsman tending the herd. He greeted him 
+and then the herdsman asked, "Where are you going?"
+
+"To the dragon - to take my sister back"
+
+"Eat my biggest ox and then you can set your sister free." 
+
+He ate it, thanked him and went further. He walked and walked - when suddenly he saw the 
+shepherd tending sheep. He greeted him as well, and the shepherd asked, "Where are you 
+going?"
+
+He said, "To the dragon - to take my sister back."
+
+"Eat my biggest ram and then you can set your sister free." 
+
+He ate it, thanked him and went further. He walked and walked - when suddenly he saw the 
+swine breeder tending the swine. He greeted him as well and the swine breeder asked, "Where 
+are you going?"
+
+"To the dragon - to take my sister back."
+
+"Eat my biggest hog and then you can set your sister free." 
+
+He ate it, thanked him and went further. He walked and walked until he saw dragon's home and 
+his sister collecting water from the well.
+
+"Hello, sister," said Rolling Pea.
+
+She said to him, "Surely you are not my brother?"
+
+He said, "You will see that I am!"
+
+The dragon came out, "Ah, hello!" he said.
+
+"Hello!"
+
+The dragon asked him, "Why did you come here?"
+
+"I came for my sister and brothers."
+
+"Eat twelve oxen, twelve rams and twelve hogs."
+
+He ate them all. The dragon said, "Well done!"
+
+"Now, do you want to fight me or to make peace with me?"
+
+"I want to fight you! I don't want to make peace with you."
+
+"Blow the horn," said dragon.
+
+"You blow first," said Rolling Pea. "You are the master of the house in this case, not me."
+
+The dragon blew the horn and it turned into cast iron; Rolling Pea blew the horn and it turned 
+into copper.
+
+Rolling Pea hit the dragon with his mace, so that he sank ankle-deep in the ground, Rolling Pea 
+struck him the second time and killed the dragon. Then he cut the dragon into small pieces, 
+scattered his ashes, set his brothers free from under the stone, took his sister, and they all went 
+back home. His father and his mother were again happy!
+
+</desc>
+  </rep>
+  <rep id="edu.mit.story.text">
+    <factory id="edu.mit.story.text.factory.default"/>
+    <desc id="1" len="235" off="0">MULTI</desc>
+    <desc id="2" len="5568" off="235">TEXT</desc>
+  </rep>
+  <rep id="edu.mit.parsing.token">
+    <factory id="edu.mit.parsing.token.factory.default">
+      <param tokenizer="edu.stanford.parser.tokenizer.penn"/>
+    </factory>
+    <desc id="3" len="4" off="237">Once</desc>
+    <desc id="4" len="4" off="242">upon</desc>
+    <desc id="5" len="1" off="247">a</desc>
+    <desc id="6" len="4" off="249">time</desc>
+    <desc id="7" len="5" off="254">there</desc>
+    <desc id="8" len="5" off="260">lived</desc>
+    <desc id="9" len="1" off="266">a</desc>
+    <desc id="10" len="3" off="268">man</desc>
+    <desc id="11" len="3" off="272">and</desc>
+    <desc id="12" len="1" off="276">a</desc>
+    <desc id="13" len="5" off="278">woman</desc>
+    <desc id="14" len="3" off="284">who</desc>
+    <desc id="15" len="3" off="288">had</desc>
+    <desc id="16" len="3" off="292">two</desc>
+    <desc id="17" len="4" off="296">sons</desc>
+    <desc id="18" len="3" off="301">and</desc>
+    <desc id="19" len="3" off="305">one</desc>
+    <desc id="20" len="8" off="309">daughter</desc>
+    <desc id="21" len="1" off="317">.</desc>
+    <desc id="22" len="3" off="319">One</desc>
+    <desc id="23" len="3" off="324">day</desc>
+    <desc id="24" len="3" off="328">the</desc>
+    <desc id="25" len="6" off="332">father</desc>
+    <desc id="26" len="4" off="339">sent</desc>
+    <desc id="27" len="3" off="344">his</desc>
+    <desc id="28" len="4" off="348">sons</desc>
+    <desc id="29" len="2" off="353">to</desc>
+    <desc id="30" len="6" off="356">plough</desc>
+    <desc id="31" len="1" off="362">.</desc>
+    <desc id="32" len="4" off="364">They</desc>
+    <desc id="33" len="5" off="369">asked</desc>
+    <desc id="34" len="1" off="374">,</desc>
+    <desc id="35" len="1" off="376">``</desc>
+    <desc id="36" len="3" off="377">Who</desc>
+    <desc id="37" len="4" off="381">will</desc>
+    <desc id="38" len="5" off="386">bring</desc>
+    <desc id="39" len="2" off="392">us</desc>
+    <desc id="40" len="3" off="395">our</desc>
+    <desc id="41" len="5" off="399">lunch</desc>
+    <desc id="42" len="1" off="404">?</desc>
+    <desc id="43" len="1" off="405">''</desc>
+    <desc id="44" len="3" off="407">The</desc>
+    <desc id="45" len="6" off="411">father</desc>
+    <desc id="46" len="4" off="419">said</desc>
+    <desc id="47" len="1" off="423">,</desc>
+    <desc id="48" len="1" off="425">``</desc>
+    <desc id="49" len="3" off="426">The</desc>
+    <desc id="50" len="4" off="430">girl</desc>
+    <desc id="51" len="1" off="434">.</desc>
+    <desc id="52" len="1" off="435">''</desc>
+    <desc id="53" len="3" off="438">The</desc>
+    <desc id="54" len="4" off="442">girl</desc>
+    <desc id="55" len="5" off="447">asked</desc>
+    <desc id="56" len="1" off="452">,</desc>
+    <desc id="57" len="1" off="454">``</desc>
+    <desc id="58" len="3" off="455">How</desc>
+    <desc id="59" len="4" off="459">will</desc>
+    <desc id="60" len="1" off="464">I</desc>
+    <desc id="61" len="4" off="466">find</desc>
+    <desc id="62" len="3" off="471">you</desc>
+    <desc id="63" len="5" off="475">there</desc>
+    <desc id="64" len="1" off="480">?</desc>
+    <desc id="65" len="1" off="481">''</desc>
+    <desc id="66" len="4" off="485">Then</desc>
+    <desc id="67" len="3" off="490">the</desc>
+    <desc id="68" len="8" off="494">brothers</desc>
+    <desc id="69" len="8" off="503">answered</desc>
+    <desc id="70" len="1" off="511">,</desc>
+    <desc id="71" len="1" off="513">``</desc>
+    <desc id="72" len="5" off="514">After</desc>
+    <desc id="73" len="6" off="520">coming</desc>
+    <desc id="74" len="2" off="527">to</desc>
+    <desc id="75" len="3" off="530">the</desc>
+    <desc id="76" len="8" off="534">mountain</desc>
+    <desc id="77" len="3" off="543">you</desc>
+    <desc id="78" len="4" off="547">will</desc>
+    <desc id="79" len="3" off="552">see</desc>
+    <desc id="80" len="5" off="556">three</desc>
+    <desc id="81" len="5" off="562">paths</desc>
+    <desc id="82" len="1" off="567">.</desc>
+    <desc id="83" len="3" off="569">You</desc>
+    <desc id="84" len="6" off="573">should</desc>
+    <desc id="85" len="6" off="581">follow</desc>
+    <desc id="86" len="3" off="588">the</desc>
+    <desc id="87" len="3" off="592">one</desc>
+    <desc id="88" len="4" off="596">with</desc>
+    <desc id="89" len="8" off="601">shavings</desc>
+    <desc id="90" len="2" off="610">on</desc>
+    <desc id="91" len="2" off="613">it</desc>
+    <desc id="92" len="1" off="615">.</desc>
+    <desc id="93" len="1" off="616">''</desc>
+    <desc id="94" len="1" off="620">A</desc>
+    <desc id="95" len="6" off="622">dragon</desc>
+    <desc id="96" len="3" off="629">saw</desc>
+    <desc id="97" len="3" off="633">the</desc>
+    <desc id="98" len="8" off="637">brothers</desc>
+    <desc id="99" len="7" off="646">marking</desc>
+    <desc id="100" len="3" off="654">the</desc>
+    <desc id="101" len="4" off="658">path</desc>
+    <desc id="102" len="4" off="663">with</desc>
+    <desc id="103" len="8" off="668">shavings</desc>
+    <desc id="104" len="1" off="676">;</desc>
+    <desc id="105" len="2" off="678">he</desc>
+    <desc id="106" len="4" off="681">then</desc>
+    <desc id="107" len="4" off="686">took</desc>
+    <desc id="108" len="5" off="691">those</desc>
+    <desc id="109" len="8" off="697">shavings</desc>
+    <desc id="110" len="3" off="706">and</desc>
+    <desc id="111" len="9" off="711">scattered</desc>
+    <desc id="112" len="4" off="721">them</desc>
+    <desc id="113" len="2" off="726">on</desc>
+    <desc id="114" len="3" off="729">the</desc>
+    <desc id="115" len="3" off="733">way</desc>
+    <desc id="116" len="2" off="737">to</desc>
+    <desc id="117" len="3" off="740">his</desc>
+    <desc id="118" len="3" off="744">own</desc>
+    <desc id="119" len="9" off="748">courtyard</desc>
+    <desc id="120" len="1" off="757">.</desc>
+    <desc id="121" len="3" off="759">The</desc>
+    <desc id="122" len="6" off="763">mother</desc>
+    <desc id="123" len="6" off="770">cooked</desc>
+    <desc id="124" len="5" off="777">lunch</desc>
+    <desc id="125" len="3" off="783">and</desc>
+    <desc id="126" len="4" off="787">gave</desc>
+    <desc id="127" len="2" off="792">it</desc>
+    <desc id="128" len="2" off="795">to</desc>
+    <desc id="129" len="3" off="798">her</desc>
+    <desc id="130" len="8" off="803">daughter</desc>
+    <desc id="131" len="2" off="812">to</desc>
+    <desc id="132" len="5" off="815">carry</desc>
+    <desc id="133" len="1" off="820">.</desc>
+    <desc id="134" len="3" off="822">The</desc>
+    <desc id="135" len="4" off="826">girl</desc>
+    <desc id="136" len="4" off="831">went</desc>
+    <desc id="137" len="3" off="836">out</desc>
+    <desc id="138" len="2" off="840">to</desc>
+    <desc id="139" len="3" off="843">the</desc>
+    <desc id="140" len="8" off="847">mountain</desc>
+    <desc id="141" len="3" off="856">and</desc>
+    <desc id="142" len="6" off="860">walked</desc>
+    <desc id="143" len="5" off="867">along</desc>
+    <desc id="144" len="3" off="873">the</desc>
+    <desc id="145" len="4" off="877">path</desc>
+    <desc id="146" len="4" off="882">with</desc>
+    <desc id="147" len="3" off="887">the</desc>
+    <desc id="148" len="8" off="892">shavings</desc>
+    <desc id="149" len="1" off="900">,</desc>
+    <desc id="150" len="4" off="902">came</desc>
+    <desc id="151" len="2" off="907">to</desc>
+    <desc id="152" len="3" off="910">the</desc>
+    <desc id="153" len="6" off="914">dragon</desc>
+    <desc id="154" len="2" off="920">'s</desc>
+    <desc id="155" len="9" off="923">courtyard</desc>
+    <desc id="156" len="1" off="932">,</desc>
+    <desc id="157" len="3" off="934">who</desc>
+    <desc id="158" len="4" off="938">then</desc>
+    <desc id="159" len="6" off="943">caught</desc>
+    <desc id="160" len="3" off="950">her</desc>
+    <desc id="161" len="3" off="954">and</desc>
+    <desc id="162" len="5" off="958">threw</desc>
+    <desc id="163" len="3" off="964">her</desc>
+    <desc id="164" len="4" off="968">into</desc>
+    <desc id="165" len="1" off="973">a</desc>
+    <desc id="166" len="4" off="975">hole</desc>
+    <desc id="167" len="1" off="979">.</desc>
+    <desc id="168" len="3" off="982">The</desc>
+    <desc id="169" len="8" off="986">brothers</desc>
+    <desc id="170" len="6" off="995">waited</desc>
+    <desc id="171" len="3" off="1002">and</desc>
+    <desc id="172" len="6" off="1006">waited</desc>
+    <desc id="173" len="3" off="1013">for</desc>
+    <desc id="174" len="5" off="1017">their</desc>
+    <desc id="175" len="5" off="1023">lunch</desc>
+    <desc id="176" len="1" off="1028">,</desc>
+    <desc id="177" len="7" off="1030">finally</desc>
+    <desc id="178" len="4" off="1038">they</desc>
+    <desc id="179" len="11" off="1043">unharnessed</desc>
+    <desc id="180" len="5" off="1055">their</desc>
+    <desc id="181" len="4" off="1061">oxen</desc>
+    <desc id="182" len="1" off="1065">,</desc>
+    <desc id="183" len="4" off="1067">left</desc>
+    <desc id="184" len="4" off="1072">them</desc>
+    <desc id="185" len="2" off="1077">to</desc>
+    <desc id="186" len="5" off="1081">graze</desc>
+    <desc id="187" len="1" off="1086">,</desc>
+    <desc id="188" len="4" off="1088">went</desc>
+    <desc id="189" len="4" off="1093">home</desc>
+    <desc id="190" len="1" off="1097">,</desc>
+    <desc id="191" len="3" off="1099">and</desc>
+    <desc id="192" len="5" off="1103">asked</desc>
+    <desc id="193" len="5" off="1109">their</desc>
+    <desc id="194" len="6" off="1115">mother</desc>
+    <desc id="195" len="1" off="1121">:</desc>
+    <desc id="196" len="1" off="1123">``</desc>
+    <desc id="197" len="3" off="1124">Mom</desc>
+    <desc id="198" len="1" off="1127">,</desc>
+    <desc id="199" len="5" off="1129">where</desc>
+    <desc id="200" len="2" off="1135">is</desc>
+    <desc id="201" len="3" off="1138">our</desc>
+    <desc id="202" len="5" off="1142">lunch</desc>
+    <desc id="203" len="1" off="1147">?</desc>
+    <desc id="204" len="1" off="1148">''</desc>
+    <desc id="205" len="6" off="1151">Mother</desc>
+    <desc id="206" len="4" off="1158">said</desc>
+    <desc id="207" len="1" off="1162">,</desc>
+    <desc id="208" len="1" off="1164">``</desc>
+    <desc id="209" len="1" off="1165">I</desc>
+    <desc id="210" len="3" off="1166">'ve</desc>
+    <desc id="211" len="4" off="1170">sent</desc>
+    <desc id="212" len="2" off="1175">it</desc>
+    <desc id="213" len="4" off="1178">with</desc>
+    <desc id="214" len="3" off="1183">the</desc>
+    <desc id="215" len="4" off="1187">girl</desc>
+    <desc id="216" len="1" off="1192">a</desc>
+    <desc id="217" len="4" off="1194">long</desc>
+    <desc id="218" len="4" off="1199">time</desc>
+    <desc id="219" len="3" off="1204">ago</desc>
+    <desc id="220" len="1" off="1207">.</desc>
+    <desc id="221" len="1" off="1208">''</desc>
+    <desc id="222" len="2" off="1211">So</desc>
+    <desc id="223" len="4" off="1214">they</desc>
+    <desc id="224" len="6" off="1219">waited</desc>
+    <desc id="225" len="3" off="1226">for</desc>
+    <desc id="226" len="3" off="1230">her</desc>
+    <desc id="227" len="5" off="1234">until</desc>
+    <desc id="228" len="3" off="1240">the</desc>
+    <desc id="229" len="7" off="1244">evening</desc>
+    <desc id="230" len="1" off="1251">.</desc>
+    <desc id="231" len="2" off="1253">In</desc>
+    <desc id="232" len="3" off="1256">the</desc>
+    <desc id="233" len="7" off="1260">morning</desc>
+    <desc id="234" len="5" off="1268">after</desc>
+    <desc id="235" len="6" off="1274">waking</desc>
+    <desc id="236" len="2" off="1281">up</desc>
+    <desc id="237" len="4" off="1284">they</desc>
+    <desc id="238" len="3" off="1289">saw</desc>
+    <desc id="239" len="4" off="1293">that</desc>
+    <desc id="240" len="3" off="1298">she</desc>
+    <desc id="241" len="3" off="1302">had</desc>
+    <desc id="242" len="3" off="1305">n't</desc>
+    <desc id="243" len="4" off="1310">come</desc>
+    <desc id="244" len="4" off="1315">back</desc>
+    <desc id="245" len="1" off="1319">!</desc>
+    <desc id="246" len="3" off="1321">The</desc>
+    <desc id="247" len="8" off="1325">brothers</desc>
+    <desc id="248" len="4" off="1334">said</desc>
+    <desc id="249" len="1" off="1338">,</desc>
+    <desc id="250" len="1" off="1340">``</desc>
+    <desc id="251" len="2" off="1341">It</desc>
+    <desc id="252" len="4" off="1344">must</desc>
+    <desc id="253" len="2" off="1349">be</desc>
+    <desc id="254" len="4" off="1352">that</desc>
+    <desc id="255" len="6" off="1357">cursed</desc>
+    <desc id="256" len="6" off="1364">dragon</desc>
+    <desc id="257" len="3" off="1371">who</desc>
+    <desc id="258" len="6" off="1375">caught</desc>
+    <desc id="259" len="3" off="1382">her</desc>
+    <desc id="260" len="1" off="1385">.</desc>
+    <desc id="261" len="1" off="1386">''</desc>
+    <desc id="262" len="4" off="1390">They</desc>
+    <desc id="263" len="3" off="1395">got</desc>
+    <desc id="264" len="7" off="1399">dressed</desc>
+    <desc id="265" len="3" off="1407">and</desc>
+    <desc id="266" len="4" off="1411">went</desc>
+    <desc id="267" len="2" off="1416">to</desc>
+    <desc id="268" len="4" off="1419">look</desc>
+    <desc id="269" len="3" off="1424">for</desc>
+    <desc id="270" len="5" off="1428">their</desc>
+    <desc id="271" len="6" off="1434">sister</desc>
+    <desc id="272" len="1" off="1440">.</desc>
+    <desc id="273" len="4" off="1442">They</desc>
+    <desc id="274" len="6" off="1447">walked</desc>
+    <desc id="275" len="3" off="1454">and</desc>
+    <desc id="276" len="6" off="1458">walked</desc>
+    <desc id="277" len="1" off="1465">-</desc>
+    <desc id="278" len="4" off="1467">when</desc>
+    <desc id="279" len="8" off="1472">suddenly</desc>
+    <desc id="280" len="4" off="1482">they</desc>
+    <desc id="281" len="3" off="1487">saw</desc>
+    <desc id="282" len="3" off="1491">the</desc>
+    <desc id="283" len="8" off="1495">herdsman</desc>
+    <desc id="284" len="7" off="1504">tending</desc>
+    <desc id="285" len="1" off="1512">a</desc>
+    <desc id="286" len="4" off="1514">herd</desc>
+    <desc id="287" len="1" off="1518">.</desc>
+    <desc id="288" len="4" off="1520">They</desc>
+    <desc id="289" len="7" off="1525">greeted</desc>
+    <desc id="290" len="4" off="1533">each</desc>
+    <desc id="291" len="5" off="1538">other</desc>
+    <desc id="292" len="1" off="1543">;</desc>
+    <desc id="293" len="3" off="1545">the</desc>
+    <desc id="294" len="8" off="1549">herdsman</desc>
+    <desc id="295" len="5" off="1558">asked</desc>
+    <desc id="296" len="1" off="1563">,</desc>
+    <desc id="297" len="1" off="1565">``</desc>
+    <desc id="298" len="5" off="1566">Where</desc>
+    <desc id="299" len="3" off="1572">are</desc>
+    <desc id="300" len="3" off="1576">you</desc>
+    <desc id="301" len="5" off="1580">going</desc>
+    <desc id="302" len="1" off="1585">?</desc>
+    <desc id="303" len="1" off="1586">''</desc>
+    <desc id="304" len="4" off="1589">They</desc>
+    <desc id="305" len="7" off="1594">replied</desc>
+    <desc id="306" len="1" off="1601">,</desc>
+    <desc id="307" len="1" off="1603">``</desc>
+    <desc id="308" len="2" off="1604">To</desc>
+    <desc id="309" len="3" off="1607">the</desc>
+    <desc id="310" len="6" off="1611">dragon</desc>
+    <desc id="311" len="1" off="1618">-</desc>
+    <desc id="312" len="2" off="1620">to</desc>
+    <desc id="313" len="4" off="1623">take</desc>
+    <desc id="314" len="3" off="1628">our</desc>
+    <desc id="315" len="6" off="1632">sister</desc>
+    <desc id="316" len="4" off="1639">back</desc>
+    <desc id="317" len="1" off="1643">.</desc>
+    <desc id="318" len="1" off="1644">''</desc>
+    <desc id="319" len="1" off="1648">``</desc>
+    <desc id="320" len="2" off="1649">If</desc>
+    <desc id="321" len="3" off="1652">you</desc>
+    <desc id="322" len="4" off="1656">want</desc>
+    <desc id="323" len="2" off="1661">to</desc>
+    <desc id="324" len="3" off="1664">set</desc>
+    <desc id="325" len="4" off="1668">your</desc>
+    <desc id="326" len="6" off="1673">sister</desc>
+    <desc id="327" len="4" off="1680">free</desc>
+    <desc id="328" len="1" off="1685">-</desc>
+    <desc id="329" len="3" off="1687">you</desc>
+    <desc id="330" len="6" off="1691">should</desc>
+    <desc id="331" len="3" off="1698">eat</desc>
+    <desc id="332" len="2" off="1702">my</desc>
+    <desc id="333" len="7" off="1705">biggest</desc>
+    <desc id="334" len="2" off="1713">ox</desc>
+    <desc id="335" len="1" off="1715">.</desc>
+    <desc id="336" len="1" off="1716">''</desc>
+    <desc id="337" len="3" off="1719">But</desc>
+    <desc id="338" len="4" off="1723">they</desc>
+    <desc id="339" len="3" off="1728">did</desc>
+    <desc id="340" len="3" off="1731">n't</desc>
+    <desc id="341" len="4" off="1735">want</desc>
+    <desc id="342" len="2" off="1740">to</desc>
+    <desc id="343" len="3" off="1743">and</desc>
+    <desc id="344" len="4" off="1747">went</desc>
+    <desc id="345" len="7" off="1752">further</desc>
+    <desc id="346" len="1" off="1759">.</desc>
+    <desc id="347" len="4" off="1761">They</desc>
+    <desc id="348" len="6" off="1766">walked</desc>
+    <desc id="349" len="3" off="1773">and</desc>
+    <desc id="350" len="6" off="1777">walked</desc>
+    <desc id="351" len="1" off="1784">-</desc>
+    <desc id="352" len="4" off="1786">when</desc>
+    <desc id="353" len="8" off="1791">suddenly</desc>
+    <desc id="354" len="4" off="1800">they</desc>
+    <desc id="355" len="3" off="1805">saw</desc>
+    <desc id="356" len="3" off="1809">the</desc>
+    <desc id="357" len="8" off="1814">shepherd</desc>
+    <desc id="358" len="7" off="1823">tending</desc>
+    <desc id="359" len="3" off="1831">the</desc>
+    <desc id="360" len="5" off="1835">sheep</desc>
+    <desc id="361" len="1" off="1840">.</desc>
+    <desc id="362" len="4" off="1842">They</desc>
+    <desc id="363" len="7" off="1847">greeted</desc>
+    <desc id="364" len="3" off="1855">him</desc>
+    <desc id="365" len="1" off="1858">.</desc>
+    <desc id="366" len="2" off="1860">He</desc>
+    <desc id="367" len="5" off="1863">asked</desc>
+    <desc id="368" len="1" off="1868">,</desc>
+    <desc id="369" len="1" off="1870">``</desc>
+    <desc id="370" len="5" off="1871">Where</desc>
+    <desc id="371" len="3" off="1877">are</desc>
+    <desc id="372" len="3" off="1881">you</desc>
+    <desc id="373" len="5" off="1885">going</desc>
+    <desc id="374" len="1" off="1890">?</desc>
+    <desc id="375" len="1" off="1891">''</desc>
+    <desc id="376" len="1" off="1894">``</desc>
+    <desc id="377" len="2" off="1895">To</desc>
+    <desc id="378" len="3" off="1898">the</desc>
+    <desc id="379" len="6" off="1902">dragon</desc>
+    <desc id="380" len="1" off="1909">-</desc>
+    <desc id="381" len="2" off="1911">to</desc>
+    <desc id="382" len="4" off="1914">take</desc>
+    <desc id="383" len="3" off="1919">our</desc>
+    <desc id="384" len="6" off="1923">sister</desc>
+    <desc id="385" len="4" off="1930">back</desc>
+    <desc id="386" len="1" off="1934">''</desc>
+    <desc id="387" len="1" off="1937">``</desc>
+    <desc id="388" len="2" off="1938">If</desc>
+    <desc id="389" len="3" off="1941">you</desc>
+    <desc id="390" len="4" off="1945">want</desc>
+    <desc id="391" len="2" off="1950">to</desc>
+    <desc id="392" len="3" off="1953">set</desc>
+    <desc id="393" len="4" off="1957">your</desc>
+    <desc id="394" len="6" off="1962">sister</desc>
+    <desc id="395" len="4" off="1969">free</desc>
+    <desc id="396" len="1" off="1974">-</desc>
+    <desc id="397" len="3" off="1976">you</desc>
+    <desc id="398" len="6" off="1980">should</desc>
+    <desc id="399" len="3" off="1987">eat</desc>
+    <desc id="400" len="2" off="1991">my</desc>
+    <desc id="401" len="7" off="1994">biggest</desc>
+    <desc id="402" len="3" off="2002">ram</desc>
+    <desc id="403" len="1" off="2005">.</desc>
+    <desc id="404" len="1" off="2006">''</desc>
+    <desc id="405" len="3" off="2009">But</desc>
+    <desc id="406" len="4" off="2013">they</desc>
+    <desc id="407" len="3" off="2018">did</desc>
+    <desc id="408" len="3" off="2021">n't</desc>
+    <desc id="409" len="4" off="2025">want</desc>
+    <desc id="410" len="2" off="2030">to</desc>
+    <desc id="411" len="3" off="2033">and</desc>
+    <desc id="412" len="4" off="2037">went</desc>
+    <desc id="413" len="7" off="2042">further</desc>
+    <desc id="414" len="1" off="2049">.</desc>
+    <desc id="415" len="4" off="2052">They</desc>
+    <desc id="416" len="6" off="2057">walked</desc>
+    <desc id="417" len="3" off="2064">and</desc>
+    <desc id="418" len="6" off="2068">walked</desc>
+    <desc id="419" len="1" off="2075">-</desc>
+    <desc id="420" len="4" off="2077">when</desc>
+    <desc id="421" len="8" off="2082">suddenly</desc>
+    <desc id="422" len="4" off="2091">they</desc>
+    <desc id="423" len="3" off="2096">saw</desc>
+    <desc id="424" len="3" off="2100">the</desc>
+    <desc id="425" len="5" off="2104">swine</desc>
+    <desc id="426" len="7" off="2110">breeder</desc>
+    <desc id="427" len="7" off="2118">tending</desc>
+    <desc id="428" len="3" off="2126">the</desc>
+    <desc id="429" len="5" off="2130">swine</desc>
+    <desc id="430" len="1" off="2135">.</desc>
+    <desc id="431" len="4" off="2137">They</desc>
+    <desc id="432" len="7" off="2143">greeted</desc>
+    <desc id="433" len="3" off="2151">him</desc>
+    <desc id="434" len="1" off="2154">.</desc>
+    <desc id="435" len="2" off="2156">He</desc>
+    <desc id="436" len="5" off="2159">asked</desc>
+    <desc id="437" len="1" off="2164">,</desc>
+    <desc id="438" len="1" off="2166">``</desc>
+    <desc id="439" len="5" off="2167">Where</desc>
+    <desc id="440" len="3" off="2173">are</desc>
+    <desc id="441" len="3" off="2177">you</desc>
+    <desc id="442" len="5" off="2181">going</desc>
+    <desc id="443" len="1" off="2186">?</desc>
+    <desc id="444" len="1" off="2187">''</desc>
+    <desc id="445" len="1" off="2190">``</desc>
+    <desc id="446" len="2" off="2191">To</desc>
+    <desc id="447" len="3" off="2194">the</desc>
+    <desc id="448" len="6" off="2198">dragon</desc>
+    <desc id="449" len="1" off="2205">-</desc>
+    <desc id="450" len="2" off="2207">to</desc>
+    <desc id="451" len="4" off="2210">take</desc>
+    <desc id="452" len="3" off="2215">our</desc>
+    <desc id="453" len="6" off="2219">sister</desc>
+    <desc id="454" len="4" off="2226">back</desc>
+    <desc id="455" len="1" off="2230">''</desc>
+    <desc id="456" len="1" off="2233">``</desc>
+    <desc id="457" len="2" off="2234">If</desc>
+    <desc id="458" len="3" off="2237">you</desc>
+    <desc id="459" len="4" off="2241">want</desc>
+    <desc id="460" len="2" off="2246">to</desc>
+    <desc id="461" len="3" off="2249">set</desc>
+    <desc id="462" len="4" off="2253">your</desc>
+    <desc id="463" len="6" off="2258">sister</desc>
+    <desc id="464" len="4" off="2265">free</desc>
+    <desc id="465" len="1" off="2270">-</desc>
+    <desc id="466" len="3" off="2272">you</desc>
+    <desc id="467" len="6" off="2276">should</desc>
+    <desc id="468" len="3" off="2283">eat</desc>
+    <desc id="469" len="2" off="2287">my</desc>
+    <desc id="470" len="7" off="2290">biggest</desc>
+    <desc id="471" len="3" off="2298">hog</desc>
+    <desc id="472" len="1" off="2301">.</desc>
+    <desc id="473" len="1" off="2302">''</desc>
+    <desc id="474" len="3" off="2305">But</desc>
+    <desc id="475" len="4" off="2309">they</desc>
+    <desc id="476" len="3" off="2314">did</desc>
+    <desc id="477" len="3" off="2317">n't</desc>
+    <desc id="478" len="4" off="2321">want</desc>
+    <desc id="479" len="2" off="2326">to</desc>
+    <desc id="480" len="3" off="2329">and</desc>
+    <desc id="481" len="4" off="2333">went</desc>
+    <desc id="482" len="7" off="2338">further</desc>
+    <desc id="483" len="1" off="2345">.</desc>
+    <desc id="484" len="4" off="2347">They</desc>
+    <desc id="485" len="6" off="2352">walked</desc>
+    <desc id="486" len="3" off="2359">and</desc>
+    <desc id="487" len="6" off="2363">walked</desc>
+    <desc id="488" len="1" off="2370">-</desc>
+    <desc id="489" len="4" off="2372">when</desc>
+    <desc id="490" len="8" off="2377">suddenly</desc>
+    <desc id="491" len="4" off="2386">they</desc>
+    <desc id="492" len="3" off="2391">saw</desc>
+    <desc id="493" len="3" off="2395">the</desc>
+    <desc id="494" len="6" off="2400">dragon</desc>
+    <desc id="495" len="8" off="2407">standing</desc>
+    <desc id="496" len="4" off="2416">near</desc>
+    <desc id="497" len="3" off="2421">his</desc>
+    <desc id="498" len="5" off="2425">house</desc>
+    <desc id="499" len="1" off="2430">.</desc>
+    <desc id="500" len="3" off="2432">The</desc>
+    <desc id="501" len="6" off="2436">dragon</desc>
+    <desc id="502" len="7" off="2443">greeted</desc>
+    <desc id="503" len="4" off="2451">them</desc>
+    <desc id="504" len="3" off="2456">and</desc>
+    <desc id="505" len="5" off="2460">asked</desc>
+    <desc id="506" len="1" off="2465">,</desc>
+    <desc id="507" len="1" off="2467">``</desc>
+    <desc id="508" len="3" off="2468">Why</desc>
+    <desc id="509" len="3" off="2472">did</desc>
+    <desc id="510" len="3" off="2476">you</desc>
+    <desc id="511" len="4" off="2480">come</desc>
+    <desc id="512" len="4" off="2486">here</desc>
+    <desc id="513" len="1" off="2490">?</desc>
+    <desc id="514" len="1" off="2491">''</desc>
+    <desc id="515" len="1" off="2494">``</desc>
+    <desc id="516" len="2" off="2495">We</desc>
+    <desc id="517" len="4" off="2498">have</desc>
+    <desc id="518" len="4" off="2503">come</desc>
+    <desc id="519" len="2" off="2508">to</desc>
+    <desc id="520" len="3" off="2511">you</desc>
+    <desc id="521" len="1" off="2515">-</desc>
+    <desc id="522" len="2" off="2517">to</desc>
+    <desc id="523" len="4" off="2520">take</desc>
+    <desc id="524" len="4" off="2525">back</desc>
+    <desc id="525" len="3" off="2530">our</desc>
+    <desc id="526" len="6" off="2534">sister</desc>
+    <desc id="527" len="1" off="2540">''</desc>
+    <desc id="528" len="1" off="2543">``</desc>
+    <desc id="529" len="2" off="2544">If</desc>
+    <desc id="530" len="3" off="2547">you</desc>
+    <desc id="531" len="4" off="2551">want</desc>
+    <desc id="532" len="2" off="2556">to</desc>
+    <desc id="533" len="3" off="2559">set</desc>
+    <desc id="534" len="4" off="2563">your</desc>
+    <desc id="535" len="6" off="2568">sister</desc>
+    <desc id="536" len="4" off="2575">free</desc>
+    <desc id="537" len="1" off="2580">-</desc>
+    <desc id="538" len="3" off="2582">you</desc>
+    <desc id="539" len="4" off="2586">have</desc>
+    <desc id="540" len="2" off="2591">to</desc>
+    <desc id="541" len="3" off="2594">eat</desc>
+    <desc id="542" len="6" off="2598">twelve</desc>
+    <desc id="543" len="4" off="2605">oxen</desc>
+    <desc id="544" len="1" off="2609">,</desc>
+    <desc id="545" len="6" off="2611">twelve</desc>
+    <desc id="546" len="4" off="2618">rams</desc>
+    <desc id="547" len="3" off="2623">and</desc>
+    <desc id="548" len="6" off="2627">twelve</desc>
+    <desc id="549" len="4" off="2634">hogs</desc>
+    <desc id="550" len="1" off="2638">.</desc>
+    <desc id="551" len="1" off="2639">''</desc>
+    <desc id="552" len="3" off="2642">But</desc>
+    <desc id="553" len="4" off="2646">they</desc>
+    <desc id="554" len="7" off="2651">managed</desc>
+    <desc id="555" len="2" off="2659">to</desc>
+    <desc id="556" len="3" off="2662">eat</desc>
+    <desc id="557" len="4" off="2666">only</desc>
+    <desc id="558" len="4" off="2671">tiny</desc>
+    <desc id="559" len="6" off="2676">pieces</desc>
+    <desc id="560" len="3" off="2683">and</desc>
+    <desc id="561" len="2" off="2687">no</desc>
+    <desc id="562" len="6" off="2690">longer</desc>
+    <desc id="563" len="6" off="2697">wanted</desc>
+    <desc id="564" len="7" off="2704">anymore</desc>
+    <desc id="565" len="1" off="2711">.</desc>
+    <desc id="566" len="6" off="2713">Dragon</desc>
+    <desc id="567" len="4" off="2720">then</desc>
+    <desc id="568" len="6" off="2725">pinned</desc>
+    <desc id="569" len="4" off="2733">them</desc>
+    <desc id="570" len="5" off="2738">under</desc>
+    <desc id="571" len="1" off="2744">a</desc>
+    <desc id="572" len="5" off="2746">stone</desc>
+    <desc id="573" len="1" off="2751">.</desc>
+    <desc id="574" len="6" off="2755">Mother</desc>
+    <desc id="575" len="5" off="2762">cried</desc>
+    <desc id="576" len="4" off="2768">that</desc>
+    <desc id="577" len="7" off="2773">neither</desc>
+    <desc id="578" len="3" off="2781">her</desc>
+    <desc id="579" len="4" off="2785">sons</desc>
+    <desc id="580" len="3" off="2790">nor</desc>
+    <desc id="581" len="8" off="2794">daughter</desc>
+    <desc id="582" len="4" off="2803">came</desc>
+    <desc id="583" len="4" off="2808">back</desc>
+    <desc id="584" len="4" off="2813">home</desc>
+    <desc id="585" len="1" off="2817">.</desc>
+    <desc id="586" len="4" off="2819">Once</desc>
+    <desc id="587" len="1" off="2823">,</desc>
+    <desc id="588" len="3" off="2825">she</desc>
+    <desc id="589" len="4" off="2829">took</desc>
+    <desc id="590" len="3" off="2834">the</desc>
+    <desc id="591" len="7" off="2838">buckets</desc>
+    <desc id="592" len="3" off="2847">and</desc>
+    <desc id="593" len="4" off="2851">went</desc>
+    <desc id="594" len="2" off="2856">to</desc>
+    <desc id="595" len="3" off="2859">the</desc>
+    <desc id="596" len="4" off="2863">well</desc>
+    <desc id="597" len="2" off="2868">to</desc>
+    <desc id="598" len="5" off="2871">fetch</desc>
+    <desc id="599" len="5" off="2877">water</desc>
+    <desc id="600" len="1" off="2882">.</desc>
+    <desc id="601" len="5" off="2884">After</desc>
+    <desc id="602" len="10" off="2890">collecting</desc>
+    <desc id="603" len="5" off="2901">water</desc>
+    <desc id="604" len="3" off="2907">and</desc>
+    <desc id="605" len="2" off="2911">as</desc>
+    <desc id="606" len="3" off="2914">she</desc>
+    <desc id="607" len="3" off="2918">was</desc>
+    <desc id="608" len="2" off="2922">on</desc>
+    <desc id="609" len="3" off="2925">her</desc>
+    <desc id="610" len="3" off="2929">way</desc>
+    <desc id="611" len="4" off="2933">back</desc>
+    <desc id="612" len="1" off="2938">a</desc>
+    <desc id="613" len="7" off="2941">rolling</desc>
+    <desc id="614" len="3" off="2949">pea</desc>
+    <desc id="615" len="2" off="2953">on</desc>
+    <desc id="616" len="3" off="2956">the</desc>
+    <desc id="617" len="4" off="2960">road</desc>
+    <desc id="618" len="6" off="2965">hopped</desc>
+    <desc id="619" len="4" off="2972">into</desc>
+    <desc id="620" len="1" off="2977">a</desc>
+    <desc id="621" len="6" off="2979">bucket</desc>
+    <desc id="622" len="1" off="2985">,</desc>
+    <desc id="623" len="7" off="2987">unknown</desc>
+    <desc id="624" len="2" off="2995">to</desc>
+    <desc id="625" len="3" off="2998">her</desc>
+    <desc id="626" len="1" off="3001">.</desc>
+    <desc id="627" len="5" off="3004">After</desc>
+    <desc id="628" len="6" off="3010">coming</desc>
+    <desc id="629" len="4" off="3017">home</desc>
+    <desc id="630" len="3" off="3022">she</desc>
+    <desc id="631" len="6" off="3026">poured</desc>
+    <desc id="632" len="3" off="3033">the</desc>
+    <desc id="633" len="5" off="3037">water</desc>
+    <desc id="634" len="1" off="3043">-</desc>
+    <desc id="635" len="4" off="3045">then</desc>
+    <desc id="636" len="3" off="3050">she</desc>
+    <desc id="637" len="6" off="3054">looked</desc>
+    <desc id="638" len="6" off="3061">inside</desc>
+    <desc id="639" len="1" off="3067">:</desc>
+    <desc id="640" len="5" off="3069">there</desc>
+    <desc id="641" len="3" off="3075">was</desc>
+    <desc id="642" len="1" off="3079">a</desc>
+    <desc id="643" len="3" off="3081">pea</desc>
+    <desc id="644" len="2" off="3085">in</desc>
+    <desc id="645" len="3" off="3088">one</desc>
+    <desc id="646" len="2" off="3092">of</desc>
+    <desc id="647" len="3" off="3095">the</desc>
+    <desc id="648" len="7" off="3100">buckets</desc>
+    <desc id="649" len="1" off="3107">,</desc>
+    <desc id="650" len="3" off="3109">she</desc>
+    <desc id="651" len="4" off="3113">took</desc>
+    <desc id="652" len="3" off="3118">and</desc>
+    <desc id="653" len="3" off="3122">ate</desc>
+    <desc id="654" len="2" off="3126">it</desc>
+    <desc id="655" len="1" off="3128">,</desc>
+    <desc id="656" len="3" off="3130">and</desc>
+    <desc id="657" len="1" off="3134">a</desc>
+    <desc id="658" len="3" off="3136">son</desc>
+    <desc id="659" len="3" off="3140">was</desc>
+    <desc id="660" len="4" off="3144">born</desc>
+    <desc id="661" len="4" off="3149">from</desc>
+    <desc id="662" len="4" off="3154">that</desc>
+    <desc id="663" len="3" off="3159">pea</desc>
+    <desc id="664" len="1" off="3162">.</desc>
+    <desc id="665" len="2" off="3165">He</desc>
+    <desc id="666" len="3" off="3168">was</desc>
+    <desc id="667" len="5" off="3172">given</desc>
+    <desc id="668" len="3" off="3178">the</desc>
+    <desc id="669" len="4" off="3182">name</desc>
+    <desc id="670" len="1" off="3186">,</desc>
+    <desc id="671" len="7" off="3188">Rolling</desc>
+    <desc id="672" len="3" off="3196">Pea</desc>
+    <desc id="673" len="1" off="3199">;</desc>
+    <desc id="674" len="2" off="3201">he</desc>
+    <desc id="675" len="4" off="3204">grew</desc>
+    <desc id="676" len="3" off="3209">not</desc>
+    <desc id="677" len="2" off="3213">by</desc>
+    <desc id="678" len="3" off="3216">the</desc>
+    <desc id="679" len="4" off="3220">hour</desc>
+    <desc id="680" len="1" off="3224">,</desc>
+    <desc id="681" len="3" off="3226">but</desc>
+    <desc id="682" len="2" off="3230">by</desc>
+    <desc id="683" len="3" off="3233">the</desc>
+    <desc id="684" len="6" off="3237">minute</desc>
+    <desc id="685" len="1" off="3243">.</desc>
+    <desc id="686" len="4" off="3246">Once</desc>
+    <desc id="687" len="6" off="3251">during</desc>
+    <desc id="688" len="6" off="3258">supper</desc>
+    <desc id="689" len="7" off="3265">Rolling</desc>
+    <desc id="690" len="3" off="3273">Pea</desc>
+    <desc id="691" len="5" off="3277">asked</desc>
+    <desc id="692" len="1" off="3282">,</desc>
+    <desc id="693" len="1" off="3284">``</desc>
+    <desc id="694" len="3" off="3285">Did</desc>
+    <desc id="695" len="3" off="3289">you</desc>
+    <desc id="696" len="4" off="3293">have</desc>
+    <desc id="697" len="3" off="3298">any</desc>
+    <desc id="698" len="5" off="3302">other</desc>
+    <desc id="699" len="8" off="3308">children</desc>
+    <desc id="700" len="1" off="3316">,</desc>
+    <desc id="701" len="3" off="3318">mom</desc>
+    <desc id="702" len="1" off="3321">?</desc>
+    <desc id="703" len="1" off="3322">''</desc>
+    <desc id="704" len="1" off="3325">``</desc>
+    <desc id="705" len="1" off="3326">I</desc>
+    <desc id="706" len="3" off="3328">had</desc>
+    <desc id="707" len="3" off="3332">two</desc>
+    <desc id="708" len="4" off="3336">sons</desc>
+    <desc id="709" len="3" off="3341">and</desc>
+    <desc id="710" len="3" off="3345">one</desc>
+    <desc id="711" len="8" off="3349">daughter</desc>
+    <desc id="712" len="1" off="3357">.</desc>
+    <desc id="713" len="1" off="3358">''</desc>
+    <desc id="714" len="1" off="3361">``</desc>
+    <desc id="715" len="3" off="3362">And</desc>
+    <desc id="716" len="5" off="3366">where</desc>
+    <desc id="717" len="3" off="3372">are</desc>
+    <desc id="718" len="4" off="3376">they</desc>
+    <desc id="719" len="1" off="3380">?</desc>
+    <desc id="720" len="1" off="3381">''</desc>
+    <desc id="721" len="1" off="3384">``</desc>
+    <desc id="722" len="3" off="3385">The</desc>
+    <desc id="723" len="6" off="3389">dragon</desc>
+    <desc id="724" len="5" off="3396">stole</desc>
+    <desc id="725" len="2" off="3402">my</desc>
+    <desc id="726" len="8" off="3405">daughter</desc>
+    <desc id="727" len="1" off="3413">,</desc>
+    <desc id="728" len="4" off="3415">then</desc>
+    <desc id="729" len="2" off="3420">my</desc>
+    <desc id="730" len="4" off="3423">sons</desc>
+    <desc id="731" len="4" off="3428">went</desc>
+    <desc id="732" len="2" off="3433">to</desc>
+    <desc id="733" len="4" off="3436">look</desc>
+    <desc id="734" len="3" off="3441">for</desc>
+    <desc id="735" len="3" off="3445">her</desc>
+    <desc id="736" len="1" off="3448">,</desc>
+    <desc id="737" len="3" off="3450">but</desc>
+    <desc id="738" len="7" off="3454">neither</desc>
+    <desc id="739" len="2" off="3462">my</desc>
+    <desc id="740" len="4" off="3465">sons</desc>
+    <desc id="741" len="3" off="3470">nor</desc>
+    <desc id="742" len="2" off="3474">my</desc>
+    <desc id="743" len="8" off="3478">daughter</desc>
+    <desc id="744" len="4" off="3487">ever</desc>
+    <desc id="745" len="4" off="3492">came</desc>
+    <desc id="746" len="4" off="3497">back</desc>
+    <desc id="747" len="1" off="3501">.</desc>
+    <desc id="748" len="1" off="3502">''</desc>
+    <desc id="749" len="2" off="3505">He</desc>
+    <desc id="750" len="8" off="3508">finished</desc>
+    <desc id="751" len="6" off="3517">eating</desc>
+    <desc id="752" len="1" off="3523">,</desc>
+    <desc id="753" len="3" off="3525">put</desc>
+    <desc id="754" len="3" off="3529">his</desc>
+    <desc id="755" len="5" off="3533">shoes</desc>
+    <desc id="756" len="2" off="3539">on</desc>
+    <desc id="757" len="3" off="3542">and</desc>
+    <desc id="758" len="3" off="3546">got</desc>
+    <desc id="759" len="7" off="3550">dressed</desc>
+    <desc id="760" len="1" off="3557">.</desc>
+    <desc id="761" len="1" off="3560">``</desc>
+    <desc id="762" len="1" off="3561">I</desc>
+    <desc id="763" len="4" off="3563">will</desc>
+    <desc id="764" len="2" off="3568">go</desc>
+    <desc id="765" len="3" off="3571">and</desc>
+    <desc id="766" len="4" off="3575">find</desc>
+    <desc id="767" len="4" off="3580">them</desc>
+    <desc id="768" len="1" off="3584">.</desc>
+    <desc id="769" len="1" off="3585">''</desc>
+    <desc id="770" len="4" off="3588">Then</desc>
+    <desc id="771" len="7" off="3593">Rolling</desc>
+    <desc id="772" len="3" off="3601">Pea</desc>
+    <desc id="773" len="4" off="3605">went</desc>
+    <desc id="774" len="2" off="3610">to</desc>
+    <desc id="775" len="3" off="3613">the</desc>
+    <desc id="776" len="5" off="3617">smith</desc>
+    <desc id="777" len="3" off="3623">and</desc>
+    <desc id="778" len="5" off="3627">asked</desc>
+    <desc id="779" len="3" off="3633">him</desc>
+    <desc id="780" len="2" off="3637">to</desc>
+    <desc id="781" len="4" off="3640">make</desc>
+    <desc id="782" len="1" off="3645">a</desc>
+    <desc id="783" len="5" off="3647">large</desc>
+    <desc id="784" len="4" off="3653">mace</desc>
+    <desc id="785" len="1" off="3657">.</desc>
+    <desc id="786" len="3" off="3659">The</desc>
+    <desc id="787" len="5" off="3663">smith</desc>
+    <desc id="788" len="4" off="3669">made</desc>
+    <desc id="789" len="3" off="3674">him</desc>
+    <desc id="790" len="1" off="3679">a</desc>
+    <desc id="791" len="5" off="3681">large</desc>
+    <desc id="792" len="4" off="3687">mace</desc>
+    <desc id="793" len="1" off="3691">;</desc>
+    <desc id="794" len="7" off="3693">Rolling</desc>
+    <desc id="795" len="3" off="3701">Pea</desc>
+    <desc id="796" len="4" off="3705">took</desc>
+    <desc id="797" len="4" off="3710">that</desc>
+    <desc id="798" len="4" off="3715">mace</desc>
+    <desc id="799" len="1" off="3719">,</desc>
+    <desc id="800" len="4" off="3721">paid</desc>
+    <desc id="801" len="3" off="3726">and</desc>
+    <desc id="802" len="4" off="3730">then</desc>
+    <desc id="803" len="4" off="3735">went</desc>
+    <desc id="804" len="2" off="3740">on</desc>
+    <desc id="805" len="3" off="3743">his</desc>
+    <desc id="806" len="3" off="3747">way</desc>
+    <desc id="807" len="1" off="3750">.</desc>
+    <desc id="808" len="2" off="3753">He</desc>
+    <desc id="809" len="6" off="3756">walked</desc>
+    <desc id="810" len="3" off="3763">and</desc>
+    <desc id="811" len="6" off="3767">walked</desc>
+    <desc id="812" len="1" off="3774">-</desc>
+    <desc id="813" len="4" off="3776">when</desc>
+    <desc id="814" len="8" off="3781">suddenly</desc>
+    <desc id="815" len="2" off="3790">he</desc>
+    <desc id="816" len="3" off="3793">saw</desc>
+    <desc id="817" len="3" off="3797">the</desc>
+    <desc id="818" len="8" off="3801">herdsman</desc>
+    <desc id="819" len="7" off="3810">tending</desc>
+    <desc id="820" len="3" off="3818">the</desc>
+    <desc id="821" len="4" off="3822">herd</desc>
+    <desc id="822" len="1" off="3826">.</desc>
+    <desc id="823" len="2" off="3828">He</desc>
+    <desc id="824" len="7" off="3831">greeted</desc>
+    <desc id="825" len="3" off="3839">him</desc>
+    <desc id="826" len="3" off="3844">and</desc>
+    <desc id="827" len="4" off="3848">then</desc>
+    <desc id="828" len="3" off="3853">the</desc>
+    <desc id="829" len="8" off="3857">herdsman</desc>
+    <desc id="830" len="5" off="3866">asked</desc>
+    <desc id="831" len="1" off="3871">,</desc>
+    <desc id="832" len="1" off="3873">``</desc>
+    <desc id="833" len="5" off="3874">Where</desc>
+    <desc id="834" len="3" off="3880">are</desc>
+    <desc id="835" len="3" off="3884">you</desc>
+    <desc id="836" len="5" off="3888">going</desc>
+    <desc id="837" len="1" off="3893">?</desc>
+    <desc id="838" len="1" off="3894">''</desc>
+    <desc id="839" len="1" off="3897">``</desc>
+    <desc id="840" len="2" off="3898">To</desc>
+    <desc id="841" len="3" off="3901">the</desc>
+    <desc id="842" len="6" off="3905">dragon</desc>
+    <desc id="843" len="1" off="3912">-</desc>
+    <desc id="844" len="2" off="3914">to</desc>
+    <desc id="845" len="4" off="3917">take</desc>
+    <desc id="846" len="2" off="3922">my</desc>
+    <desc id="847" len="6" off="3925">sister</desc>
+    <desc id="848" len="4" off="3932">back</desc>
+    <desc id="849" len="1" off="3936">''</desc>
+    <desc id="850" len="1" off="3939">``</desc>
+    <desc id="851" len="3" off="3940">Eat</desc>
+    <desc id="852" len="2" off="3944">my</desc>
+    <desc id="853" len="7" off="3947">biggest</desc>
+    <desc id="854" len="2" off="3955">ox</desc>
+    <desc id="855" len="3" off="3958">and</desc>
+    <desc id="856" len="4" off="3962">then</desc>
+    <desc id="857" len="3" off="3967">you</desc>
+    <desc id="858" len="3" off="3971">can</desc>
+    <desc id="859" len="3" off="3975">set</desc>
+    <desc id="860" len="4" off="3979">your</desc>
+    <desc id="861" len="6" off="3984">sister</desc>
+    <desc id="862" len="4" off="3991">free</desc>
+    <desc id="863" len="1" off="3995">.</desc>
+    <desc id="864" len="1" off="3996">''</desc>
+    <desc id="865" len="2" off="4000">He</desc>
+    <desc id="866" len="3" off="4003">ate</desc>
+    <desc id="867" len="2" off="4007">it</desc>
+    <desc id="868" len="1" off="4009">,</desc>
+    <desc id="869" len="7" off="4011">thanked</desc>
+    <desc id="870" len="3" off="4019">him</desc>
+    <desc id="871" len="3" off="4023">and</desc>
+    <desc id="872" len="4" off="4027">went</desc>
+    <desc id="873" len="7" off="4032">further</desc>
+    <desc id="874" len="1" off="4039">.</desc>
+    <desc id="875" len="2" off="4041">He</desc>
+    <desc id="876" len="6" off="4044">walked</desc>
+    <desc id="877" len="3" off="4051">and</desc>
+    <desc id="878" len="6" off="4055">walked</desc>
+    <desc id="879" len="1" off="4062">-</desc>
+    <desc id="880" len="4" off="4064">when</desc>
+    <desc id="881" len="8" off="4069">suddenly</desc>
+    <desc id="882" len="2" off="4078">he</desc>
+    <desc id="883" len="3" off="4081">saw</desc>
+    <desc id="884" len="3" off="4085">the</desc>
+    <desc id="885" len="8" off="4090">shepherd</desc>
+    <desc id="886" len="7" off="4099">tending</desc>
+    <desc id="887" len="5" off="4107">sheep</desc>
+    <desc id="888" len="1" off="4112">.</desc>
+    <desc id="889" len="2" off="4114">He</desc>
+    <desc id="890" len="7" off="4117">greeted</desc>
+    <desc id="891" len="3" off="4125">him</desc>
+    <desc id="892" len="2" off="4129">as</desc>
+    <desc id="893" len="4" off="4132">well</desc>
+    <desc id="894" len="1" off="4136">,</desc>
+    <desc id="895" len="3" off="4138">and</desc>
+    <desc id="896" len="3" off="4142">the</desc>
+    <desc id="897" len="8" off="4146">shepherd</desc>
+    <desc id="898" len="5" off="4155">asked</desc>
+    <desc id="899" len="1" off="4160">,</desc>
+    <desc id="900" len="1" off="4162">``</desc>
+    <desc id="901" len="5" off="4163">Where</desc>
+    <desc id="902" len="3" off="4169">are</desc>
+    <desc id="903" len="3" off="4173">you</desc>
+    <desc id="904" len="5" off="4178">going</desc>
+    <desc id="905" len="1" off="4183">?</desc>
+    <desc id="906" len="1" off="4184">''</desc>
+    <desc id="907" len="2" off="4187">He</desc>
+    <desc id="908" len="4" off="4190">said</desc>
+    <desc id="909" len="1" off="4194">,</desc>
+    <desc id="910" len="1" off="4196">``</desc>
+    <desc id="911" len="2" off="4197">To</desc>
+    <desc id="912" len="3" off="4200">the</desc>
+    <desc id="913" len="6" off="4204">dragon</desc>
+    <desc id="914" len="1" off="4211">-</desc>
+    <desc id="915" len="2" off="4213">to</desc>
+    <desc id="916" len="4" off="4216">take</desc>
+    <desc id="917" len="2" off="4221">my</desc>
+    <desc id="918" len="6" off="4224">sister</desc>
+    <desc id="919" len="4" off="4231">back</desc>
+    <desc id="920" len="1" off="4235">.</desc>
+    <desc id="921" len="1" off="4236">''</desc>
+    <desc id="922" len="1" off="4239">``</desc>
+    <desc id="923" len="3" off="4240">Eat</desc>
+    <desc id="924" len="2" off="4244">my</desc>
+    <desc id="925" len="7" off="4247">biggest</desc>
+    <desc id="926" len="3" off="4255">ram</desc>
+    <desc id="927" len="3" off="4259">and</desc>
+    <desc id="928" len="4" off="4263">then</desc>
+    <desc id="929" len="3" off="4268">you</desc>
+    <desc id="930" len="3" off="4272">can</desc>
+    <desc id="931" len="3" off="4276">set</desc>
+    <desc id="932" len="4" off="4280">your</desc>
+    <desc id="933" len="6" off="4285">sister</desc>
+    <desc id="934" len="4" off="4292">free</desc>
+    <desc id="935" len="1" off="4296">.</desc>
+    <desc id="936" len="1" off="4297">''</desc>
+    <desc id="937" len="2" off="4301">He</desc>
+    <desc id="938" len="3" off="4304">ate</desc>
+    <desc id="939" len="2" off="4308">it</desc>
+    <desc id="940" len="1" off="4310">,</desc>
+    <desc id="941" len="7" off="4312">thanked</desc>
+    <desc id="942" len="3" off="4320">him</desc>
+    <desc id="943" len="3" off="4324">and</desc>
+    <desc id="944" len="4" off="4328">went</desc>
+    <desc id="945" len="7" off="4333">further</desc>
+    <desc id="946" len="1" off="4340">.</desc>
+    <desc id="947" len="2" off="4342">He</desc>
+    <desc id="948" len="6" off="4345">walked</desc>
+    <desc id="949" len="3" off="4352">and</desc>
+    <desc id="950" len="6" off="4356">walked</desc>
+    <desc id="951" len="1" off="4363">-</desc>
+    <desc id="952" len="4" off="4365">when</desc>
+    <desc id="953" len="8" off="4370">suddenly</desc>
+    <desc id="954" len="2" off="4379">he</desc>
+    <desc id="955" len="3" off="4382">saw</desc>
+    <desc id="956" len="3" off="4386">the</desc>
+    <desc id="957" len="5" off="4391">swine</desc>
+    <desc id="958" len="7" off="4397">breeder</desc>
+    <desc id="959" len="7" off="4405">tending</desc>
+    <desc id="960" len="3" off="4413">the</desc>
+    <desc id="961" len="5" off="4417">swine</desc>
+    <desc id="962" len="1" off="4422">.</desc>
+    <desc id="963" len="2" off="4424">He</desc>
+    <desc id="964" len="7" off="4427">greeted</desc>
+    <desc id="965" len="3" off="4435">him</desc>
+    <desc id="966" len="2" off="4439">as</desc>
+    <desc id="967" len="4" off="4442">well</desc>
+    <desc id="968" len="3" off="4447">and</desc>
+    <desc id="969" len="3" off="4451">the</desc>
+    <desc id="970" len="5" off="4455">swine</desc>
+    <desc id="971" len="7" off="4461">breeder</desc>
+    <desc id="972" len="5" off="4469">asked</desc>
+    <desc id="973" len="1" off="4474">,</desc>
+    <desc id="974" len="1" off="4476">``</desc>
+    <desc id="975" len="5" off="4477">Where</desc>
+    <desc id="976" len="3" off="4484">are</desc>
+    <desc id="977" len="3" off="4488">you</desc>
+    <desc id="978" len="5" off="4492">going</desc>
+    <desc id="979" len="1" off="4497">?</desc>
+    <desc id="980" len="1" off="4498">''</desc>
+    <desc id="981" len="1" off="4501">``</desc>
+    <desc id="982" len="2" off="4502">To</desc>
+    <desc id="983" len="3" off="4505">the</desc>
+    <desc id="984" len="6" off="4509">dragon</desc>
+    <desc id="985" len="1" off="4516">-</desc>
+    <desc id="986" len="2" off="4518">to</desc>
+    <desc id="987" len="4" off="4521">take</desc>
+    <desc id="988" len="2" off="4526">my</desc>
+    <desc id="989" len="6" off="4529">sister</desc>
+    <desc id="990" len="4" off="4536">back</desc>
+    <desc id="991" len="1" off="4540">.</desc>
+    <desc id="992" len="1" off="4541">''</desc>
+    <desc id="993" len="1" off="4544">``</desc>
+    <desc id="994" len="3" off="4545">Eat</desc>
+    <desc id="995" len="2" off="4549">my</desc>
+    <desc id="996" len="7" off="4552">biggest</desc>
+    <desc id="997" len="3" off="4560">hog</desc>
+    <desc id="998" len="3" off="4564">and</desc>
+    <desc id="999" len="4" off="4568">then</desc>
+    <desc id="1000" len="3" off="4573">you</desc>
+    <desc id="1001" len="3" off="4577">can</desc>
+    <desc id="1002" len="3" off="4581">set</desc>
+    <desc id="1003" len="4" off="4585">your</desc>
+    <desc id="1004" len="6" off="4590">sister</desc>
+    <desc id="1005" len="4" off="4597">free</desc>
+    <desc id="1006" len="1" off="4601">.</desc>
+    <desc id="1007" len="1" off="4602">''</desc>
+    <desc id="1008" len="2" off="4606">He</desc>
+    <desc id="1009" len="3" off="4609">ate</desc>
+    <desc id="1010" len="2" off="4613">it</desc>
+    <desc id="1011" len="1" off="4615">,</desc>
+    <desc id="1012" len="7" off="4617">thanked</desc>
+    <desc id="1013" len="3" off="4625">him</desc>
+    <desc id="1014" len="3" off="4629">and</desc>
+    <desc id="1015" len="4" off="4633">went</desc>
+    <desc id="1016" len="7" off="4638">further</desc>
+    <desc id="1017" len="1" off="4645">.</desc>
+    <desc id="1018" len="2" off="4647">He</desc>
+    <desc id="1019" len="6" off="4650">walked</desc>
+    <desc id="1020" len="3" off="4657">and</desc>
+    <desc id="1021" len="6" off="4661">walked</desc>
+    <desc id="1022" len="5" off="4668">until</desc>
+    <desc id="1023" len="2" off="4674">he</desc>
+    <desc id="1024" len="3" off="4677">saw</desc>
+    <desc id="1025" len="6" off="4681">dragon</desc>
+    <desc id="1026" len="2" off="4687">'s</desc>
+    <desc id="1027" len="4" off="4690">home</desc>
+    <desc id="1028" len="3" off="4695">and</desc>
+    <desc id="1029" len="3" off="4700">his</desc>
+    <desc id="1030" len="6" off="4704">sister</desc>
+    <desc id="1031" len="10" off="4711">collecting</desc>
+    <desc id="1032" len="5" off="4722">water</desc>
+    <desc id="1033" len="4" off="4728">from</desc>
+    <desc id="1034" len="3" off="4733">the</desc>
+    <desc id="1035" len="4" off="4737">well</desc>
+    <desc id="1036" len="1" off="4741">.</desc>
+    <desc id="1037" len="1" off="4744">``</desc>
+    <desc id="1038" len="5" off="4745">Hello</desc>
+    <desc id="1039" len="1" off="4750">,</desc>
+    <desc id="1040" len="6" off="4752">sister</desc>
+    <desc id="1041" len="1" off="4758">,</desc>
+    <desc id="1042" len="1" off="4759">''</desc>
+    <desc id="1043" len="4" off="4761">said</desc>
+    <desc id="1044" len="7" off="4766">Rolling</desc>
+    <desc id="1045" len="3" off="4774">Pea</desc>
+    <desc id="1046" len="1" off="4777">.</desc>
+    <desc id="1047" len="3" off="4780">She</desc>
+    <desc id="1048" len="4" off="4784">said</desc>
+    <desc id="1049" len="2" off="4789">to</desc>
+    <desc id="1050" len="3" off="4792">him</desc>
+    <desc id="1051" len="1" off="4795">,</desc>
+    <desc id="1052" len="1" off="4797">``</desc>
+    <desc id="1053" len="6" off="4798">Surely</desc>
+    <desc id="1054" len="3" off="4805">you</desc>
+    <desc id="1055" len="3" off="4809">are</desc>
+    <desc id="1056" len="3" off="4813">not</desc>
+    <desc id="1057" len="2" off="4817">my</desc>
+    <desc id="1058" len="7" off="4820">brother</desc>
+    <desc id="1059" len="1" off="4827">?</desc>
+    <desc id="1060" len="1" off="4828">''</desc>
+    <desc id="1061" len="2" off="4831">He</desc>
+    <desc id="1062" len="4" off="4834">said</desc>
+    <desc id="1063" len="1" off="4838">,</desc>
+    <desc id="1064" len="1" off="4840">``</desc>
+    <desc id="1065" len="3" off="4841">You</desc>
+    <desc id="1066" len="4" off="4845">will</desc>
+    <desc id="1067" len="3" off="4850">see</desc>
+    <desc id="1068" len="4" off="4854">that</desc>
+    <desc id="1069" len="1" off="4859">I</desc>
+    <desc id="1070" len="2" off="4861">am</desc>
+    <desc id="1071" len="1" off="4863">!</desc>
+    <desc id="1072" len="1" off="4864">''</desc>
+    <desc id="1073" len="3" off="4867">The</desc>
+    <desc id="1074" len="6" off="4871">dragon</desc>
+    <desc id="1075" len="4" off="4878">came</desc>
+    <desc id="1076" len="3" off="4883">out</desc>
+    <desc id="1077" len="1" off="4886">,</desc>
+    <desc id="1078" len="1" off="4888">``</desc>
+    <desc id="1079" len="2" off="4889">Ah</desc>
+    <desc id="1080" len="1" off="4891">,</desc>
+    <desc id="1081" len="5" off="4893">hello</desc>
+    <desc id="1082" len="1" off="4898">!</desc>
+    <desc id="1083" len="1" off="4899">''</desc>
+    <desc id="1084" len="2" off="4901">he</desc>
+    <desc id="1085" len="4" off="4904">said</desc>
+    <desc id="1086" len="1" off="4908">.</desc>
+    <desc id="1087" len="1" off="4911">``</desc>
+    <desc id="1088" len="5" off="4912">Hello</desc>
+    <desc id="1089" len="1" off="4917">!</desc>
+    <desc id="1090" len="1" off="4918">''</desc>
+    <desc id="1091" len="3" off="4921">The</desc>
+    <desc id="1092" len="6" off="4925">dragon</desc>
+    <desc id="1093" len="5" off="4932">asked</desc>
+    <desc id="1094" len="3" off="4938">him</desc>
+    <desc id="1095" len="1" off="4941">,</desc>
+    <desc id="1096" len="1" off="4943">``</desc>
+    <desc id="1097" len="3" off="4944">Why</desc>
+    <desc id="1098" len="3" off="4948">did</desc>
+    <desc id="1099" len="3" off="4952">you</desc>
+    <desc id="1100" len="4" off="4956">come</desc>
+    <desc id="1101" len="4" off="4961">here</desc>
+    <desc id="1102" len="1" off="4965">?</desc>
+    <desc id="1103" len="1" off="4966">''</desc>
+    <desc id="1104" len="1" off="4969">``</desc>
+    <desc id="1105" len="1" off="4970">I</desc>
+    <desc id="1106" len="4" off="4972">came</desc>
+    <desc id="1107" len="3" off="4977">for</desc>
+    <desc id="1108" len="2" off="4981">my</desc>
+    <desc id="1109" len="6" off="4984">sister</desc>
+    <desc id="1110" len="3" off="4991">and</desc>
+    <desc id="1111" len="8" off="4995">brothers</desc>
+    <desc id="1112" len="1" off="5003">.</desc>
+    <desc id="1113" len="1" off="5004">''</desc>
+    <desc id="1114" len="1" off="5007">``</desc>
+    <desc id="1115" len="3" off="5008">Eat</desc>
+    <desc id="1116" len="6" off="5012">twelve</desc>
+    <desc id="1117" len="4" off="5019">oxen</desc>
+    <desc id="1118" len="1" off="5023">,</desc>
+    <desc id="1119" len="6" off="5025">twelve</desc>
+    <desc id="1120" len="4" off="5032">rams</desc>
+    <desc id="1121" len="3" off="5037">and</desc>
+    <desc id="1122" len="6" off="5041">twelve</desc>
+    <desc id="1123" len="4" off="5048">hogs</desc>
+    <desc id="1124" len="1" off="5052">.</desc>
+    <desc id="1125" len="1" off="5053">''</desc>
+    <desc id="1126" len="2" off="5056">He</desc>
+    <desc id="1127" len="3" off="5059">ate</desc>
+    <desc id="1128" len="4" off="5063">them</desc>
+    <desc id="1129" len="3" off="5068">all</desc>
+    <desc id="1130" len="1" off="5071">.</desc>
+    <desc id="1131" len="3" off="5073">The</desc>
+    <desc id="1132" len="6" off="5077">dragon</desc>
+    <desc id="1133" len="4" off="5084">said</desc>
+    <desc id="1134" len="1" off="5088">,</desc>
+    <desc id="1135" len="1" off="5090">``</desc>
+    <desc id="1136" len="4" off="5091">Well</desc>
+    <desc id="1137" len="4" off="5096">done</desc>
+    <desc id="1138" len="1" off="5100">!</desc>
+    <desc id="1139" len="1" off="5101">''</desc>
+    <desc id="1140" len="1" off="5104">``</desc>
+    <desc id="1141" len="3" off="5105">Now</desc>
+    <desc id="1142" len="1" off="5108">,</desc>
+    <desc id="1143" len="2" off="5110">do</desc>
+    <desc id="1144" len="3" off="5113">you</desc>
+    <desc id="1145" len="4" off="5117">want</desc>
+    <desc id="1146" len="2" off="5122">to</desc>
+    <desc id="1147" len="5" off="5125">fight</desc>
+    <desc id="1148" len="2" off="5131">me</desc>
+    <desc id="1149" len="2" off="5134">or</desc>
+    <desc id="1150" len="2" off="5137">to</desc>
+    <desc id="1151" len="4" off="5140">make</desc>
+    <desc id="1152" len="5" off="5145">peace</desc>
+    <desc id="1153" len="4" off="5151">with</desc>
+    <desc id="1154" len="2" off="5156">me</desc>
+    <desc id="1155" len="1" off="5158">?</desc>
+    <desc id="1156" len="1" off="5159">''</desc>
+    <desc id="1157" len="1" off="5162">``</desc>
+    <desc id="1158" len="1" off="5163">I</desc>
+    <desc id="1159" len="4" off="5165">want</desc>
+    <desc id="1160" len="2" off="5170">to</desc>
+    <desc id="1161" len="5" off="5173">fight</desc>
+    <desc id="1162" len="3" off="5179">you</desc>
+    <desc id="1163" len="1" off="5182">!</desc>
+    <desc id="1164" len="1" off="5184">I</desc>
+    <desc id="1165" len="2" off="5186">do</desc>
+    <desc id="1166" len="3" off="5188">n't</desc>
+    <desc id="1167" len="4" off="5192">want</desc>
+    <desc id="1168" len="2" off="5197">to</desc>
+    <desc id="1169" len="4" off="5200">make</desc>
+    <desc id="1170" len="5" off="5205">peace</desc>
+    <desc id="1171" len="4" off="5211">with</desc>
+    <desc id="1172" len="3" off="5216">you</desc>
+    <desc id="1173" len="1" off="5219">.</desc>
+    <desc id="1174" len="1" off="5220">''</desc>
+    <desc id="1175" len="1" off="5223">``</desc>
+    <desc id="1176" len="4" off="5224">Blow</desc>
+    <desc id="1177" len="3" off="5229">the</desc>
+    <desc id="1178" len="4" off="5233">horn</desc>
+    <desc id="1179" len="1" off="5237">,</desc>
+    <desc id="1180" len="1" off="5238">''</desc>
+    <desc id="1181" len="4" off="5240">said</desc>
+    <desc id="1182" len="6" off="5245">dragon</desc>
+    <desc id="1183" len="1" off="5251">.</desc>
+    <desc id="1184" len="1" off="5254">``</desc>
+    <desc id="1185" len="3" off="5255">You</desc>
+    <desc id="1186" len="4" off="5259">blow</desc>
+    <desc id="1187" len="5" off="5264">first</desc>
+    <desc id="1188" len="1" off="5269">,</desc>
+    <desc id="1189" len="1" off="5270">''</desc>
+    <desc id="1190" len="4" off="5272">said</desc>
+    <desc id="1191" len="7" off="5277">Rolling</desc>
+    <desc id="1192" len="3" off="5285">Pea</desc>
+    <desc id="1193" len="1" off="5288">.</desc>
+    <desc id="1194" len="1" off="5290">``</desc>
+    <desc id="1195" len="3" off="5291">You</desc>
+    <desc id="1196" len="3" off="5295">are</desc>
+    <desc id="1197" len="3" off="5299">the</desc>
+    <desc id="1198" len="6" off="5303">master</desc>
+    <desc id="1199" len="2" off="5310">of</desc>
+    <desc id="1200" len="3" off="5313">the</desc>
+    <desc id="1201" len="5" off="5317">house</desc>
+    <desc id="1202" len="2" off="5323">in</desc>
+    <desc id="1203" len="4" off="5326">this</desc>
+    <desc id="1204" len="4" off="5331">case</desc>
+    <desc id="1205" len="1" off="5335">,</desc>
+    <desc id="1206" len="3" off="5337">not</desc>
+    <desc id="1207" len="2" off="5341">me</desc>
+    <desc id="1208" len="1" off="5343">.</desc>
+    <desc id="1209" len="1" off="5344">''</desc>
+    <desc id="1210" len="3" off="5347">The</desc>
+    <desc id="1211" len="6" off="5351">dragon</desc>
+    <desc id="1212" len="4" off="5358">blew</desc>
+    <desc id="1213" len="3" off="5363">the</desc>
+    <desc id="1214" len="4" off="5367">horn</desc>
+    <desc id="1215" len="3" off="5372">and</desc>
+    <desc id="1216" len="2" off="5376">it</desc>
+    <desc id="1217" len="6" off="5379">turned</desc>
+    <desc id="1218" len="4" off="5386">into</desc>
+    <desc id="1219" len="4" off="5391">cast</desc>
+    <desc id="1220" len="4" off="5396">iron</desc>
+    <desc id="1221" len="1" off="5400">;</desc>
+    <desc id="1222" len="7" off="5402">Rolling</desc>
+    <desc id="1223" len="3" off="5410">Pea</desc>
+    <desc id="1224" len="4" off="5414">blew</desc>
+    <desc id="1225" len="3" off="5419">the</desc>
+    <desc id="1226" len="4" off="5423">horn</desc>
+    <desc id="1227" len="3" off="5428">and</desc>
+    <desc id="1228" len="2" off="5432">it</desc>
+    <desc id="1229" len="6" off="5435">turned</desc>
+    <desc id="1230" len="4" off="5443">into</desc>
+    <desc id="1231" len="6" off="5448">copper</desc>
+    <desc id="1232" len="1" off="5454">.</desc>
+    <desc id="1233" len="7" off="5457">Rolling</desc>
+    <desc id="1234" len="3" off="5465">Pea</desc>
+    <desc id="1235" len="3" off="5469">hit</desc>
+    <desc id="1236" len="3" off="5473">the</desc>
+    <desc id="1237" len="6" off="5477">dragon</desc>
+    <desc id="1238" len="4" off="5484">with</desc>
+    <desc id="1239" len="3" off="5489">his</desc>
+    <desc id="1240" len="4" off="5493">mace</desc>
+    <desc id="1241" len="1" off="5497">,</desc>
+    <desc id="1242" len="2" off="5499">so</desc>
+    <desc id="1243" len="4" off="5502">that</desc>
+    <desc id="1244" len="2" off="5507">he</desc>
+    <desc id="1245" len="4" off="5510">sank</desc>
+    <desc id="1246" len="10" off="5515">ankle-deep</desc>
+    <desc id="1247" len="2" off="5526">in</desc>
+    <desc id="1248" len="3" off="5529">the</desc>
+    <desc id="1249" len="6" off="5533">ground</desc>
+    <desc id="1250" len="1" off="5539">,</desc>
+    <desc id="1251" len="7" off="5541">Rolling</desc>
+    <desc id="1252" len="3" off="5549">Pea</desc>
+    <desc id="1253" len="6" off="5554">struck</desc>
+    <desc id="1254" len="3" off="5561">him</desc>
+    <desc id="1255" len="3" off="5565">the</desc>
+    <desc id="1256" len="6" off="5569">second</desc>
+    <desc id="1257" len="4" off="5576">time</desc>
+    <desc id="1258" len="3" off="5581">and</desc>
+    <desc id="1259" len="6" off="5585">killed</desc>
+    <desc id="1260" len="3" off="5592">the</desc>
+    <desc id="1261" len="6" off="5596">dragon</desc>
+    <desc id="1262" len="1" off="5602">.</desc>
+    <desc id="1263" len="4" off="5604">Then</desc>
+    <desc id="1264" len="2" off="5609">he</desc>
+    <desc id="1265" len="3" off="5612">cut</desc>
+    <desc id="1266" len="3" off="5616">the</desc>
+    <desc id="1267" len="6" off="5620">dragon</desc>
+    <desc id="1268" len="4" off="5627">into</desc>
+    <desc id="1269" len="5" off="5632">small</desc>
+    <desc id="1270" len="6" off="5638">pieces</desc>
+    <desc id="1271" len="1" off="5644">,</desc>
+    <desc id="1272" len="9" off="5647">scattered</desc>
+    <desc id="1273" len="3" off="5657">his</desc>
+    <desc id="1274" len="5" off="5661">ashes</desc>
+    <desc id="1275" len="1" off="5666">,</desc>
+    <desc id="1276" len="3" off="5668">set</desc>
+    <desc id="1277" len="3" off="5672">his</desc>
+    <desc id="1278" len="8" off="5676">brothers</desc>
+    <desc id="1279" len="4" off="5685">free</desc>
+    <desc id="1280" len="4" off="5690">from</desc>
+    <desc id="1281" len="5" off="5695">under</desc>
+    <desc id="1282" len="3" off="5701">the</desc>
+    <desc id="1283" len="5" off="5705">stone</desc>
+    <desc id="1284" len="1" off="5710">,</desc>
+    <desc id="1285" len="4" off="5712">took</desc>
+    <desc id="1286" len="3" off="5717">his</desc>
+    <desc id="1287" len="6" off="5721">sister</desc>
+    <desc id="1288" len="1" off="5727">,</desc>
+    <desc id="1289" len="3" off="5729">and</desc>
+    <desc id="1290" len="4" off="5733">they</desc>
+    <desc id="1291" len="3" off="5738">all</desc>
+    <desc id="1292" len="4" off="5742">went</desc>
+    <desc id="1293" len="4" off="5748">back</desc>
+    <desc id="1294" len="4" off="5753">home</desc>
+    <desc id="1295" len="1" off="5757">.</desc>
+    <desc id="1296" len="3" off="5759">His</desc>
+    <desc id="1297" len="6" off="5763">father</desc>
+    <desc id="1298" len="3" off="5770">and</desc>
+    <desc id="1299" len="3" off="5774">his</desc>
+    <desc id="1300" len="6" off="5778">mother</desc>
+    <desc id="1301" len="4" off="5785">were</desc>
+    <desc id="1302" len="5" off="5790">again</desc>
+    <desc id="1303" len="5" off="5796">happy</desc>
+    <desc id="1304" len="1" off="5801">!</desc>
+  </rep>
+  <rep id="edu.mit.discourse.rep.refexp">
+    <factory id="edu.mit.discourse.rep.refexp.factory.null"/>
+    <desc id="1372" len="5" off="266">9~10</desc>
+    <desc id="1374" len="7" off="276">12~13</desc>
+    <desc id="1376" len="5" off="278">13</desc>
+    <desc id="1331" len="8" off="292">16~17</desc>
+    <desc id="1378" len="12" off="305">19~20</desc>
+    <desc id="1335" len="8" off="309">20</desc>
+    <desc id="1377" len="8" off="344">27~28</desc>
+    <desc id="1379" len="8" off="426">49~50</desc>
+    <desc id="1380" len="8" off="438">53~54</desc>
+    <desc id="1338" len="8" off="620">94~95</desc>
+    <desc id="1341" len="12" off="1491">282~283</desc>
+    <desc id="1344" len="13" off="1809">356~357</desc>
+    <desc id="1347" len="17" off="2100">424~425~426</desc>
+    <desc id="1382" len="14" off="2938">612~613~614</desc>
+    <desc id="1350" len="11" off="3188">671~672</desc>
+  </rep>
+  <rep id="edu.mit.semantics.rep.event">
+    <factory id="edu.mit.semantics.rep.event.factory.default"/>
+  </rep>
+  <rep id="edu.mit.semantics.rep.function" ver="0.5.0">
+    <factory id="edu.mit.semantics.rep.function.factory.null"/>
+    <desc id="1307" len="81" off="237">INITIAL::alpha:false::|ACTUAL:::3~4~5~6~7~8~9~10~11~12~13~14~15~16~17~18~19~20~21</desc>
+    <desc id="1313" len="44" off="319">PREPARATORY::beta:false::3|ACTUAL:26::22~23~24~25~26~27~28~29~30~31</desc>
+    <desc id="1314" len="56" off="620">PREPARATORY::zeta:false::1|ACTUAL:96::94~95~96~97~98~99~100~101~102~103</desc>
+    <desc id="1356" len="79" off="678">PREPARATORY::eta:false::3|ACTUAL:111::105~106~107~108~109~110~111~112~113~114~115~116~117~118~119</desc>
+    <desc id="1310" len="62" off="759">PREPARATORY::gamma:false::2|ACTUAL:126::121~122~123~124~125~126~127~128~129~130~131~132~133</desc>
+    <desc id="1316" len="78" off="822">PREPARATORY::delta:false::|ACTUAL:142::134~135~136~137~138~139~140~141~142~143~144~145~146~147~148</desc>
+    <desc id="1317" len="110" off="822">PREPARATORY::theta:false::3|ACTUAL:150::134~135,150~151~152~153~154~155</desc>
+    <desc id="1357" len="69" off="910">NORMAL::A:false::1|ACTUAL:159::152~153,159~160~161~162~163~164~165~166</desc>
+    <desc id="1311" len="66" off="1321">NORMAL::C:false::|ACTUAL:248::246~247~248~249~250~251~252~253~254~255~256~257~258~259~260~261</desc>
+    <desc id="1312" len="50" off="1390">NORMAL::up:false::|ACTUAL:266::262,266~267~268~269~270~271</desc>
+    <desc id="1318" len="992" off="1648">NORMAL::D:false::1|ACTUAL:319,336::319~320~321~322~323~324~325~326~327~328~329~330~331~332~333~334~335~336|ACTUAL:387,404::387~388~389~390~391~392~393~394~395~396~397~398~399~400~401~402~403~404|ACTUAL:456,473::456~457~458~459~460~461~462~463~464~465~466~467~468~469~470~471~472~473|ACTUAL:528,551::528~529~530~531~532~533~534~535~536~537~538~539~540~541~542~543~544~545~546~547~548~549~550~551</desc>
+    <desc id="1319" len="988" off="1723">NORMAL::E:true::1|ACTUAL:340~341,344::338~339~340~341~342~343~344~345|ACTUAL:408~409,412::406~407~408~409~410~411~412~413|ACTUAL:477~478,481::475~476~477~478~479~480~481~482|ACTUAL:554,563::553~554~555~556~557~558~559~560~561~562~563~564</desc>
+    <desc id="1320" len="39" off="2713">NORMAL::F:true::|ACTUAL:568::566~567~568~569~570~571~572~573</desc>
+    <desc id="1321" len="119" off="3384">NORMAL::B:false::4|ACTUAL:721,748::721~722~723~724~725~726~727~728~729~730~731~732~733~734~735~736~737~738~739~740~741~742~743~744~745~746~747~748</desc>
+    <desc id="1323" len="26" off="3560">NORMAL::C:false::|ACTUAL:761,769::761~762~763~764~765~766~767~768~769</desc>
+    <desc id="1361" len="57" off="3693">NORMAL::up:false::|ACTUAL:803::794~795,803~804~805~806</desc>
+    <desc id="1325" len="1115" off="3939">NORMAL::D:false::1|ACTUAL:850,864::850~851~852~853~854~855~856~857~858~859~860~861~862~863~864|ACTUAL:922,936::922~923~924~925~926~927~928~929~930~931~932~933~934~935~936|ACTUAL:993,1007::993~994~995~996~997~998~999~1000~1001~1002~1003~1004~1005~1006~1007|ACTUAL:1114,1125::1114~1115~1116~1117~1118~1119~1120~1121~1122~1123~1124~1125</desc>
+    <desc id="1326" len="1072" off="4000">NORMAL::E:false::1|ACTUAL:866::865~866~867|ACTUAL:938::937~938~939|ACTUAL:1009::1008~1009~1010|ACTUAL:1127::1126~1127~1128~1129~1130</desc>
+    <desc id="1327" len="82" off="5457">NORMAL::H:false::1|ACTUAL:1235::1233~1234~1235~1236~1237~1238~1239~1240~1241~1242~1243~1244~1245~1246~1247~1248~1249</desc>
+    <desc id="1328" len="61" off="5541">NORMAL::I:false::1|ACTUAL:1253,1259::1251~1252~1253~1254~1255~1256~1257~1258~1259~1260~1261</desc>
+    <desc id="1329" len="118" off="5609">NORMAL::K:false::4|ACTUAL:1276,1279,1285::1264,1276~1277~1278~1279~1280~1281~1282~1283~1284~1285~1286~1287</desc>
+    <desc id="1330" len="24" off="5733">NORMAL::down:false::|ACTUAL:1292::1290~1291~1292~1293~1294</desc>
+  </rep>
+  <rep id="edu.mit.discourse.rep.coref">
+    <factory id="edu.mit.discourse.rep.coref.factory.null"/>
+    <desc id="1373" len="5" off="266">a man|1372</desc>
+    <desc id="1375" len="7" off="276">Mother|1374,1376</desc>
+    <desc id="1332" len="60" off="292">two sons|1331,1377</desc>
+    <desc id="1336" len="129" off="305">daughter|1378,1335,1379</desc>
+    <desc id="1381" len="8" off="438">The girl|1380</desc>
+    <desc id="1339" len="8" off="620">A dragon|1338</desc>
+    <desc id="1342" len="12" off="1491">the herdsman|1341</desc>
+    <desc id="1345" len="13" off="1809">the shepherd|1344</desc>
+    <desc id="1348" len="17" off="2100">the swine breeder|1347</desc>
+    <desc id="1351" len="261" off="2938">Rolling Pea|1382,1350</desc>
+  </rep>
+  <rep id="edu.mit.semantics.rep.move" ver="0.2.0">
+    <factory id="edu.mit.semantics.rep.move.factory.null"/>
+    <desc id="1367" len="695" off="237">0|0,1307|0,1313|0,1314|0,1356|0,1310|0,1316|0,1317</desc>
+    <desc id="1370" len="1842" off="910">1|0,1357|0,1311|0,1312|0,1318|0,1319|1,1318|1,1319|2,1318|2,1319|3,1318|3,1319|0,1320</desc>
+    <desc id="1371" len="2373" off="3384">2|0,1321|0,1323|0,1361|0,1325|0,1326|1,1325|1,1326|2,1325|2,1326|3,1325|3,1326|0,1327|0,1328|0,1329|0,1330</desc>
+  </rep>
+  <rep id="edu.mit.semantics.rep.archetype" ver="0.1.0">
+    <factory id="edu.mit.semantics.rep.archetype.factory.null"/>
+    <desc id="1333" len="60" off="292">HERO|1332</desc>
+    <desc id="1334" len="60" off="292">PRINCESS|1332</desc>
+    <desc id="1337" len="129" off="305">PRINCESS|1336</desc>
+    <desc id="1340" len="8" off="620">VILLAIN|1339</desc>
+    <desc id="1353" len="8" off="620">DONOR|1339</desc>
+    <desc id="1343" len="12" off="1491">DONOR|1342</desc>
+    <desc id="1346" len="13" off="1809">DONOR|1345</desc>
+    <desc id="1349" len="17" off="2100">DONOR|1348</desc>
+    <desc id="1352" len="261" off="2938">HERO|1351</desc>
+  </rep>
+  <metaRep id="edu.mit.story.meta.merge">
+    <metaDesc descID="1331" repID="edu.mit.discourse.rep.refexp">David</metaDesc>
+    <metaDesc descID="1335" repID="edu.mit.discourse.rep.refexp">David</metaDesc>
+    <metaDesc descID="1338" repID="edu.mit.discourse.rep.refexp">David</metaDesc>
+    <metaDesc descID="1341" repID="edu.mit.discourse.rep.refexp">David</metaDesc>
+    <metaDesc descID="1344" repID="edu.mit.discourse.rep.refexp">David</metaDesc>
+    <metaDesc descID="1347" repID="edu.mit.discourse.rep.refexp">David</metaDesc>
+    <metaDesc descID="1350" repID="edu.mit.discourse.rep.refexp">David</metaDesc>
+    <metaDesc descID="1305" repID="edu.mit.semantics.rep.function">David</metaDesc>
+    <metaDesc descID="1307" repID="edu.mit.semantics.rep.function">Aerin</metaDesc>
+    <metaDesc descID="1307" repID="edu.mit.semantics.rep.function">David</metaDesc>
+    <metaDesc descID="1310" repID="edu.mit.semantics.rep.function">David</metaDesc>
+    <metaDesc descID="1311" repID="edu.mit.semantics.rep.function">Aerin</metaDesc>
+    <metaDesc descID="1311" repID="edu.mit.semantics.rep.function">David</metaDesc>
+    <metaDesc descID="1312" repID="edu.mit.semantics.rep.function">Aerin</metaDesc>
+    <metaDesc descID="1312" repID="edu.mit.semantics.rep.function">David</metaDesc>
+    <metaDesc descID="1313" repID="edu.mit.semantics.rep.function">David</metaDesc>
+    <metaDesc descID="1314" repID="edu.mit.semantics.rep.function">David</metaDesc>
+    <metaDesc descID="1315" repID="edu.mit.semantics.rep.function">David</metaDesc>
+    <metaDesc descID="1316" repID="edu.mit.semantics.rep.function">David</metaDesc>
+    <metaDesc descID="1317" repID="edu.mit.semantics.rep.function">David</metaDesc>
+    <metaDesc descID="1318" repID="edu.mit.semantics.rep.function">David</metaDesc>
+    <metaDesc descID="1319" repID="edu.mit.semantics.rep.function">David</metaDesc>
+    <metaDesc descID="1320" repID="edu.mit.semantics.rep.function">David</metaDesc>
+    <metaDesc descID="1321" repID="edu.mit.semantics.rep.function">Aerin</metaDesc>
+    <metaDesc descID="1321" repID="edu.mit.semantics.rep.function">David</metaDesc>
+    <metaDesc descID="1323" repID="edu.mit.semantics.rep.function">Aerin</metaDesc>
+    <metaDesc descID="1323" repID="edu.mit.semantics.rep.function">David</metaDesc>
+    <metaDesc descID="1324" repID="edu.mit.semantics.rep.function">David</metaDesc>
+    <metaDesc descID="1325" repID="edu.mit.semantics.rep.function">David</metaDesc>
+    <metaDesc descID="1326" repID="edu.mit.semantics.rep.function">David</metaDesc>
+    <metaDesc descID="1327" repID="edu.mit.semantics.rep.function">David</metaDesc>
+    <metaDesc descID="1328" repID="edu.mit.semantics.rep.function">David</metaDesc>
+    <metaDesc descID="1329" repID="edu.mit.semantics.rep.function">David</metaDesc>
+    <metaDesc descID="1330" repID="edu.mit.semantics.rep.function">Aerin</metaDesc>
+    <metaDesc descID="1330" repID="edu.mit.semantics.rep.function">David</metaDesc>
+    <metaDesc descID="1354" repID="edu.mit.semantics.rep.function">Aerin</metaDesc>
+    <metaDesc descID="1355" repID="edu.mit.semantics.rep.function">Aerin</metaDesc>
+    <metaDesc descID="1356" repID="edu.mit.semantics.rep.function">Aerin</metaDesc>
+    <metaDesc descID="1357" repID="edu.mit.semantics.rep.function">Aerin</metaDesc>
+    <metaDesc descID="1358" repID="edu.mit.semantics.rep.function">Aerin</metaDesc>
+    <metaDesc descID="1359" repID="edu.mit.semantics.rep.function">Aerin</metaDesc>
+    <metaDesc descID="1360" repID="edu.mit.semantics.rep.function">Aerin</metaDesc>
+    <metaDesc descID="1361" repID="edu.mit.semantics.rep.function">Aerin</metaDesc>
+    <metaDesc descID="1362" repID="edu.mit.semantics.rep.function">Aerin</metaDesc>
+    <metaDesc descID="1363" repID="edu.mit.semantics.rep.function">Aerin</metaDesc>
+    <metaDesc descID="1364" repID="edu.mit.semantics.rep.function">Aerin</metaDesc>
+    <metaDesc descID="1365" repID="edu.mit.semantics.rep.function">Aerin</metaDesc>
+    <metaDesc descID="1366" repID="edu.mit.semantics.rep.function">Aerin</metaDesc>
+    <metaDesc descID="1332" repID="edu.mit.discourse.rep.coref">David</metaDesc>
+    <metaDesc descID="1336" repID="edu.mit.discourse.rep.coref">David</metaDesc>
+    <metaDesc descID="1339" repID="edu.mit.discourse.rep.coref">David</metaDesc>
+    <metaDesc descID="1342" repID="edu.mit.discourse.rep.coref">David</metaDesc>
+    <metaDesc descID="1345" repID="edu.mit.discourse.rep.coref">David</metaDesc>
+    <metaDesc descID="1348" repID="edu.mit.discourse.rep.coref">David</metaDesc>
+    <metaDesc descID="1351" repID="edu.mit.discourse.rep.coref">David</metaDesc>
+    <metaDesc descID="1306" repID="edu.mit.semantics.rep.move">David</metaDesc>
+    <metaDesc descID="1308" repID="edu.mit.semantics.rep.move">David</metaDesc>
+    <metaDesc descID="1322" repID="edu.mit.semantics.rep.move">David</metaDesc>
+    <metaDesc descID="1367" repID="edu.mit.semantics.rep.move">Aerin</metaDesc>
+    <metaDesc descID="1368" repID="edu.mit.semantics.rep.move">Aerin</metaDesc>
+    <metaDesc descID="1369" repID="edu.mit.semantics.rep.move">Aerin</metaDesc>
+    <metaDesc descID="1333" repID="edu.mit.semantics.rep.archetype">David</metaDesc>
+    <metaDesc descID="1334" repID="edu.mit.semantics.rep.archetype">David</metaDesc>
+    <metaDesc descID="1337" repID="edu.mit.semantics.rep.archetype">David</metaDesc>
+    <metaDesc descID="1340" repID="edu.mit.semantics.rep.archetype">David</metaDesc>
+    <metaDesc descID="1343" repID="edu.mit.semantics.rep.archetype">David</metaDesc>
+    <metaDesc descID="1346" repID="edu.mit.semantics.rep.archetype">David</metaDesc>
+    <metaDesc descID="1349" repID="edu.mit.semantics.rep.archetype">David</metaDesc>
+    <metaDesc descID="1352" repID="edu.mit.semantics.rep.archetype">David</metaDesc>
+    <metaDesc descID="1353" repID="edu.mit.semantics.rep.archetype">David</metaDesc>
+  </metaRep>
+  <metaRep id="edu.mit.story.meta.note">
+    <metaDesc descID="1310" repID="edu.mit.semantics.rep.function">Since Propp marks this in Appendix 2, we interpreted "gave it to her daughter to carry" as an implied order: "take this to your brothers!", spoken during the extent (i.e. an actual function).</metaDesc>
+    <metaDesc descID="1313" repID="edu.mit.semantics.rep.function">We discussed whether to include "One day," which is not intrinsic to the action.</metaDesc>
+    <metaDesc descID="1320" repID="edu.mit.semantics.rep.function">In his detailed analysis of the text (p. 129), Propp marks this as "F contr." rather than "F neg.".</metaDesc>
+    <metaDesc descID="1363" repID="edu.mit.semantics.rep.function">I don't know why Propp included the (F) in this sequence in Move 1, but not in Move 2.</metaDesc>
+  </metaRep>
+  <metaRep id="edu.mit.story.meta.origin">
+    <metaDesc descID="1331" repID="edu.mit.discourse.rep.refexp">user</metaDesc>
+    <metaDesc descID="1335" repID="edu.mit.discourse.rep.refexp">user</metaDesc>
+    <metaDesc descID="1338" repID="edu.mit.discourse.rep.refexp">user</metaDesc>
+    <metaDesc descID="1341" repID="edu.mit.discourse.rep.refexp">user</metaDesc>
+    <metaDesc descID="1344" repID="edu.mit.discourse.rep.refexp">user</metaDesc>
+    <metaDesc descID="1347" repID="edu.mit.discourse.rep.refexp">user</metaDesc>
+    <metaDesc descID="1350" repID="edu.mit.discourse.rep.refexp">user</metaDesc>
+    <metaDesc descID="1372" repID="edu.mit.discourse.rep.refexp">user</metaDesc>
+    <metaDesc descID="1374" repID="edu.mit.discourse.rep.refexp">user</metaDesc>
+    <metaDesc descID="1376" repID="edu.mit.discourse.rep.refexp">user</metaDesc>
+    <metaDesc descID="1377" repID="edu.mit.discourse.rep.refexp">user</metaDesc>
+    <metaDesc descID="1378" repID="edu.mit.discourse.rep.refexp">user</metaDesc>
+    <metaDesc descID="1379" repID="edu.mit.discourse.rep.refexp">user</metaDesc>
+    <metaDesc descID="1380" repID="edu.mit.discourse.rep.refexp">user</metaDesc>
+    <metaDesc descID="1382" repID="edu.mit.discourse.rep.refexp">user</metaDesc>
+    <metaDesc descID="1305" repID="edu.mit.semantics.rep.function">user</metaDesc>
+    <metaDesc descID="1307" repID="edu.mit.semantics.rep.function">user</metaDesc>
+    <metaDesc descID="1310" repID="edu.mit.semantics.rep.function">user</metaDesc>
+    <metaDesc descID="1311" repID="edu.mit.semantics.rep.function">user</metaDesc>
+    <metaDesc descID="1312" repID="edu.mit.semantics.rep.function">user</metaDesc>
+    <metaDesc descID="1313" repID="edu.mit.semantics.rep.function">user</metaDesc>
+    <metaDesc descID="1314" repID="edu.mit.semantics.rep.function">user</metaDesc>
+    <metaDesc descID="1315" repID="edu.mit.semantics.rep.function">user</metaDesc>
+    <metaDesc descID="1316" repID="edu.mit.semantics.rep.function">user</metaDesc>
+    <metaDesc descID="1317" repID="edu.mit.semantics.rep.function">user</metaDesc>
+    <metaDesc descID="1318" repID="edu.mit.semantics.rep.function">user</metaDesc>
+    <metaDesc descID="1319" repID="edu.mit.semantics.rep.function">user</metaDesc>
+    <metaDesc descID="1320" repID="edu.mit.semantics.rep.function">user</metaDesc>
+    <metaDesc descID="1321" repID="edu.mit.semantics.rep.function">user</metaDesc>
+    <metaDesc descID="1323" repID="edu.mit.semantics.rep.function">user</metaDesc>
+    <metaDesc descID="1324" repID="edu.mit.semantics.rep.function">user</metaDesc>
+    <metaDesc descID="1325" repID="edu.mit.semantics.rep.function">user</metaDesc>
+    <metaDesc descID="1326" repID="edu.mit.semantics.rep.function">user</metaDesc>
+    <metaDesc descID="1327" repID="edu.mit.semantics.rep.function">user</metaDesc>
+    <metaDesc descID="1328" repID="edu.mit.semantics.rep.function">user</metaDesc>
+    <metaDesc descID="1329" repID="edu.mit.semantics.rep.function">user</metaDesc>
+    <metaDesc descID="1330" repID="edu.mit.semantics.rep.function">user</metaDesc>
+    <metaDesc descID="1354" repID="edu.mit.semantics.rep.function">user</metaDesc>
+    <metaDesc descID="1355" repID="edu.mit.semantics.rep.function">user</metaDesc>
+    <metaDesc descID="1356" repID="edu.mit.semantics.rep.function">user</metaDesc>
+    <metaDesc descID="1357" repID="edu.mit.semantics.rep.function">user</metaDesc>
+    <metaDesc descID="1358" repID="edu.mit.semantics.rep.function">user</metaDesc>
+    <metaDesc descID="1359" repID="edu.mit.semantics.rep.function">user</metaDesc>
+    <metaDesc descID="1360" repID="edu.mit.semantics.rep.function">user</metaDesc>
+    <metaDesc descID="1361" repID="edu.mit.semantics.rep.function">user</metaDesc>
+    <metaDesc descID="1362" repID="edu.mit.semantics.rep.function">user</metaDesc>
+    <metaDesc descID="1363" repID="edu.mit.semantics.rep.function">user</metaDesc>
+    <metaDesc descID="1364" repID="edu.mit.semantics.rep.function">user</metaDesc>
+    <metaDesc descID="1365" repID="edu.mit.semantics.rep.function">user</metaDesc>
+    <metaDesc descID="1366" repID="edu.mit.semantics.rep.function">user</metaDesc>
+    <metaDesc descID="1332" repID="edu.mit.discourse.rep.coref">user</metaDesc>
+    <metaDesc descID="1336" repID="edu.mit.discourse.rep.coref">user</metaDesc>
+    <metaDesc descID="1339" repID="edu.mit.discourse.rep.coref">user</metaDesc>
+    <metaDesc descID="1342" repID="edu.mit.discourse.rep.coref">user</metaDesc>
+    <metaDesc descID="1345" repID="edu.mit.discourse.rep.coref">user</metaDesc>
+    <metaDesc descID="1348" repID="edu.mit.discourse.rep.coref">user</metaDesc>
+    <metaDesc descID="1351" repID="edu.mit.discourse.rep.coref">user</metaDesc>
+    <metaDesc descID="1373" repID="edu.mit.discourse.rep.coref">user</metaDesc>
+    <metaDesc descID="1375" repID="edu.mit.discourse.rep.coref">user</metaDesc>
+    <metaDesc descID="1381" repID="edu.mit.discourse.rep.coref">user</metaDesc>
+    <metaDesc descID="1306" repID="edu.mit.semantics.rep.move">user</metaDesc>
+    <metaDesc descID="1308" repID="edu.mit.semantics.rep.move">user</metaDesc>
+    <metaDesc descID="1322" repID="edu.mit.semantics.rep.move">user</metaDesc>
+    <metaDesc descID="1367" repID="edu.mit.semantics.rep.move">user</metaDesc>
+    <metaDesc descID="1368" repID="edu.mit.semantics.rep.move">user</metaDesc>
+    <metaDesc descID="1369" repID="edu.mit.semantics.rep.move">user</metaDesc>
+    <metaDesc descID="1370" repID="edu.mit.semantics.rep.move">user</metaDesc>
+    <metaDesc descID="1371" repID="edu.mit.semantics.rep.move">user</metaDesc>
+    <metaDesc descID="1333" repID="edu.mit.semantics.rep.archetype">user</metaDesc>
+    <metaDesc descID="1334" repID="edu.mit.semantics.rep.archetype">user</metaDesc>
+    <metaDesc descID="1337" repID="edu.mit.semantics.rep.archetype">user</metaDesc>
+    <metaDesc descID="1340" repID="edu.mit.semantics.rep.archetype">user</metaDesc>
+    <metaDesc descID="1343" repID="edu.mit.semantics.rep.archetype">user</metaDesc>
+    <metaDesc descID="1346" repID="edu.mit.semantics.rep.archetype">user</metaDesc>
+    <metaDesc descID="1349" repID="edu.mit.semantics.rep.archetype">user</metaDesc>
+    <metaDesc descID="1352" repID="edu.mit.semantics.rep.archetype">user</metaDesc>
+    <metaDesc descID="1353" repID="edu.mit.semantics.rep.archetype">user</metaDesc>
+  </metaRep>
+  <metaRep id="edu.mit.story.meta.timing">
+    <metaDesc descID="1372" repID="edu.mit.discourse.rep.refexp">2014-03-19+10:35:51.037-0400|2014-03-19+10:35:54.232-0400|user</metaDesc>
+    <metaDesc descID="1374" repID="edu.mit.discourse.rep.refexp">2014-03-19+10:36:18.578-0400|2014-03-19+10:36:24.965-0400|user</metaDesc>
+    <metaDesc descID="1376" repID="edu.mit.discourse.rep.refexp">2014-03-19+10:36:27.568-0400|2014-03-19+10:36:28.515-0400|user</metaDesc>
+    <metaDesc descID="1377" repID="edu.mit.discourse.rep.refexp">2014-03-19+10:36:46.230-0400|2014-03-19+10:36:48.833-0400|user</metaDesc>
+    <metaDesc descID="1378" repID="edu.mit.discourse.rep.refexp">2014-03-19+10:36:56.474-0400|2014-03-19+10:36:59.532-0400|user</metaDesc>
+    <metaDesc descID="1379" repID="edu.mit.discourse.rep.refexp">2014-03-19+10:37:04.550-0400|2014-03-19+10:37:09.871-0400|user</metaDesc>
+    <metaDesc descID="1380" repID="edu.mit.discourse.rep.refexp">2014-03-19+10:37:14.689-0400|2014-03-19+10:37:16.135-0400|user</metaDesc>
+    <metaDesc descID="1382" repID="edu.mit.discourse.rep.refexp">2014-03-19+10:37:30.340-0400|2014-03-19+10:37:33.998-0400|user</metaDesc>
+    <metaDesc descID="1316" repID="edu.mit.semantics.rep.function">2014-02-16+20:20:55.205-0500|2014-02-16+20:20:58.588-0500|user</metaDesc>
+    <metaDesc descID="1332" repID="edu.mit.discourse.rep.coref">2014-03-19+10:36:46.230-0400|2014-03-19+10:36:48.833-0400|user</metaDesc>
+    <metaDesc descID="1336" repID="edu.mit.discourse.rep.coref">2014-03-19+10:36:56.474-0400|2014-03-19+10:36:59.532-0400|user</metaDesc>
+    <metaDesc descID="1336" repID="edu.mit.discourse.rep.coref">2014-03-19+10:37:04.550-0400|2014-03-19+10:37:09.871-0400|user</metaDesc>
+    <metaDesc descID="1351" repID="edu.mit.discourse.rep.coref">2014-03-19+10:37:30.340-0400|2014-03-19+10:37:33.998-0400|user</metaDesc>
+    <metaDesc descID="1373" repID="edu.mit.discourse.rep.coref">2014-03-19+10:35:51.037-0400|2014-03-19+10:35:54.232-0400|user</metaDesc>
+    <metaDesc descID="1375" repID="edu.mit.discourse.rep.coref">2014-03-19+10:36:18.578-0400|2014-03-19+10:36:24.965-0400|user</metaDesc>
+    <metaDesc descID="1375" repID="edu.mit.discourse.rep.coref">2014-03-19+10:36:27.568-0400|2014-03-19+10:36:28.515-0400|user</metaDesc>
+    <metaDesc descID="1381" repID="edu.mit.discourse.rep.coref">2014-03-19+10:37:14.689-0400|2014-03-19+10:37:16.135-0400|user</metaDesc>
+    <metaDesc descID="1367" repID="edu.mit.semantics.rep.move">2014-02-16+20:20:55.205-0500|2014-02-16+20:20:58.588-0500|user</metaDesc>
+    <metaDesc descID="1367" repID="edu.mit.semantics.rep.move">2014-02-16+21:17:48.661-0500|2014-02-16+21:18:13.674-0500|user</metaDesc>
+    <metaDesc descID="1367" repID="edu.mit.semantics.rep.move">2014-02-16+21:18:24.810-0500|2014-02-16+21:18:33.137-0500|user</metaDesc>
+    <metaDesc descID="1370" repID="edu.mit.semantics.rep.move">2014-02-16+21:19:20.352-0500|2014-02-16+21:19:59.303-0500|user</metaDesc>
+    <metaDesc descID="1371" repID="edu.mit.semantics.rep.move">2014-02-16+21:20:05.701-0500|2014-02-16+21:20:59.652-0500|user</metaDesc>
+  </metaRep>
+</story>
