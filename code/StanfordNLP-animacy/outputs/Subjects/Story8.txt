@@ -1,0 +1,278 @@
+<Sentence id="1">
+king_5
+who_6
+they_14
+tongue_18
+<Sentence id="2">
+garden_2
+they_8
+<Sentence id="3">
+dragon_2
+<Sentence id="4">
+daughters_6
+they_13
+dragon_26
+<Sentence id="5">
+king_2
+daughters_8
+<Sentence id="6">
+He_1
+maidservants_19
+<Sentence id="7">
+king_5
+<Sentence id="8">
+king_2
+Whoever_6
+I_13
+he_20
+<Sentence id="9">
+men_2
+who_11
+they_23
+soldier_10
+<Sentence id="10">
+They_1
+they_6
+<Sentence id="11">
+they_4
+<Sentence id="12">
+Stay-at-Home_2
+Eh_31
+us_36
+us_46
+<Sentence id="13">
+they_2
+they_6
+<Sentence id="14">
+they_5
+one_13
+<Sentence id="15">
+Frolka_2
+me_15
+<Sentence id="16">
+He_1
+a_9
+he_15
+<Sentence id="17">
+They_1
+they_17
+<Sentence id="18">
+maiden_3
+doves_17
+<Sentence id="19">
+dragon_4
+who_8
+here_6
+<Sentence id="20">
+You_1
+he_5
+<Sentence id="21">
+Frolka_1
+It_6
+who_9
+we_8
+<Sentence id="22">
+He_1
+dragon_10
+Who_17
+<Sentence id="23">
+I_2
+<Sentence id="24">
+I_1
+<Sentence id="25">
+raven_3
+Frolka_11
+horse_17
+<Sentence id="26">
+this_5
+you_10
+<Sentence id="27">
+I_2
+Frolka_12
+<Sentence id="28">
+They_1
+Frolka_16
+<Sentence id="29">
+he_2
+<Sentence id="30">
+maiden_2
+three_9
+<Sentence id="31">
+you_5
+<Sentence id="32">
+they_1
+<Sentence id="33">
+She_1
+she_4
+Frolka_12
+he_17
+they_22
+<Sentence id="34">
+princess_2
+<Sentence id="35">
+<Sentence id="36">
+princess_2
+sisters_7
+<Sentence id="37">
+sister_4
+I_10
+she_14
+<Sentence id="38">
+She_2
+<Sentence id="39">
+Frolka_7
+we_10
+it_19
+<Sentence id="40">
+They_1
+<Sentence id="41">
+they_2
+<Sentence id="42">
+house_2
+fence_19
+<Sentence id="43">
+They_1
+they_11
+<Sentence id="44">
+banged_2
+they_14
+they_21
+<Sentence id="45">
+dragon_4
+<Sentence id="46">
+I_2
+he_9
+<Sentence id="47">
+Bah_2
+it_4
+who_10
+you_6
+<Sentence id="48">
+What_1
+<Sentence id="49">
+I_2
+<Sentence id="50">
+He_1
+<Sentence id="51">
+they_2
+they_7
+they_24
+<Sentence id="52">
+they_2
+they_8
+she_13
+<Sentence id="53">
+Frolka_1
+that_8
+<Sentence id="54">
+fear_4
+<Sentence id="55">
+God_4
+<Sentence id="56">
+<Sentence id="57">
+They_1
+they_6
+they_11
+<Sentence id="58">
+there_8
+pillars_11
+that_26
+Frolka_32
+companions_41
+lions_25
+<Sentence id="59">
+Frolka_1
+I_7
+<Sentence id="60">
+<Sentence id="61">
+they_2
+<Sentence id="62">
+man_4
+who_6
+he_19
+Whither_32
+<Sentence id="63">
+To_2
+<Sentence id="64">
+friends_5
+you_14
+dragon_24
+<Sentence id="65">
+He_1
+he_9
+<Sentence id="66">
+he_3
+we_8
+Frolka_16
+<Sentence id="67">
+I_16
+you_19
+<Sentence id="68">
+man_3
+Frolka_16
+<Sentence id="69">
+They_1
+man_8
+princess_16
+<Sentence id="70">
+she_4
+they_18
+they_22
+<Sentence id="71">
+They_1
+<Sentence id="72">
+princess_2
+<Sentence id="73">
+they_2
+they_10
+<Sentence id="74">
+daughter_4
+companions_14
+<Sentence id="75">
+dragon_4
+Frolka_12
+<Sentence id="76">
+they_2
+<Sentence id="77">
+they_4
+<Sentence id="78">
+they_2
+<Sentence id="79">
+king_2
+Now_17
+you_28
+<Sentence id="80">
+Frolka_1
+he_5
+soldier_13
+Erema_19
+<Sentence id="81">
+Frolka_1
+he_9
+cap_15
+silver_20
+<Sentence id="82">
+Frolka_1
+he_7
+money_12
+<Sentence id="83">
+nothing_4
+Frolka_11
+<Sentence id="84">
+all_3
+treasury_7
+<Sentence id="85">
+<Sentence id="86">
+<Sentence id="87">
+king_3
+Frolka_13
+<Sentence id="88">
+money_5
+Erema_7
+they_24
+<Sentence id="89">
+Frolka_2
+he_16
+<Sentence id="90">
+I_7
+I_17

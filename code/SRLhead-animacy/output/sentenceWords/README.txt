@@ -1,0 +1,2 @@
+1-15: extracted from tokens in Story Workbench format
+16-46: extracted using stanford sentence parser (source code in stanford core NLP folder called ExtractSentenceAfter15) and then annotator checked to make sure the sentences are correct

@@ -1,0 +1,293 @@
+<Sentence id="1">
+there_4
+serpent_10
+<Sentence id="2">
+He_1
+<Sentence id="3">
+gypsy_5
+<Sentence id="4">
+He_1
+he_9
+he_12
+<Sentence id="5">
+He_1
+man_10
+<Sentence id="6">
+<Sentence id="7">
+you_4
+<Sentence id="8">
+<Sentence id="9">
+you_4
+<Sentence id="10">
+You_2
+serpent_6
+<Sentence id="11">
+He_1
+<Sentence id="12">
+He_1
+he_10
+<Sentence id="13">
+he_4
+<Sentence id="14">
+He_1
+<Sentence id="15">
+he_4
+<Sentence id="16">
+you_4
+me_6
+<Sentence id="17">
+I_2
+this_9
+<Sentence id="18">
+they_3
+<Sentence id="19">
+windstorm_7
+<Sentence id="20">
+hut_2
+serpent_6
+<Sentence id="21">
+serpent_7
+I_10
+<Sentence id="22">
+I_1
+I_9
+<Sentence id="23">
+I_2
+<Sentence id="24">
+you_6
+<Sentence id="25">
+<Sentence id="26">
+I_6
+<Sentence id="27">
+You_2
+<Sentence id="28">
+You_1
+<Sentence id="29">
+you_5
+you_7
+<Sentence id="30">
+I_2
+<Sentence id="31">
+I_1
+you_4
+I_6
+<Sentence id="32">
+'s_6
+<Sentence id="33">
+<Sentence id="34">
+serpent_2
+<Sentence id="35">
+<Sentence id="36">
+I_1
+<Sentence id="37">
+<Sentence id="38">
+I_1
+<Sentence id="39">
+serpent_2
+it_18
+cloud_25
+<Sentence id="40">
+gypsy_9
+but_12
+water_20
+<Sentence id="41">
+I_3
+<Sentence id="42">
+chunk_4
+gypsy_13
+<Sentence id="43">
+Whey_1
+<Sentence id="44">
+you_5
+<Sentence id="45">
+who_2
+<Sentence id="46">
+hand_5
+<Sentence id="47">
+'s_2
+who_4
+<Sentence id="48">
+<Sentence id="49">
+serpent_2
+<Sentence id="50">
+You_2
+gypsy_20
+<Sentence id="51">
+you_4
+they_13
+<Sentence id="52">
+serpent_2
+<Sentence id="53">
+and_6
+<Sentence id="54">
+gypsy_2
+he_8
+he_10
+who_15
+That_25
+serpent_13
+<Sentence id="55">
+That_1
+<Sentence id="56">
+<Sentence id="57">
+eyes_6
+<Sentence id="58">
+Alright_2
+I_6
+<Sentence id="59">
+you_6
+<Sentence id="60">
+I_1
+<Sentence id="61">
+'s_5
+<Sentence id="62">
+You_1
+I_8
+<Sentence id="63">
+<Sentence id="64">
+serpent_9
+you_13
+herd_22
+<Sentence id="65">
+<Sentence id="66">
+gypsy_9
+<Sentence id="67">
+He_1
+<Sentence id="68">
+He_1
+<Sentence id="69">
+serpent_2
+<Sentence id="70">
+He_1
+what_9
+<Sentence id="71">
+What_2
+<Sentence id="72">
+<Sentence id="73">
+I_1
+<Sentence id="74">
+I_5
+we_14
+<Sentence id="75">
+<Sentence id="76">
+we_3
+<Sentence id="77">
+One_1
+<Sentence id="78">
+serpent_3
+<Sentence id="79">
+I_9
+<Sentence id="80">
+We_1
+<Sentence id="81">
+<Sentence id="82">
+They_1
+water_20
+<Sentence id="83">
+serpent_11
+you_18
+<Sentence id="84">
+We_1
+<Sentence id="85">
+gypsy_2
+the_4
+<Sentence id="86">
+he_3
+<Sentence id="87">
+He_1
+<Sentence id="88">
+serpent_2
+<Sentence id="89">
+He_1
+what_8
+himself_7
+<Sentence id="90">
+you_4
+<Sentence id="91">
+I_2
+you_25
+<Sentence id="92">
+<Sentence id="93">
+You_1
+<Sentence id="94">
+<Sentence id="95">
+serpent_2
+the_4
+<Sentence id="96">
+Brother_2
+he_5
+<Sentence id="97">
+<Sentence id="98">
+It_1
+<Sentence id="99">
+gypsy_2
+<Sentence id="100">
+He_1
+<Sentence id="101">
+serpent_2
+<Sentence id="102">
+He_1
+what_8
+himself_7
+<Sentence id="103">
+you_4
+<Sentence id="104">
+I_4
+you_29
+<Sentence id="105">
+<Sentence id="106">
+You_1
+serpent_11
+he_14
+<Sentence id="107">
+gypsy_2
+he_5
+<Sentence id="108">
+he_3
+<Sentence id="109">
+serpent_2
+<Sentence id="110">
+I_8
+<Sentence id="111">
+serpent_4
+you_30
+<Sentence id="112">
+I_4
+it_7
+<Sentence id="113">
+It_1
+you_5
+<Sentence id="114">
+<Sentence id="115">
+'s_2
+<Sentence id="116">
+you_3
+<Sentence id="117">
+I_4
+<Sentence id="118">
+serpent_5
+they_18
+<Sentence id="119">
+They_1
+children_10
+<Sentence id="120">
+they_4
+<Sentence id="121">
+they_7
+Father_11
+<Sentence id="122">
+He_1
+<Sentence id="123">
+serpent_2
+they_13
+<Sentence id="124">
+Those_2
+<Sentence id="125">
+I_1
+they_3
+<Sentence id="126">
+they_4
+<Sentence id="127">
+serpent_2
+<Sentence id="128">
+gypsy_2
