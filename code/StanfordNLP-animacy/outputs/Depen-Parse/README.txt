@@ -1,1 +1,0 @@
-Generates the Stanford NLP Pipeline
