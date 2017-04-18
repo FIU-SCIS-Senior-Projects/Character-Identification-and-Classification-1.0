@@ -1,2 +1,0 @@
-code/SRLhead-animacy.zip filter=lfs diff=lfs merge=lfs -text
-code/StanfordNLP-animacy.zip filter=lfs diff=lfs merge=lfs -text
