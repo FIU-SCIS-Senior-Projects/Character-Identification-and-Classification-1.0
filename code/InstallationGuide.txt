@@ -1,0 +1,11 @@
+Ps. Since my project is a research project with no UI, all that is needed is to import these projects in your Eclipse, and everything will work after that. 
+
+Installation Instructions:
+
+(No screenshots needed as installation is straightforward)
+1. In Eclipse IDE, go to File -> Import -> Existing Java Projects
+2. Import all 3 projects, one by one
+3. Run, by following directions in comments written in code. For example, the code will indicate different steps to follow and you simply have to comment out the correct lines and the code will run 
+
+
+

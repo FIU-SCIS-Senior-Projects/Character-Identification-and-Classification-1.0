@@ -1,0 +1,10 @@
+Ps. Since my project is a research project with no UI, there is very little explanation needed besides the final project report, which details the research done for all of this code. 
+
+User Manual:
+
+1. In order to extract semantic role labeler related features, please refer to SRL project. 
+
+2. In order to extract features that StanfordNLP can provide, such as sentence parser, please refer to the StanfordNLP project. 
+
+
+
